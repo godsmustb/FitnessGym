@@ -1,0 +1,17 @@
+{
+  "id": "seated_overhead_press", "name": "Seated overhead press", "duration": 3.0,
+  "handFrame": "chest", "footFrame": "world",
+  "view": {"yaw": -60, "pitch": 8},
+  "props": [
+    {"type": "box", "min": [-0.2, 0, -0.2], "max": [0.2, 0.45, 0.25], "color": "pad"},
+    {"type": "box", "min": [-0.2, 0.45, -0.27], "max": [0.2, 1.15, -0.17], "color": "pad"},
+    {"type": "box", "min": [-0.1, 0, -0.3], "max": [0.1, 0.45, -0.2], "color": "frame"}
+  ],
+  "notes": "Seated on an upright bench with back pad; press straight overhead.",
+  "keys": [
+    {"t": 0.0, "e": 0.15, "pelvis": [0, 0.53, 0.0], "pitch": -6, "lh": [0.24, -0.02, 0.1], "lep": [0.2, -1, 0.1], "lf": [0.15, 0.08, 0.4], "lkp": [0.1, 0, 1]},
+    {"t": 0.5, "e": 1.0, "lh": [0.14, 0.5, 0.04], "lep": [0.8, 0, -0.3]},
+    {"t": 0.6, "e": 0.9},
+    {"t": 0.9, "e": 0.35, "lh": [0.24, -0.02, 0.1], "lep": [0.2, -1, 0.1]}
+  ]
+}

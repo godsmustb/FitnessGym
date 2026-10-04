@@ -1,0 +1,15 @@
+{
+  "id": "wrist_curl", "name": "Wrist curl", "duration": 2.4,
+  "handFrame": "world", "footFrame": "world",
+  "view": {"yaw": -70, "pitch": 10},
+  "props": [
+    {"type": "box", "min": [-0.25, 0, -0.2], "max": [0.25, 0.45, 0.2], "color": "pad"}
+  ],
+  "notes": "Approximate: the rig has no wrist joint, so forearms rest on the thighs and the wrists lift a few cm.",
+  "keys": [
+    {"t": 0.0, "e": 0.2, "pelvis": [0, 0.53, 0.0], "pitch": 25, "spine": [10, 0, 0], "neck": -12, "lh": [0.2, 0.56, 0.55], "lep": [0.2, -0.2, -1], "lf": [0.15, 0.08, 0.42], "lkp": [0.1, 0, 1], "lfy": 6},
+    {"t": 0.4, "e": 1.0, "lh": [0.2, 0.66, 0.5]},
+    {"t": 0.5, "e": 0.9},
+    {"t": 0.92, "e": 0.25, "lh": [0.2, 0.56, 0.55]}
+  ]
+}

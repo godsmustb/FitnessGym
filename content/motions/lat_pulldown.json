@@ -1,0 +1,22 @@
+{"id": "lat_pulldown", "name": "Lat pulldown", "duration": 3.0, "handFrame": "chest", "footFrame": "world", "view": {"yaw": -75, "pitch": 8}, "notes": "Wide-grip bar pulled to the upper chest with a slight lean back; cable runs up to the overhead pulley.",
+  "props": [
+    {"type": "box", "min": [-0.24, 0.4, -0.22], "max": [0.24, 0.49, 0.36], "color": "pad"},
+    {"type": "box", "min": [-0.24, 0.49, -0.27], "max": [0.24, 1.18, -0.17], "color": "pad"},
+    {"type": "box", "min": [-0.06, 0, -0.1], "max": [0.06, 0.4, 0.25], "color": "frame"},
+    {"type": "box", "min": [-0.3, 0, -0.75], "max": [0.3, 0.05, 0.4], "color": "frame"},
+    {"type": "box", "min": [-0.24, 0.6, 0.18], "max": [0.24, 0.7, 0.4], "color": "pad"},
+    {"type": "box", "min": [-0.2, 0, -0.72], "max": [0.2, 1.6, -0.48], "color": "dark"},
+    {"type": "box", "min": [-0.2, 0, -0.74], "max": [-0.17, 1.75, -0.45999999999999996], "color": "frame"},
+    {"type": "box", "min": [0.17, 0, -0.74], "max": [0.2, 1.75, -0.45999999999999996], "color": "frame"},
+    {"type": "box", "min": [-0.2, 2.25, -0.75], "max": [0.2, 2.35, 0.2], "color": "frame"},
+    {"type": "box", "min": [-0.03, 0.0, -0.9], "max": [0.03, 2.35, -0.84], "color": "frame"},
+    {"type": "cable", "from": [0, 2.3, 0.05], "to": "handsMid"},
+    {"type": "bar", "to": "hands", "color": "steel", "radius": 0.015}
+  ],
+  "keys": [
+    {"t": 0, "e": 0.2, "pitch": -4, "pelvis": [0, 0.57, -0.02], "lf": [0.13, 0.08, 0.42], "lkp": [0.1, 0.2, 1], "lfy": 8, "lh": [0.4, 0.52, 0.1], "lep": [0.8, -0.3, -0.5]},
+    {"t": 0.42, "e": 1.0, "pitch": -14, "lh": [0.3, -0.1, 0.2], "lep": [0.4, -1, -0.7]},
+    {"t": 0.52, "e": 0.95},
+    {"t": 0.92, "e": 0.3, "pitch": -4, "lh": [0.4, 0.52, 0.1], "lep": [0.8, -0.3, -0.5]}
+  ]
+}

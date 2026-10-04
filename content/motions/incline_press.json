@@ -1,0 +1,28 @@
+{
+  "id": "incline_press", "name": "Incline press", "duration": 3.0,
+  "handFrame": "chest", "footFrame": "world",
+  "view": {"yaw": -75, "pitch": 10},
+  "props": [
+    {"type": "box", "min": [-0.2, 0, -0.2], "max": [0.2, 0.43, 0.25], "color": "pad"},
+    {"type": "box", "min": [-0.18, 0.36, -0.15], "max": [0.18, 0.48, -0.03], "color": "pad"},
+    {"type": "box", "min": [-0.18, 0.402, -0.192], "max": [0.18, 0.522, -0.072], "color": "pad"},
+    {"type": "box", "min": [-0.18, 0.445, -0.235], "max": [0.18, 0.565, -0.115], "color": "pad"},
+    {"type": "box", "min": [-0.18, 0.487, -0.277], "max": [0.18, 0.607, -0.157], "color": "pad"},
+    {"type": "box", "min": [-0.18, 0.53, -0.32], "max": [0.18, 0.65, -0.2], "color": "pad"},
+    {"type": "box", "min": [-0.18, 0.572, -0.362], "max": [0.18, 0.692, -0.242], "color": "pad"},
+    {"type": "box", "min": [-0.18, 0.615, -0.405], "max": [0.18, 0.735, -0.285], "color": "pad"},
+    {"type": "box", "min": [-0.18, 0.657, -0.447], "max": [0.18, 0.777, -0.327], "color": "pad"},
+    {"type": "box", "min": [-0.18, 0.699, -0.489], "max": [0.18, 0.819, -0.369], "color": "pad"},
+    {"type": "box", "min": [-0.18, 0.742, -0.532], "max": [0.18, 0.862, -0.412], "color": "pad"},
+    {"type": "box", "min": [-0.18, 0.784, -0.574], "max": [0.18, 0.904, -0.454], "color": "pad"},
+    {"type": "box", "min": [-0.18, 0.827, -0.617], "max": [0.18, 0.947, -0.497], "color": "pad"}
+  ],
+  "notes": "Back pad at ~45 deg (drawn as a stepped pad, the engine only has axis-aligned boxes); press along the chest normal.",
+  "keys": [
+    {"t": 0.0, "e": 0.2, "pelvis": [0, 0.53, 0.0], "pitch": -45, "spine": [0, 0, 0], "neck": 0, "lh": [0.17, -0.1, 0.54], "lep": [1, 0, -0.6], "lf": [0.25, 0.08, 0.45], "lkp": [0.4, 0, 1], "lfy": 15, "lfa": 0},
+    {"t": 0.45, "e": 0.55, "lh": [0.3, -0.12, 0.14]},
+    {"t": 0.55, "e": 0.6},
+    {"t": 0.8, "e": 1.0, "lh": [0.17, -0.1, 0.54]},
+    {"t": 0.92, "e": 0.8}
+  ]
+}

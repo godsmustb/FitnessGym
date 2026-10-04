@@ -1,0 +1,17 @@
+{
+  "id": "one_arm_row", "name": "One-arm dumbbell row", "duration": 3.0,
+  "handFrame": "world", "footFrame": "world",
+  "view": {"yaw": -80, "pitch": 8},
+  "props": [
+    {"type": "box", "min": [0.0, 0.37, -0.5], "max": [0.3, 0.45, 0.55], "color": "pad"},
+    {"type": "box", "min": [0.05, 0, -0.45], "max": [0.25, 0.37, -0.38], "color": "frame"},
+    {"type": "box", "min": [0.05, 0, 0.43000000000000005], "max": [0.25, 0.37, 0.5], "color": "frame"}
+  ],
+  "notes": "Left knee and hand on the bench (far side), right arm rows the dumbbell to the hip.",
+  "keys": [
+    {"t": 0.0, "e": 0.2, "pelvis": [0, 0.92, -0.2], "pitch": 78, "spine": [0, 0, 0], "neck": -30, "lh": [0.15, 0.5, 0.36], "rh": [-0.2, 0.5, 0.32], "lep": [0.2, -0.2, -1], "rep": [-0.3, -0.1, -1], "lf": [0.12, 0.52, -0.4], "rf": [-0.3, 0.08, -0.4], "lfa": -30, "rfa": 0, "lfy": 0, "rfy": 6, "lkp": [0.1, 0, 1], "rkp": [-0.1, 0, 1], "el": 0.1, "er": 0.2},
+    {"t": 0.4, "rh": [-0.2, 0.95, 0.12], "er": 1.0, "el": 0.1},
+    {"t": 0.5, "er": 0.9},
+    {"t": 0.92, "rh": [-0.2, 0.5, 0.32], "er": 0.3, "el": 0.1}
+  ]
+}

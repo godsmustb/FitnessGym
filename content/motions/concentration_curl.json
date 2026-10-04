@@ -1,0 +1,15 @@
+{
+  "id": "concentration_curl", "name": "Concentration curl", "duration": 3.0,
+  "handFrame": "world", "footFrame": "world",
+  "view": {"yaw": -75, "pitch": 8},
+  "props": [
+    {"type": "box", "min": [-0.25, 0, -0.2], "max": [0.25, 0.45, 0.2], "color": "pad"}
+  ],
+  "notes": "Seated on a bench, torso bent forward; right elbow braced on the inner right thigh, right arm curls (er drives the glow). Left hand rests on the left thigh.",
+  "keys": [
+    {"t": 0.0, "e": 0.15, "pelvis": [0, 0.53, 0.0], "pitch": 30, "spine": [40, 0, 0], "neck": -30, "lh": [0.2, 0.56, 0.32], "rh": [-0.17, 0.28, 0.36], "lep": [0.3, -0.3, 0.9], "rep": [-0.1, -0.34, 0.94], "lf": [0.4, 0.08, 0.35], "rf": [-0.4, 0.08, 0.35], "lkp": [0.4, 0.5, 0.9], "rkp": [-0.4, 0.5, 0.9], "lfy": 15, "rfy": 15, "el": 0.1, "er": 0.15},
+    {"t": 0.4, "rh": [-0.16, 0.66, 0.5], "er": 1.0, "el": 0.1},
+    {"t": 0.5, "er": 0.9},
+    {"t": 0.92, "rh": [-0.17, 0.28, 0.36], "er": 0.25, "el": 0.1}
+  ]
+}

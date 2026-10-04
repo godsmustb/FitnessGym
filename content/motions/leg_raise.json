@@ -1,0 +1,19 @@
+{
+  "id": "leg_raise", "name": "Lying leg raise", "duration": 3.0,
+  "handFrame": "chest", "footFrame": "pelvis",
+  "view": {"yaw": -85, "pitch": 10},
+  "props": [
+    {"type": "mat", "min": [-0.4, -0.005, -1.1], "max": [0.4, 0.008, 1.0]}
+  ],
+  "notes": "Supine, legs straight, hands by the hips pressing down; lift the legs to vertical (via an arc, so knees stay straight), lower under control.",
+  "keys": [
+    {"t": 0.0, "e": 0.15, "pelvis": [0, 0.12, 0], "pitch": -90, "spine": [0, 0, 0], "neck": -6, "lh": [0.24, -0.5, -0.04], "lep": [0.3, -0.3, 1], "lf": [0.1, -0.958, 0.063], "lkp": [0.1, 0.3, 1], "lfy": 0, "lfa": 0},
+    {"t": 0.12, "e": 1.0, "lf": [0.1, -0.839, 0.45]},
+    {"t": 0.26, "e": 0.9, "lf": [0.1, -0.483, 0.795]},
+    {"t": 0.4, "e": 0.8, "lf": [0.1, -0.091, 0.899]},
+    {"t": 0.5, "e": 0.6},
+    {"t": 0.62, "e": 0.5, "lf": [0.1, -0.483, 0.795]},
+    {"t": 0.78, "e": 0.45, "lf": [0.1, -0.839, 0.45]},
+    {"t": 0.92, "e": 0.25, "lf": [0.1, -0.958, 0.063]}
+  ]
+}

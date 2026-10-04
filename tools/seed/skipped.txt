@@ -1,0 +1,46 @@
+# Exercises from free-exercise-db that were not imported
+
+## Skipped because no motion template fits, needs missing equipment, or replaced by an authored entry
+
+Bicycling_Stationary | Bicycling, Stationary | replaced by authored cardio machine entry
+Body_Tricep_Press | Body Tricep Press | needs a rack with a barbell
+Bosu_Ball_Cable_Crunch_With_Side_Bends | Bosu Ball Cable Crunch With Side Bends | needs a Bosu ball
+Cable_Internal_Rotation | Cable Internal Rotation | rotator-cuff rotation, no motion template fits
+Crunch_-_Legs_On_Exercise_Ball | Crunch - Legs On Exercise Ball | needs an exercise ball
+Dumbbell_Clean | Dumbbell Clean | explosive clean, no motion template fits
+Dumbbell_Seated_Box_Jump | Dumbbell Seated Box Jump | needs a box and an awkward seated start
+Elliptical_Trainer | Elliptical Trainer | replaced by authored cardio machine entry
+External_Rotation | External Rotation | rotator-cuff rotation, no motion template fits
+External_Rotation_with_Cable | External Rotation with Cable | rotator-cuff rotation, no motion template fits
+Floor_Glute-Ham_Raise | Floor Glute-Ham Raise | needs a partner or anchored feet
+Freehand_Jump_Squat | Freehand Jump Squat | duplicate of authored Jump Squats
+Handstand_Push-Ups | Handstand Push-Ups | handstand, no template fits and expert-only
+Iron_Cross | Iron Cross | source has no instructions
+Isometric_Chest_Squeezes | Isometric Chest Squeezes | isometric hold, no motion template fits
+Isometric_Neck_Exercise_-_Front_And_Back | Isometric Neck Exercise - Front And Back | isometric neck hold, no motion template fits
+Isometric_Neck_Exercise_-_Sides | Isometric Neck Exercise - Sides | isometric neck hold, no motion template fits
+Isometric_Wipers | Isometric Wipers | isometric plank sway, no motion template fits
+Jogging_Treadmill | Jogging, Treadmill | replaced by authored cardio machine entry
+Kneeling_Arm_Drill | Kneeling Arm Drill | sprint technique drill, no motion template fits
+Linear_3-Part_Start_Technique | Linear 3-Part Start Technique | sprint technique drill, no motion template fits
+Linear_Acceleration_Wall_Drill | Linear Acceleration Wall Drill | sprint technique drill, no motion template fits
+Moving_Claw_Series | Moving Claw Series | sprint technique drill, no motion template fits
+Natural_Glute_Ham_Raise | Natural Glute Ham Raise | needs a partner or anchored feet
+Pallof_Press | Pallof Press | anti-rotation press, no motion template fits
+Pallof_Press_With_Rotation | Pallof Press With Rotation | anti-rotation press, no motion template fits
+Power_Partials | Power Partials | unclear source instructions, no template fits
+Prone_Manual_Hamstring | Prone Manual Hamstring | needs a partner
+Recumbent_Bike | Recumbent Bike | replaced by authored cardio machine entry
+Rowing_Stationary | Rowing, Stationary | replaced by authored cardio machine entry
+Running_Treadmill | Running, Treadmill | replaced by authored cardio machine entry
+Side_Jackknife | Side Jackknife | source has no instructions
+Smith_Machine_Hang_Power_Clean | Smith Machine Hang Power Clean | explosive clean, no motion template fits
+Stairmaster | Stairmaster | replaced by authored cardio machine entry
+Step_Mill | Step Mill | replaced by authored cardio machine entry
+Trail_Running_Walking | Trail Running/Walking | replaced by authored cardio entries
+Walking_Treadmill | Walking, Treadmill | replaced by authored cardio machine entry
+
+## Bulk filters (counts)
+
+ 379 | equipment not available (barbell, EZ bar, kettlebell, bands, balls, foam roll, sled, other, etc.)
+ 123 | stretching (skipped for now)

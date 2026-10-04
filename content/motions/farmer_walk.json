@@ -1,0 +1,12 @@
+{
+  "id": "farmer_walk", "name": "Farmer's walk", "duration": 1.8,
+  "handFrame": "chest", "footFrame": "world",
+  "view": {"yaw": -75, "pitch": 8},
+  "notes": "Walking in place (feet sweep back under the body), dumbbells held at the sides.",
+  "keys": [
+    {"t": 0.0, "e": 0.7, "pelvis": [0, 0.94, 0], "pitch": 0, "spine": [0, 0, 0], "neck": 0, "lh": [0.22, -0.57, 0.02], "lep": [0.1, -1, -0.1], "lf": [0.1, 0.08, 0.24], "rf": [-0.1, 0.12, -0.24], "lfa": 0, "rfa": -30, "lfy": 6, "rfy": 6, "lkp": [0.05, 0, 1], "rkp": [-0.05, 0, 1]},
+    {"t": 0.25, "e": 0.75, "pelvis": [0, 0.97, 0], "lf": [0.1, 0.08, 0.0], "rf": [-0.1, 0.24, 0.0], "lfa": 0, "rfa": -5},
+    {"t": 0.5, "e": 0.7, "pelvis": [0, 0.94, 0], "lf": [0.1, 0.12, -0.24], "rf": [-0.1, 0.08, 0.24], "lfa": -30, "rfa": 0},
+    {"t": 0.75, "e": 0.75, "pelvis": [0, 0.97, 0], "lf": [0.1, 0.24, 0.0], "rf": [-0.1, 0.08, 0.0], "lfa": -5, "rfa": 0}
+  ]
+}

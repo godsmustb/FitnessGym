@@ -1,0 +1,12 @@
+{"id": "teaser", "name": "Teaser", "duration": 3.6, "handFrame": "chest", "footFrame": "world", "view": {"yaw": -85, "pitch": 6}, "notes": "Rise from lying into a V-sit balanced on the sit bones: straight legs at ~45 deg, torso at ~60 deg, arms parallel to the legs; hold, then roll down with control. Feet are placed in the world frame so the legs stay put as the torso rises.",
+  "props": [
+    {"type": "mat", "min": [-0.35, -0.005, -1.15], "max": [0.35, 0.012, 1.2]}
+  ],
+  "keys": [
+    {"t": 0, "e": 0.4, "pelvis": [0, 0.12, 0], "pitch": -90, "lf": [0.09, 0.72, 0.66], "lfa": -25, "lkp": [0.0, 1, 0.2], "lh": [0.15, 0.0, 0.55], "lep": [0.3, -0.3, -1]},
+    {"t": 0.3, "e": 0.8, "pelvis": [0, 0.13, 0], "pitch": -72, "spine": [18, 0, 0], "neck": 18, "lh": [0.15, 0.05, 0.55]},
+    {"t": 0.52, "e": 1.0, "pelvis": [0, 0.15, 0], "pitch": -32, "spine": [0, 0, 0], "neck": 0, "lh": [0.15, 0.08, 0.55]},
+    {"t": 0.7, "e": 0.9},
+    {"t": 0.9, "e": 0.5, "pelvis": [0, 0.13, 0], "pitch": -68, "spine": [16, 0, 0], "neck": 12, "lh": [0.15, 0.05, 0.55]}
+  ]
+}

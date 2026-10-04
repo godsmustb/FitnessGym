@@ -1,0 +1,24 @@
+{"id": "rowing_machine", "name": "Rowing machine", "duration": 2.4, "handFrame": "world", "footFrame": "world", "view": {"yaw": -85, "pitch": 6}, "notes": "Catch (compressed, arms reaching) -> drive (legs, then lean back, then arms) -> finish (handle at lower ribs) -> recovery (arms, body, then knees). Seat is drawn as a long pad because the sliding seat can't move; handle and cable follow the hands.",
+  "props": [
+    {"type": "box", "min": [-0.04, 0.18, -0.9], "max": [0.04, 0.24, 0.85], "color": "frame"},
+    {"type": "box", "min": [-0.3, 0, -0.95], "max": [0.3, 0.04, -0.85], "color": "frame"},
+    {"type": "box", "min": [-0.3, 0, 0.8], "max": [0.3, 0.04, 0.9], "color": "frame"},
+    {"type": "box", "min": [-0.12, 0.26, -0.45], "max": [0.12, 0.31, 0.1], "color": "pad"},
+    {"type": "box", "min": [-0.28, 0.15, 0.58], "max": [-0.04, 0.45, 0.64], "color": "steel"},
+    {"type": "box", "min": [0.04, 0.15, 0.58], "max": [0.28, 0.45, 0.64], "color": "steel"},
+    {"type": "disc", "at": [0, 0.38, 0.95], "axis": [1, 0, 0], "radius": 0.3, "color": "dark"},
+    {"type": "box", "min": [-0.1, 0.1, 0.85], "max": [0.1, 0.4, 1.1], "color": "frame"},
+    {"type": "cable", "from": [0, 0.4, 0.95], "to": "handsMid"},
+    {"type": "bar", "to": "hands", "color": "steel", "radius": 0.015}
+  ],
+  "keys": [
+    {"t": 0.0, "e": 0.3, "pelvis": [0, 0.4, 0.0], "pitch": 28, "spine": [0, 0, 0], "neck": -5, "lh": [0.09, 0.45, 0.6], "lf": [0.12, 0.3, 0.52], "lkp": [0.1, 1, 0.3], "lfa": 40, "lfy": 0, "lep": [0.5, -0.3, -1]},
+    {"t": 0.12, "e": 0.9, "pelvis": [0, 0.4, -0.15], "pitch": 18, "spine": [0, 0, 0], "neck": 0, "lh": [0.09, 0.45, 0.58]},
+    {"t": 0.22, "e": 1.0, "pelvis": [0, 0.4, -0.3], "pitch": 0, "spine": [0, 0, 0], "neck": 0, "lh": [0.09, 0.48, 0.32]},
+    {"t": 0.32, "e": 0.9, "pelvis": [0, 0.4, -0.34], "pitch": -14, "spine": [0, 0, 0], "neck": 5, "lh": [0.09, 0.75, -0.18]},
+    {"t": 0.42, "e": 0.6, "pelvis": [0, 0.4, -0.34], "pitch": -14, "spine": [0, 0, 0], "neck": 5, "lh": [0.09, 0.75, -0.18]},
+    {"t": 0.55, "e": 0.4, "pelvis": [0, 0.4, -0.32], "pitch": -8, "spine": [0, 0, 0], "neck": 0, "lh": [0.09, 0.52, 0.25]},
+    {"t": 0.7, "e": 0.35, "pelvis": [0, 0.4, -0.2], "pitch": 10, "spine": [0, 0, 0], "neck": 0, "lh": [0.09, 0.45, 0.5]},
+    {"t": 0.85, "e": 0.3, "pelvis": [0, 0.4, -0.06], "pitch": 26, "spine": [0, 0, 0], "neck": -3, "lh": [0.09, 0.45, 0.6]}
+  ]
+}

@@ -1,0 +1,15 @@
+{"id": "triceps_pushdown", "name": "Triceps pushdown", "duration": 2.6, "handFrame": "chest", "footFrame": "world", "view": {"yaw": -85, "pitch": 6}, "notes": "Elbows pinned to the sides; forearms push the bar down to full extension.",
+  "props": [
+    {"type": "box", "min": [-0.2, 0, 0.55], "max": [0.2, 2.2, 0.7], "color": "dark"},
+    {"type": "box", "min": [-0.3, 0, 0.45], "max": [0.3, 0.05, 0.8], "color": "frame"},
+    {"type": "box", "min": [-0.2, 2.1, 0.3], "max": [0.2, 2.2, 0.7], "color": "frame"},
+    {"type": "cable", "from": [0, 2.1, 0.45], "to": "handsMid"},
+    {"type": "bar", "to": "hands", "color": "steel", "radius": 0.015}
+  ],
+  "keys": [
+    {"t": 0, "e": 0.25, "pelvis": [0, 0.96, 0], "pitch": 8, "lf": [0.12, 0.08, 0.0], "lfy": 8, "lh": [0.17, -0.3, 0.3], "lep": [0.1, -0.3, -1]},
+    {"t": 0.4, "e": 1.0, "lh": [0.19, -0.57, 0.06]},
+    {"t": 0.52, "e": 0.95},
+    {"t": 0.92, "e": 0.3, "lh": [0.17, -0.3, 0.3]}
+  ]
+}

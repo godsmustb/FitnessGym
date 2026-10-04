@@ -1,0 +1,16 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+.idea/
+*.iml
+.cxx/
+.externalNativeBuild/
+captures/
+*.apk
+*.aab
+.DS_Store
+companion/.venv/
+companion/cache/
+tools/seed/free-exercise-db.json
+preview-out/

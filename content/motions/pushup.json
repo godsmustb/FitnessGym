@@ -1,0 +1,15 @@
+{
+  "id": "pushup", "name": "Push-up", "duration": 2.8,
+  "handFrame": "world", "footFrame": "world",
+  "view": { "yaw": -60, "pitch": 14 },
+  "props": [ { "type": "mat", "min": [-0.4, -0.005, -1.1], "max": [0.4, 0.008, 0.8] } ],
+  "notes": "Prone: pitch ~71 at the top (body inclined from the toes), ~88 at the bottom. Hands fixed on the floor (world frame); elbows point back toward the feet and ~45 deg out.",
+  "keys": [
+    { "t": 0.0, "e": 0.2, "pelvis": [0, 0.454, -0.01], "pitch": 71, "spine": [0, 0, 0], "neck": 0,
+      "lh": [0.22, 0.06, 0.45], "lf": [0.1, 0.17, -0.85], "lfa": -75, "lfy": 0,
+      "lep": [0.7, -1.0, 0.0] },
+    { "t": 0.45, "e": 0.55, "pelvis": [0, 0.205, 0.04], "pitch": 87 },
+    { "t": 0.55, "e": 1.0 },
+    { "t": 0.85, "e": 0.8, "pelvis": [0, 0.39, 0.0], "pitch": 75 }
+  ]
+}

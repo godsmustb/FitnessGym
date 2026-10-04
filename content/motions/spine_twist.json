@@ -1,0 +1,15 @@
+{"id": "spine_twist", "name": "Spine twist", "duration": 2.4, "handFrame": "chest", "footFrame": "world", "view": {"yaw": -30, "pitch": 6}, "notes": "Sit tall with legs together and flexed feet, arms out at shoulder height: rotate the torso ~56 deg to each side in two small pulses, keeping the hips square.",
+  "props": [
+    {"type": "mat", "min": [-0.45, -0.005, -0.6], "max": [0.45, 0.012, 1.2]}
+  ],
+  "keys": [
+    {"t": 0, "e": 0.3, "spine": [0, 0, 0], "pelvis": [0, 0.13, 0], "pitch": 0, "lf": [0.06, 0.1, 0.88], "lfa": 55, "lkp": [0.0, 1, 0], "lh": [0.74, -0.04, 0.0], "lep": [0.5, 0, -0.3], "neck": 0},
+    {"t": 0.18, "e": 0.8, "spine": [0, 0, 40]},
+    {"t": 0.3, "e": 1.0, "spine": [0, 0, 56]},
+    {"t": 0.42, "e": 0.8, "spine": [0, 0, 42]},
+    {"t": 0.52, "e": 0.3, "spine": [0, 0, 0]},
+    {"t": 0.68, "e": 0.8, "spine": [0, 0, -40]},
+    {"t": 0.8, "e": 1.0, "spine": [0, 0, -56]},
+    {"t": 0.92, "e": 0.8, "spine": [0, 0, -42]}
+  ]
+}

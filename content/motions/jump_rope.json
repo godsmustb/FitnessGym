@@ -1,0 +1,12 @@
+{"id": "jump_rope", "name": "Jump rope", "duration": 0.6, "handFrame": "chest", "footFrame": "world", "view": {"yaw": -35, "pitch": 6}, "notes": "Small two-foot hops, ~10 cm; hands stay low at hip height beside the body with elbows tucked; wrists circle slightly. Rope drawn by the exercise implement.",
+  "props": [
+
+  ],
+  "keys": [
+    {"t": 0, "e": 0.6, "pelvis": [0, 0.96, 0], "pitch": 0, "lf": [0.07, 0.08, 0.0], "lkp": [0.05, 0, 1], "lfa": -5, "lfy": 5, "lh": [0.3, -0.46, 0.2], "lep": [0.4, -1, -0.5]},
+    {"t": 0.15, "e": 0.75, "pelvis": [0, 1.02, 0], "lf": [0.07, 0.17, -0.03], "lfa": -30, "lh": [0.32, -0.4, 0.2]},
+    {"t": 0.35, "e": 0.75, "pelvis": [0, 1.03, 0], "lf": [0.07, 0.16, -0.03], "lfa": -30, "lh": [0.3, -0.36, 0.18]},
+    {"t": 0.5, "e": 0.65, "pelvis": [0, 0.95, 0], "lf": [0.07, 0.08, 0.0], "lfa": -5, "lh": [0.28, -0.43, 0.22]},
+    {"t": 0.8, "e": 0.65, "pelvis": [0, 0.98, 0], "lf": [0.07, 0.1, 0.0], "lh": [0.3, -0.48, 0.2]}
+  ]
+}

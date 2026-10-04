@@ -1,0 +1,19 @@
+{
+  "id": "pullover", "name": "Pullover", "duration": 3.6,
+  "handFrame": "chest", "footFrame": "world",
+  "view": {"yaw": -75, "pitch": 10},
+  "props": [
+    {"type": "box", "min": [-0.17, 0.37, -0.85], "max": [0.17, 0.45, 0.35], "color": "pad"},
+    {"type": "box", "min": [-0.12000000000000001, 0, -0.7999999999999999], "max": [0.12000000000000001, 0.37, -0.73], "color": "frame"},
+    {"type": "box", "min": [-0.12000000000000001, 0, 0.22999999999999998], "max": [0.12000000000000001, 0.37, 0.3], "color": "frame"}
+  ],
+  "notes": "Supine on a bench, arms nearly straight; the weight arcs from over the chest back behind the head and returns (arc keys keep it clear of the face).",
+  "keys": [
+    {"t": 0.0, "e": 0.3, "pelvis": [0, 0.57, 0.0], "pitch": -90, "spine": [0, 0, 0], "neck": 0, "lh": [0.1, -0.04, 0.56], "lep": [0.4, 0.4, -1], "lf": [0.28, 0.08, 0.4], "lkp": [0.4, 0, 1], "lfy": 15, "lfa": 0},
+    {"t": 0.15, "e": 0.5, "lh": [0.1, 0.356, 0.396]},
+    {"t": 0.38, "e": 0.6, "lh": [0.1, 0.511, -0.097]},
+    {"t": 0.5, "e": 0.8, "lh": [0.1, 0.501, -0.145]},
+    {"t": 0.68, "e": 1.0, "lh": [0.1, 0.356, 0.396]},
+    {"t": 0.85, "e": 0.7, "lh": [0.1, 0.009, 0.558]}
+  ]
+}

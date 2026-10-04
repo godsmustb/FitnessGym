@@ -1,0 +1,17 @@
+{
+  "id": "bird_dog", "name": "Bird dog", "duration": 6.0,
+  "handFrame": "world", "footFrame": "world",
+  "view": {"yaw": -75, "pitch": 12},
+  "props": [
+    {"type": "mat", "min": [-0.4, -0.005, -1.0], "max": [0.4, 0.008, 1.3]}
+  ],
+  "notes": "Quadruped: right arm + left leg extend together, then left arm + right leg. Hands and knees fixed in world frame.",
+  "keys": [
+    {"t": 0.0, "e": 0.15, "pelvis": [0, 0.55, 0.0], "pitch": 90, "spine": [0, 0, 0], "neck": -20, "lh": [0.2, 0.05, 0.52], "rh": [-0.2, 0.05, 0.52], "lf": [0.1, 0.08, -0.47], "rf": [-0.1, 0.08, -0.47], "lfa": -70, "rfa": -70, "lfy": 0, "rfy": 0, "lep": [0.6, -1, 0], "rep": [-0.6, -1, 0], "lkp": [0.15, 0, 1], "rkp": [-0.15, 0, 1]},
+    {"t": 0.18, "er": 1.0, "el": 0.8, "rh": [-0.19, 0.55, 1.06], "lf": [0.09, 0.58, -0.9], "lfa": -20},
+    {"t": 0.42, "er": 1.0, "el": 0.8},
+    {"t": 0.5, "e": 0.15, "rh": [-0.2, 0.05, 0.52], "lf": [0.1, 0.08, -0.47], "lfa": -70},
+    {"t": 0.68, "er": 0.8, "el": 1.0, "lh": [0.19, 0.55, 1.06], "rf": [-0.09, 0.58, -0.9], "rfa": -20},
+    {"t": 0.92, "er": 0.8, "el": 1.0}
+  ]
+}

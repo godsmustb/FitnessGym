@@ -1,0 +1,13 @@
+{"id": "cable_kickback", "name": "Cable kickback", "duration": 2.4, "handFrame": "world", "footFrame": "world", "view": {"yaw": -90, "pitch": 8}, "notes": "Right leg works (ankle cuff on the low pulley); hands hold the tower, torso leaned ~35 deg. Leg extends back and up with a straight knee.",
+  "props": [
+    {"type": "box", "min": [-0.3, 0, 0.8], "max": [0.3, 1.9, 0.92], "color": "dark"},
+    {"type": "box", "min": [-0.3, 0, 0.7], "max": [0.3, 0.05, 1.1], "color": "frame"},
+    {"type": "cable", "from": [-0.1, 0.2, 0.85], "to": "rf"}
+  ],
+  "keys": [
+    {"t": 0, "e": 0.2, "pelvis": [0, 0.95, 0.0], "pitch": 35, "lf": [0.1, 0.08, 0.05], "lkp": [0.1, 0, 1], "lh": [0.2, 1.05, 0.74], "lep": [0.4, -1, -0.3], "rkp": [-0.1, 0, 1], "rfy": 0, "rf": [-0.1, 0.2, 0.3], "rfa": 0},
+    {"t": 0.4, "e": 1.0, "rf": [-0.1, 0.38, -0.68], "rfa": -30},
+    {"t": 0.52, "e": 0.95},
+    {"t": 0.92, "e": 0.3, "rf": [-0.1, 0.2, 0.3], "rfa": 0}
+  ]
+}

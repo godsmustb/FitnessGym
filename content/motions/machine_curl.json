@@ -1,0 +1,21 @@
+{"id": "machine_curl", "name": "Preacher curl machine", "duration": 3.0, "handFrame": "chest", "footFrame": "world", "view": {"yaw": -75, "pitch": 8}, "notes": "Upper arms rest on the angled pad (approximated by two boxes); only the forearm curls.",
+  "props": [
+    {"type": "box", "min": [-0.24, 0.4, -0.22], "max": [0.24, 0.49, 0.36], "color": "pad"},
+    {"type": "box", "min": [-0.24, 0.49, -0.27], "max": [0.24, 1.18, -0.17], "color": "pad"},
+    {"type": "box", "min": [-0.06, 0, -0.1], "max": [0.06, 0.4, 0.25], "color": "frame"},
+    {"type": "box", "min": [-0.3, 0, -0.75], "max": [0.3, 0.05, 0.4], "color": "frame"},
+    {"type": "box", "min": [-0.3, 0.7, 0.06], "max": [0.3, 0.77, 0.24], "color": "pad"},
+    {"type": "box", "min": [-0.3, 0.62, 0.22], "max": [0.3, 0.69, 0.42], "color": "pad"},
+    {"type": "box", "min": [-0.3, 0.4, 0.2], "max": [0.3, 0.64, 0.4], "color": "frame"},
+    {"type": "box", "min": [-0.06, 0.5, 0.0], "max": [0.06, 0.8, 0.2], "color": "frame"},
+    {"type": "box", "min": [-0.2, 0, -0.72], "max": [0.2, 1.4, -0.48], "color": "dark"},
+    {"type": "box", "min": [-0.2, 0, -0.74], "max": [-0.17, 1.5499999999999998, -0.45999999999999996], "color": "frame"},
+    {"type": "box", "min": [0.17, 0, -0.74], "max": [0.2, 1.5499999999999998, -0.45999999999999996], "color": "frame"}
+  ],
+  "keys": [
+    {"t": 0, "e": 0.2, "pelvis": [0, 0.57, -0.02], "pitch": -5, "lf": [0.13, 0.08, 0.42], "lkp": [0.1, 0.2, 1], "lfy": 8, "lh": [0.18, -0.46, 0.34], "lep": [0.1, -0.7, 0.7]},
+    {"t": 0.42, "e": 1.0, "lh": [0.18, -0.04, 0.24]},
+    {"t": 0.52, "e": 0.9},
+    {"t": 0.92, "e": 0.3, "lh": [0.18, -0.46, 0.34]}
+  ]
+}

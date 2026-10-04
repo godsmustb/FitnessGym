@@ -1,0 +1,3492 @@
+[
+ {
+  "id": "pilates-hundred",
+  "name": "Pilates Hundred",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "primary": [
+   "abdominals"
+  ],
+  "secondary": [
+   "hip_flexors",
+   "shoulders"
+  ],
+  "motion": "hundred",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Lie on your back, knees in tabletop or legs extended at a diagonal, and curl your head and shoulders off the mat.",
+   "Reach your arms long by your hips, palms down, a few inches off the mat.",
+   "Pump the arms in small, quick beats while you inhale for five counts and exhale for five.",
+   "Complete ten breath cycles for a hundred pumps."
+  ],
+  "cues": [
+   "Curl the ribs toward the hips and hold",
+   "Pump from the shoulder with long arms",
+   "Breathe out as if blowing out candles"
+  ],
+  "mistakes": [
+   "Letting the neck strain forward",
+   "Arching the lower back as the legs lower",
+   "Holding the breath"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-roll-up",
+  "name": "Pilates Roll-Up",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "primary": [
+   "abdominals"
+  ],
+  "secondary": [
+   "hip_flexors",
+   "quadriceps"
+  ],
+  "motion": "roll_up",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Lie flat with legs long and arms overhead.",
+   "Inhale to lift the arms to the ceiling, then exhale as you nod the chin and peel one vertebra at a time off the mat.",
+   "Reach over your legs in a deep scoop, then roll back down slowly, one bone at a time."
+  ],
+  "cues": [
+   "Peel up like unzipping the spine",
+   "Scoop the belly deep toward the spine",
+   "Press the heels long into the floor"
+  ],
+  "mistakes": [
+   "Throwing the arms to build momentum",
+   "Letting the feet pop off the floor",
+   "Collapsing on the way down"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-single-leg-stretch",
+  "name": "Pilates Single Leg Stretch",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "primary": [
+   "abdominals"
+  ],
+  "secondary": [
+   "hip_flexors",
+   "obliques"
+  ],
+  "motion": "single_leg_stretch",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Lie on your back, curl the head and shoulders up and draw both knees in.",
+   "Extend one leg long at a diagonal while the other knee hugs in, one hand on the shin and one on the knee.",
+   "Switch legs in a smooth rhythm, keeping the upper body curled."
+  ],
+  "cues": [
+   "Keep the ribs curled forward",
+   "Reach the straight leg long and low",
+   "Switch legs like a smooth pendulum"
+  ],
+  "mistakes": [
+   "Pulling on the neck",
+   "Letting the pelvis rock",
+   "Dropping the extended leg too low for your back"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-double-leg-stretch",
+  "name": "Pilates Double Leg Stretch",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "primary": [
+   "abdominals"
+  ],
+  "secondary": [
+   "hip_flexors",
+   "shoulders"
+  ],
+  "motion": "double_leg_stretch",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Lie on your back with the head and shoulders curled up and knees hugged in.",
+   "Inhale and stretch the arms overhead while the legs extend long at a diagonal.",
+   "Exhale and circle the arms wide to hug the knees back in."
+  ],
+  "cues": [
+   "Stretch out as far as possible, then pull back in",
+   "Keep the lower back heavy on the mat",
+   "Circle the arms like a big arc"
+  ],
+  "mistakes": [
+   "Letting the lower back arch off the mat",
+   "Lowering the legs beyond your control",
+   "Rushing the breath"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-single-leg-circle",
+  "name": "Pilates Single Leg Circle",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": null,
+  "primary": [
+   "abdominals"
+  ],
+  "secondary": [
+   "hip_flexors",
+   "glutes",
+   "adductors"
+  ],
+  "motion": "single_leg_circle",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Lie on your back with one leg extended to the ceiling and the other long on the mat.",
+   "Keep the pelvis still and draw a small circle with the raised leg, crossing the body then circling out and around.",
+   "Do several circles each way, then switch legs."
+  ],
+  "cues": [
+   "Keep the pelvis perfectly still",
+   "Draw a circle about the size of a dinner plate",
+   "Press the long leg into the mat"
+  ],
+  "mistakes": [
+   "Rocking the hips as the leg circles",
+   "Making the circle too big",
+   "Letting the ribs flare"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-rolling-like-a-ball",
+  "name": "Pilates Rolling Like a Ball",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": null,
+  "primary": [
+   "abdominals"
+  ],
+  "secondary": [
+   "hip_flexors",
+   "lower_back"
+  ],
+  "motion": "rolling_like_a_ball",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Sit at the back of your sit bones, hug your shins, and balance with the feet off the mat.",
+   "Tuck the chin and round into a tight C-curve.",
+   "Inhale to roll back to the shoulder blades, exhale to roll back up to balance."
+  ],
+  "cues": [
+   "Stay as round as a ball",
+   "Roll back using the abs, not momentum",
+   "Keep the distance between heels and hips the same"
+  ],
+  "mistakes": [
+   "Rolling onto the neck",
+   "Opening the C-curve",
+   "Using momentum from the legs"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-spine-stretch-forward",
+  "name": "Pilates Spine Stretch Forward",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": null,
+  "primary": [
+   "abdominals"
+  ],
+  "secondary": [
+   "lower_back",
+   "hamstrings"
+  ],
+  "motion": "spine_stretch_forward",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Sit tall with the legs open slightly wider than the hips, feet flexed, arms reaching forward.",
+   "Nod the chin and round forward over a deep scoop of the abs, reaching past the toes.",
+   "Stack the spine back up one vertebra at a time to sit tall."
+  ],
+  "cues": [
+   "Sit tall as if a string pulls the crown of your head",
+   "Scoop the belly as you curl over",
+   "Reach long through the fingers"
+  ],
+  "mistakes": [
+   "Collapsing the chest forward without the abs",
+   "Pulling the shoulders up by the ears",
+   "Slumping behind the sit bones"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-saw",
+  "name": "Pilates Saw",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": null,
+  "primary": [
+   "obliques"
+  ],
+  "secondary": [
+   "abdominals",
+   "hamstrings",
+   "lower_back"
+  ],
+  "motion": "saw",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Sit tall with the legs wide and the arms stretched out to the sides.",
+   "Rotate the torso to one side, then fold forward over the leg, reaching the opposite hand past the little toe.",
+   "Return to tall and switch sides."
+  ],
+  "cues": [
+   "Rotate first, then reach",
+   "Keep the hips glued to the mat",
+   "Think of sawing off the little toe"
+  ],
+  "mistakes": [
+   "Rotating the hips off the mat",
+   "Dropping the back arm",
+   "Slumping the chest"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-swan",
+  "name": "Pilates Swan",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "push",
+  "primary": [
+   "lower_back"
+  ],
+  "secondary": [
+   "glutes",
+   "shoulders",
+   "middle_back"
+  ],
+  "motion": "swan",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Lie face down with the hands under the shoulders and the legs long.",
+   "Press the hands to lift the chest, lengthening through the crown of the head.",
+   "Lower slowly with control and repeat."
+  ],
+  "cues": [
+   "Lengthen forward and up, not just back",
+   "Press the pubic bone into the mat",
+   "Keep the shoulders away from the ears"
+  ],
+  "mistakes": [
+   "Cranking the neck back",
+   "Letting the glutes clench and the lower back crunch",
+   "Using the arms to push too high"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-swimming",
+  "name": "Pilates Swimming",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": null,
+  "primary": [
+   "lower_back"
+  ],
+  "secondary": [
+   "glutes",
+   "hamstrings",
+   "shoulders",
+   "middle_back"
+  ],
+  "motion": "swimming",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Lie face down, arms long overhead and legs long on the mat.",
+   "Lift the arms, chest and legs slightly off the mat.",
+   "Flutter opposite arm and leg up and down in a quick rhythm, breathing in for five and out for five."
+  ],
+  "cues": [
+   "Reach long through the fingers and toes",
+   "Keep the neck long, gaze at the mat",
+   "Keep the abs gently lifted off the mat"
+  ],
+  "mistakes": [
+   "Cranking the head up",
+   "Kicking from the knee instead of the hip",
+   "Holding the breath"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-teaser",
+  "name": "Pilates Teaser",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "expert",
+  "mechanic": "isolation",
+  "force": null,
+  "primary": [
+   "abdominals"
+  ],
+  "secondary": [
+   "hip_flexors",
+   "quadriceps"
+  ],
+  "motion": "teaser",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Lie on your back, legs lifted to a diagonal and arms reaching overhead.",
+   "Roll up to a V-shape with arms reaching parallel to the legs, balancing on the sit bones.",
+   "Roll back down with control, keeping the legs still."
+  ],
+  "cues": [
+   "Reach long through the toes and fingers",
+   "Keep a tall chest in the V",
+   "Roll down like a slow drawbridge"
+  ],
+  "mistakes": [
+   "Dropping the chest and rounding the back",
+   "Using momentum",
+   "Letting the legs swing"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-scissors",
+  "name": "Pilates Scissors",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": null,
+  "primary": [
+   "abdominals"
+  ],
+  "secondary": [
+   "hip_flexors",
+   "hamstrings"
+  ],
+  "motion": "scissors",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Lie on your back with the hips rolled slightly up and the legs lifted to the ceiling, hands supporting the hips.",
+   "Lower one leg while the other stays up, with a small double-pulse toward the leg.",
+   "Switch legs in a scissoring motion."
+  ],
+  "cues": [
+   "Keep the hips stacked over the shoulders",
+   "Lengthen both legs away from you",
+   "Switch the legs smoothly"
+  ],
+  "mistakes": [
+   "Rolling onto the neck",
+   "Letting the hips sag",
+   "Bending the knees to cheat"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-leg-pull-front",
+  "name": "Pilates Leg Pull Front",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "abdominals"
+  ],
+  "secondary": [
+   "shoulders",
+   "triceps",
+   "glutes",
+   "hamstrings"
+  ],
+  "motion": "leg_pull_front",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Start in a high plank with the hands under the shoulders.",
+   "Lift one leg with the toes pointed, keeping the hips level.",
+   "Lower the leg and repeat on the other side, never letting the pelvis shift."
+  ],
+  "cues": [
+   "Push the mat away from you",
+   "Keep the body in one long line",
+   "Squeeze the glutes"
+  ],
+  "mistakes": [
+   "Sagging the hips",
+   "Dropping the head",
+   "Letting the shoulders collapse"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-spine-twist",
+  "name": "Pilates Spine Twist",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": null,
+  "primary": [
+   "obliques"
+  ],
+  "secondary": [
+   "abdominals",
+   "lower_back"
+  ],
+  "motion": "spine_twist",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Sit tall with legs together, feet flexed, arms out to the sides.",
+   "Inhale to grow tall, then exhale and rotate the torso to one side with two small pulses.",
+   "Return to center and rotate the other way."
+  ],
+  "cues": [
+   "Grow taller as you rotate",
+   "Turn from the ribs, not the arms",
+   "Keep the hips square"
+  ],
+  "mistakes": [
+   "Slouching",
+   "Swinging the arms for momentum",
+   "Lifting the hips"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-shoulder-bridge",
+  "name": "Pilates Shoulder Bridge",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "glutes"
+  ],
+  "secondary": [
+   "hamstrings",
+   "abdominals",
+   "lower_back"
+  ],
+  "motion": "glute_bridge",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Lie on your back with the knees bent, feet flat and hip-width apart.",
+   "Peel the spine off the mat one vertebra at a time until the hips are high.",
+   "Hold, then roll down slowly from the upper back to the tailbone."
+  ],
+  "cues": [
+   "Peel up bone by bone",
+   "Press the feet down and squeeze the glutes",
+   "Ribs down, pelvis lifted"
+  ],
+  "mistakes": [
+   "Overarching the lower back",
+   "Letting the knees splay",
+   "Lifting only with the lower back"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-criss-cross",
+  "name": "Pilates Criss-Cross",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "primary": [
+   "obliques"
+  ],
+  "secondary": [
+   "abdominals",
+   "hip_flexors"
+  ],
+  "motion": "bicycle_crunch",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Lie on your back, hands behind the head, knees in tabletop and the head and shoulders curled up.",
+   "Extend one leg long and rotate the torso to bring the opposite shoulder toward the bent knee.",
+   "Switch sides in a steady rhythm."
+  ],
+  "cues": [
+   "Rotate from the ribs, shoulder reaches for knee",
+   "Keep the elbows wide",
+   "Extend the leg long and low"
+  ],
+  "mistakes": [
+   "Yanking the neck with the hands",
+   "Rushing so the twist disappears",
+   "Letting the lower back lift"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-side-kick-front-and-back",
+  "name": "Pilates Side Kick Front and Back",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": null,
+  "primary": [
+   "abductors"
+  ],
+  "secondary": [
+   "glutes",
+   "hip_flexors",
+   "obliques"
+  ],
+  "motion": "side_leg_raise",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Lie on your side with the body in one line, head resting on the bottom arm.",
+   "Lift the top leg to hip height and swing it forward with two small pulses.",
+   "Sweep the leg back past the hip, keeping the torso still, and repeat."
+  ],
+  "cues": [
+   "Keep the torso perfectly still",
+   "Reach the leg long through the toe",
+   "Lift the waist away from the mat"
+  ],
+  "mistakes": [
+   "Rocking the pelvis",
+   "Swinging the leg too high",
+   "Collapsing into the bottom shoulder"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-side-lying-leg-lift",
+  "name": "Pilates Side-Lying Leg Lift",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": null,
+  "primary": [
+   "abductors"
+  ],
+  "secondary": [
+   "glutes",
+   "obliques"
+  ],
+  "motion": "side_leg_raise",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Lie on your side, legs together and slightly forward of the hips.",
+   "Lift the top leg to hip height, toes slightly turned down.",
+   "Lower with control without touching the bottom leg."
+  ],
+  "cues": [
+   "Lift from the outer hip",
+   "Keep the hips stacked",
+   "Lengthen the leg away"
+  ],
+  "mistakes": [
+   "Rolling the hips back",
+   "Lifting too high",
+   "Using momentum"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-side-kick-clamshell",
+  "name": "Pilates Side Kick Clamshell",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": null,
+  "primary": [
+   "abductors"
+  ],
+  "secondary": [
+   "glutes"
+  ],
+  "motion": "clamshell",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Lie on your side with the knees bent and the heels in line with the spine.",
+   "Keep the feet together and open the top knee like a clamshell.",
+   "Close slowly and repeat."
+  ],
+  "cues": [
+   "Keep the feet glued together",
+   "Hips stacked, no rolling back",
+   "Feel the outer hip work"
+  ],
+  "mistakes": [
+   "Rolling the pelvis backward",
+   "Letting the feet part",
+   "Rushing the reps"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pilates-inner-thigh-lift",
+  "name": "Pilates Inner Thigh Lift",
+  "tags": [
+   "pilates",
+   "mat"
+  ],
+  "equipment": "mat",
+  "category": "pilates",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": null,
+  "primary": [
+   "adductors"
+  ],
+  "secondary": [
+   "abductors",
+   "hip_flexors"
+  ],
+  "motion": "side_leg_raise",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Lie on your side, top leg bent with the foot or knee on the mat in front of you, bottom leg long.",
+   "Lift the bottom leg a few inches off the mat with the toes pointed.",
+   "Lower slowly and repeat before switching sides."
+  ],
+  "cues": [
+   "Lift from the inner thigh",
+   "Keep the leg long and the hips stacked",
+   "Stay in a small, controlled range"
+  ],
+  "mistakes": [
+   "Rolling the hips forward",
+   "Lifting too high",
+   "Letting the leg swing"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-fighting-stance",
+  "name": "Fighting Stance",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "calves",
+   "glutes",
+   "abdominals",
+   "shoulders"
+  ],
+  "motion": "boxing_stance",
+  "implement": "gloves",
+  "unilateral": false,
+  "instructions": [
+   "Stand with the left foot forward in an orthodox stance, feet a little wider than the hips.",
+   "Bend the knees slightly and keep the weight on the balls of your feet.",
+   "Keep the hands up by your cheeks, elbows in, chin tucked."
+  ],
+  "cues": [
+   "Stay light on your toes",
+   "Hands high, elbows in",
+   "Keep the rear heel slightly off the floor"
+  ],
+  "mistakes": [
+   "Standing flat-footed",
+   "Dropping the guard",
+   "Crossing the feet"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-bounce-and-shuffle",
+  "name": "Bounce and Shuffle",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "primary": [
+   "calves"
+  ],
+  "secondary": [
+   "quadriceps",
+   "glutes",
+   "abdominals"
+  ],
+  "motion": "boxing_stance",
+  "implement": "gloves",
+  "unilateral": false,
+  "instructions": [
+   "Start in your fighting stance.",
+   "Bounce lightly on the balls of your feet and shuffle forward, back and side to side without crossing the feet.",
+   "Keep the guard up and the head level."
+  ],
+  "cues": [
+   "Move like the floor is hot",
+   "Push off the back foot to go forward",
+   "Keep the steps small"
+  ],
+  "mistakes": [
+   "Crossing the feet",
+   "Bouncing too high",
+   "Dropping the hands"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-jab",
+  "name": "Jab",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "shoulders"
+  ],
+  "secondary": [
+   "chest",
+   "triceps",
+   "abdominals",
+   "obliques"
+  ],
+  "motion": "jab",
+  "implement": "gloves",
+  "unilateral": true,
+  "instructions": [
+   "From your stance, extend the lead hand straight at the target as you rotate the lead shoulder in.",
+   "Snap the fist in at the end so the palm faces down.",
+   "Retrace the same straight line back to your guard."
+  ],
+  "cues": [
+   "Snap it out and snap it back",
+   "Rotate the fist at the end",
+   "Keep the rear hand glued to your chin"
+  ],
+  "mistakes": [
+   "Dropping the hand before throwing",
+   "Leaning forward",
+   "Pushing without snapping back"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-cross",
+  "name": "Cross",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "chest"
+  ],
+  "secondary": [
+   "shoulders",
+   "triceps",
+   "obliques",
+   "glutes",
+   "quadriceps"
+  ],
+  "motion": "cross",
+  "implement": "gloves",
+  "unilateral": true,
+  "instructions": [
+   "From your stance, pivot the rear foot and rotate the hips and shoulders as the rear hand drives straight forward.",
+   "Land with the palm facing down and the rear heel turned out.",
+   "Return the hand to your guard and reset the stance."
+  ],
+  "cues": [
+   "Throw it from the back foot, up through the hips",
+   "Rotate the whole body behind the punch",
+   "Chin down, lead hand protects the face"
+  ],
+  "mistakes": [
+   "Arm punching with no hip turn",
+   "Leaning too far forward",
+   "Dropping the lead hand"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-lead-hook",
+  "name": "Lead Hook",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "primary": [
+   "shoulders"
+  ],
+  "secondary": [
+   "chest",
+   "obliques",
+   "abdominals",
+   "quadriceps"
+  ],
+  "motion": "hook",
+  "implement": "gloves",
+  "unilateral": true,
+  "instructions": [
+   "From your stance, pivot the lead foot and turn the hips so the lead arm swings in a tight arc.",
+   "Keep the elbow high and the arm bent at about 90 degrees.",
+   "Rotate back to your stance and guard."
+  ],
+  "cues": [
+   "Turn the hips, the arm follows",
+   "Keep the elbow level with the fist",
+   "Make the arc small and tight"
+  ],
+  "mistakes": [
+   "Winding up with a big arm swing",
+   "Dropping the elbow",
+   "Stepping off balance"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-rear-hook",
+  "name": "Rear Hook",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "primary": [
+   "shoulders"
+  ],
+  "secondary": [
+   "chest",
+   "obliques",
+   "abdominals",
+   "glutes"
+  ],
+  "motion": "hook",
+  "implement": "gloves",
+  "unilateral": true,
+  "instructions": [
+   "From your stance, pivot the rear foot and drive the rear hip forward.",
+   "Swing the rear arm in a tight horizontal arc at about 90 degrees.",
+   "Reset to your guard."
+  ],
+  "cues": [
+   "Power comes from the back hip",
+   "Keep the elbow high",
+   "Return the hand straight back"
+  ],
+  "mistakes": [
+   "Overreaching with the arm",
+   "Dropping the guard",
+   "Losing the lead hand's cover"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-lead-uppercut",
+  "name": "Lead Uppercut",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "primary": [
+   "shoulders"
+  ],
+  "secondary": [
+   "biceps",
+   "chest",
+   "obliques",
+   "quadriceps"
+  ],
+  "motion": "uppercut",
+  "implement": "gloves",
+  "unilateral": true,
+  "instructions": [
+   "From your stance, bend the knees slightly and dip the lead shoulder.",
+   "Drive up through the legs, rotate the hips and bring the fist upward in a tight arc with the palm facing you.",
+   "Return the hand to your guard."
+  ],
+  "cues": [
+   "Drive up through the legs",
+   "Keep the punch short and tight",
+   "Palm faces you"
+  ],
+  "mistakes": [
+   "Dropping the hand too low",
+   "Swinging a looping arc",
+   "Standing up straight"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-rear-uppercut",
+  "name": "Rear Uppercut",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "primary": [
+   "shoulders"
+  ],
+  "secondary": [
+   "biceps",
+   "chest",
+   "obliques",
+   "glutes"
+  ],
+  "motion": "uppercut",
+  "implement": "gloves",
+  "unilateral": true,
+  "instructions": [
+   "From your stance, sink slightly and dip the rear shoulder.",
+   "Drive off the back leg and rotate the hips to bring the rear fist upward in a tight arc.",
+   "Return to your guard."
+  ],
+  "cues": [
+   "Push the floor and rotate",
+   "Keep it short and tight",
+   "Lead hand covers the chin"
+  ],
+  "mistakes": [
+   "Dropping the hand far below the chin",
+   "Big looping swing",
+   "Lifting the chin"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-jab-cross-1-2",
+  "name": "Jab-Cross (1-2)",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "chest"
+  ],
+  "secondary": [
+   "shoulders",
+   "triceps",
+   "obliques",
+   "abdominals"
+  ],
+  "motion": "jab_cross",
+  "implement": "gloves",
+  "unilateral": false,
+  "instructions": [
+   "From your stance, throw a straight jab with the lead hand.",
+   "Retract the jab and immediately pivot the rear foot as you throw a straight cross.",
+   "Return to your guard."
+  ],
+  "cues": [
+   "Jab snaps, cross rotates the hips",
+   "Keep both hands returning to your chin",
+   "Stay balanced between punches"
+  ],
+  "mistakes": [
+   "Rushing and losing form",
+   "Dropping the guard between punches",
+   "Leaning on the cross"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-jab-jab-cross-1-1-2",
+  "name": "Jab-Jab-Cross (1-1-2)",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "chest"
+  ],
+  "secondary": [
+   "shoulders",
+   "triceps",
+   "obliques",
+   "abdominals"
+  ],
+  "motion": "jab_cross",
+  "implement": "gloves",
+  "unilateral": false,
+  "instructions": [
+   "Throw two quick jabs, resetting your guard each time.",
+   "Pivot the rear foot and throw a straight cross.",
+   "Return to your guard."
+  ],
+  "cues": [
+   "Short double jab, then power on the cross",
+   "Snap each jab back",
+   "Rotate on the cross"
+  ],
+  "mistakes": [
+   "Dropping the rear hand",
+   "Overreaching on the jabs",
+   "Losing balance on the cross"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-jab-cross-hook-1-2-3",
+  "name": "Jab-Cross-Hook (1-2-3)",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "chest"
+  ],
+  "secondary": [
+   "shoulders",
+   "triceps",
+   "obliques",
+   "abdominals"
+  ],
+  "motion": "jab_cross",
+  "implement": "gloves",
+  "unilateral": false,
+  "instructions": [
+   "Throw a jab and a cross in a smooth 1-2.",
+   "Pivot the lead foot and rotate your hips to throw a lead hook.",
+   "Reset into your stance."
+  ],
+  "cues": [
+   "Flow the hips from cross into hook",
+   "Keep the elbows tight",
+   "Stay balanced"
+  ],
+  "mistakes": [
+   "Letting the hook swing wide",
+   "Stopping between punches",
+   "Dropping the rear hand"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-jab-cross-slip-cross",
+  "name": "Jab-Cross-Slip-Cross",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "chest"
+  ],
+  "secondary": [
+   "shoulders",
+   "obliques",
+   "abdominals",
+   "quadriceps"
+  ],
+  "motion": "bob_and_weave",
+  "implement": "gloves",
+  "unilateral": false,
+  "instructions": [
+   "Throw a jab and a cross.",
+   "Slip your head to the outside of an imagined return punch by bending the knees and dipping the shoulders.",
+   "Come up and throw a cross."
+  ],
+  "cues": [
+   "Bend the knees to slip, do not lean",
+   "Keep your eyes forward",
+   "Rotate and fire back"
+  ],
+  "mistakes": [
+   "Bending at the waist",
+   "Dropping both hands",
+   "Looking at the floor"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-front-kick-teep-lead",
+  "name": "Front Kick (Teep) Lead",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "hip_flexors",
+   "glutes",
+   "abdominals",
+   "calves"
+  ],
+  "motion": "front_kick",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "From your stance, lift the lead knee toward your chest.",
+   "Extend the leg and push the ball of the foot into the target, hips pressing forward.",
+   "Snap the leg back and return to your stance."
+  ],
+  "cues": [
+   "Think of pushing the target away",
+   "Knee up first, then extend",
+   "Keep the guard up"
+  ],
+  "mistakes": [
+   "Leaning back",
+   "Kicking without lifting the knee",
+   "Forgetting to rechamber"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-front-kick-teep-rear",
+  "name": "Front Kick (Teep) Rear",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "hip_flexors",
+   "glutes",
+   "abdominals",
+   "calves"
+  ],
+  "motion": "front_kick",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "From your stance, drive the rear knee up toward your chest.",
+   "Push the hips forward and extend the leg into the target.",
+   "Retract the leg and return to your stance."
+  ],
+  "cues": [
+   "Hips drive through the target",
+   "Stay balanced on the standing leg",
+   "Hands stay up"
+  ],
+  "mistakes": [
+   "Leaning back",
+   "Dropping the guard",
+   "Flopping the kicking leg back down"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-lead-roundhouse-kick",
+  "name": "Lead Roundhouse Kick",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "glutes"
+  ],
+  "secondary": [
+   "quadriceps",
+   "obliques",
+   "hip_flexors",
+   "abdominals",
+   "calves"
+  ],
+  "motion": "roundhouse_kick",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "From your stance, pivot the supporting foot so the heel points to the target.",
+   "Swing the lead leg in an arc and turn the hip over, striking with the shin.",
+   "Rechamber the leg and return to your stance."
+  ],
+  "cues": [
+   "Pivot the foot and turn the hip over",
+   "Strike with the shin, not the foot",
+   "Hands up to protect"
+  ],
+  "mistakes": [
+   "Not pivoting the support foot",
+   "Leaning back",
+   "Kicking with the leg only"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-rear-roundhouse-kick",
+  "name": "Rear Roundhouse Kick",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "glutes"
+  ],
+  "secondary": [
+   "quadriceps",
+   "obliques",
+   "hip_flexors",
+   "abdominals",
+   "calves"
+  ],
+  "motion": "roundhouse_kick",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "From your stance, pivot the lead foot and rotate the hips as the rear leg swings up in an arc.",
+   "Strike with the shin and rotate fully through the hips.",
+   "Bring the leg back and return to your stance."
+  ],
+  "cues": [
+   "Pivot the front foot, whip the hip",
+   "Hit with the shin",
+   "Keep your hands up"
+  ],
+  "mistakes": [
+   "Not rotating the hip",
+   "Dropping the hands",
+   "Falling forward"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-side-kick",
+  "name": "Side Kick",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "glutes"
+  ],
+  "secondary": [
+   "abductors",
+   "quadriceps",
+   "obliques",
+   "hip_flexors"
+  ],
+  "motion": "side_kick",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Turn your body sideways and lift the rear knee toward your chest.",
+   "Extend the leg out to the side, striking with the heel or the outside edge of the foot.",
+   "Retract the leg and return to your stance."
+  ],
+  "cues": [
+   "Chamber the knee, then push out the heel",
+   "Hips turn over",
+   "Keep the guard"
+  ],
+  "mistakes": [
+   "Not turning the hip over",
+   "Leaning too far",
+   "Not rechambering"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-rear-knee-strike",
+  "name": "Rear Knee Strike",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "hip_flexors"
+  ],
+  "secondary": [
+   "quadriceps",
+   "abdominals",
+   "glutes"
+  ],
+  "motion": "knee_strike",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "From your stance, step in as you pull your hands down on an imagined head.",
+   "Drive the rear knee up and forward, hips thrusting through.",
+   "Lower the knee and return to your stance."
+  ],
+  "cues": [
+   "Hips drive the knee",
+   "Pull the target down to meet it",
+   "Stay tall"
+  ],
+  "mistakes": [
+   "Leaning back",
+   "Lifting the knee only",
+   "Dropping the hands"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-lead-knee-strike",
+  "name": "Lead Knee Strike",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "hip_flexors"
+  ],
+  "secondary": [
+   "quadriceps",
+   "abdominals",
+   "glutes"
+  ],
+  "motion": "knee_strike",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "From your stance, lift the lead knee and drive it forward.",
+   "Press the hips through and keep the torso upright.",
+   "Return to your stance."
+  ],
+  "cues": [
+   "Drive the hip forward",
+   "Stay on the ball of the support foot",
+   "Guard up"
+  ],
+  "mistakes": [
+   "Leaning back",
+   "Swinging the knee sideways",
+   "Losing balance"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-bob-and-weave",
+  "name": "Bob and Weave",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "glutes",
+   "abdominals",
+   "obliques",
+   "hamstrings"
+  ],
+  "motion": "bob_and_weave",
+  "implement": "gloves",
+  "unilateral": false,
+  "instructions": [
+   "From your stance, bend the knees and dip under an imagined punch.",
+   "Move the head in a U-shape from one side to the other.",
+   "Come back up into your stance."
+  ],
+  "cues": [
+   "Bend the knees and keep the back straight",
+   "Keep your eyes forward",
+   "Keep the hands up"
+  ],
+  "mistakes": [
+   "Bending at the waist",
+   "Dropping the guard",
+   "Standing up in a straight line"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-jab-cross-rear-roundhouse",
+  "name": "Jab-Cross-Rear Roundhouse",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "chest"
+  ],
+  "secondary": [
+   "glutes",
+   "shoulders",
+   "obliques",
+   "quadriceps"
+  ],
+  "motion": "jab_cross",
+  "implement": "gloves",
+  "unilateral": false,
+  "instructions": [
+   "Throw a jab and a cross.",
+   "Pivot the lead foot and drive a rear roundhouse kick through the target.",
+   "Return to your stance."
+  ],
+  "cues": [
+   "Punches set up the kick",
+   "Rotate through the hip",
+   "Guard up when you land"
+  ],
+  "mistakes": [
+   "Pausing before the kick",
+   "Dropping the hands",
+   "Not pivoting"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "kb-teep-and-cross",
+  "name": "Teep and Cross",
+  "tags": [
+   "kickboxing"
+  ],
+  "equipment": "bodyweight",
+  "category": "kickboxing",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "chest",
+   "hip_flexors",
+   "glutes",
+   "obliques"
+  ],
+  "motion": "front_kick",
+  "implement": "gloves",
+  "unilateral": false,
+  "instructions": [
+   "Throw a lead teep to push the opponent back.",
+   "Land the foot forward and immediately fire a cross.",
+   "Reset into your stance."
+  ],
+  "cues": [
+   "Kick, plant, then punch",
+   "Hips rotate on the cross",
+   "Stay balanced"
+  ],
+  "mistakes": [
+   "Not planting the foot",
+   "Dropping the guard",
+   "Rushing the cross"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "jumping-jacks",
+  "name": "Jumping Jacks",
+  "tags": [
+   "cardio",
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "calves"
+  ],
+  "secondary": [
+   "quadriceps",
+   "glutes",
+   "shoulders",
+   "abductors",
+   "adductors"
+  ],
+  "motion": "jumping_jack",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Stand tall with feet together and arms at your sides.",
+   "Jump the feet apart while swinging the arms overhead.",
+   "Jump back to the start and repeat at a steady pace."
+  ],
+  "cues": [
+   "Land softly on the balls of the feet",
+   "Reach fully overhead",
+   "Keep a steady rhythm"
+  ],
+  "mistakes": [
+   "Landing flat and loud",
+   "Half-raising the arms",
+   "Locking the knees"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "high-knees",
+  "name": "High Knees",
+  "tags": [
+   "cardio",
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "hip_flexors"
+  ],
+  "secondary": [
+   "quadriceps",
+   "calves",
+   "abdominals",
+   "glutes"
+  ],
+  "motion": "high_knees",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Stand tall with feet hip-width apart.",
+   "Run in place, driving each knee to hip height.",
+   "Pump the arms in rhythm."
+  ],
+  "cues": [
+   "Drive knees up to hip height",
+   "Stay on the balls of your feet",
+   "Pump the arms"
+  ],
+  "mistakes": [
+   "Leaning back",
+   "Flat heavy landings",
+   "Barely lifting the knees"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "butt-kicks",
+  "name": "Butt Kicks",
+  "tags": [
+   "cardio",
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "hamstrings"
+  ],
+  "secondary": [
+   "quadriceps",
+   "calves",
+   "glutes"
+  ],
+  "motion": "butt_kicks",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Stand tall and jog in place.",
+   "Kick each heel up toward your glute.",
+   "Keep the torso upright and arms swinging."
+  ],
+  "cues": [
+   "Flick the heel toward the glute",
+   "Stay tall",
+   "Light quick feet"
+  ],
+  "mistakes": [
+   "Leaning forward",
+   "Stomping",
+   "Barely lifting the heels"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "run-in-place",
+  "name": "Run in Place",
+  "tags": [
+   "cardio",
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "calves",
+   "hamstrings",
+   "glutes",
+   "hip_flexors"
+  ],
+  "motion": "run_in_place",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Stand tall with arms bent at your sides.",
+   "Jog in place, lifting the feet a few inches.",
+   "Swing the arms in rhythm and breathe steadily."
+  ],
+  "cues": [
+   "Light quick steps",
+   "Tall posture, relaxed shoulders",
+   "Swing arms from the shoulders"
+  ],
+  "mistakes": [
+   "Heavy heel strikes",
+   "Slouching",
+   "Tensing the shoulders"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "burpees",
+  "name": "Burpees",
+  "tags": [
+   "cardio",
+   "bodyweight",
+   "mat"
+  ],
+  "equipment": "bodyweight",
+  "category": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "chest",
+   "shoulders",
+   "triceps",
+   "abdominals",
+   "glutes",
+   "hamstrings"
+  ],
+  "motion": "burpee",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Stand tall, then squat and place your hands on the floor.",
+   "Jump or step the feet back to a plank and lower the chest to the floor.",
+   "Press up, jump the feet in, then jump up with the arms overhead."
+  ],
+  "cues": [
+   "Push the floor away",
+   "Land softly on the jump",
+   "Keep the abs braced in the plank"
+  ],
+  "mistakes": [
+   "Sagging the hips in the plank",
+   "Rushing and losing form",
+   "Landing stiff-legged"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "jump-squats",
+  "name": "Jump Squats",
+  "tags": [
+   "cardio",
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "glutes",
+   "hamstrings",
+   "calves"
+  ],
+  "motion": "jump_squat",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Stand with feet shoulder-width apart.",
+   "Squat down until the thighs are near parallel.",
+   "Explode upward, then land softly and go straight into the next rep."
+  ],
+  "cues": [
+   "Push the floor away explosively",
+   "Land softly with bent knees",
+   "Chest tall"
+  ],
+  "mistakes": [
+   "Landing stiff-legged",
+   "Letting the knees cave",
+   "Landing with the heels hard"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "jump-rope",
+  "name": "Jump Rope",
+  "tags": [
+   "cardio",
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "calves"
+  ],
+  "secondary": [
+   "quadriceps",
+   "forearms",
+   "shoulders"
+  ],
+  "motion": "jump_rope",
+  "implement": "rope",
+  "unilateral": false,
+  "instructions": [
+   "Hold the rope handles at hip height with the elbows close to your sides.",
+   "Swing the rope from the wrists and hop over it with small jumps.",
+   "Stay on the balls of your feet."
+  ],
+  "cues": [
+   "Turn the rope with the wrists",
+   "Small hops, a quarter inch off the floor",
+   "Elbows tucked at your sides"
+  ],
+  "mistakes": [
+   "Jumping too high",
+   "Swinging the rope with the whole arm",
+   "Landing heavy on the heels"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "skater-hops",
+  "name": "Skater Hops",
+  "tags": [
+   "cardio",
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "abductors"
+  ],
+  "secondary": [
+   "quadriceps",
+   "glutes",
+   "hamstrings",
+   "calves"
+  ],
+  "motion": "skater_hop",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Stand on one leg and leap sideways to the other, landing softly.",
+   "Sweep the free leg behind the standing leg.",
+   "Keep the hips low and push off into the next hop."
+  ],
+  "cues": [
+   "Push off sideways and land softly",
+   "Sweep the back leg behind",
+   "Stay low through the hips"
+  ],
+  "mistakes": [
+   "Landing stiff",
+   "Letting the knee cave in",
+   "Standing too upright"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "squat-jacks",
+  "name": "Squat Jacks",
+  "tags": [
+   "cardio",
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "glutes",
+   "abductors",
+   "adductors",
+   "calves"
+  ],
+  "motion": "jumping_jack",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Start with feet together in a small squat, hands at your chest.",
+   "Jump the feet wide into a squat.",
+   "Jump the feet back together."
+  ],
+  "cues": [
+   "Stay low in the squat",
+   "Land softly",
+   "Keep the chest tall"
+  ],
+  "mistakes": [
+   "Standing up between reps",
+   "Landing flat",
+   "Knees collapsing"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "lateral-shuffle",
+  "name": "Lateral Shuffle",
+  "tags": [
+   "cardio",
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "abductors"
+  ],
+  "secondary": [
+   "adductors",
+   "quadriceps",
+   "glutes",
+   "calves"
+  ],
+  "motion": "skater_hop",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Stand in a half squat with feet shoulder-width apart.",
+   "Shuffle sideways several steps without crossing the feet.",
+   "Shuffle back the other way."
+  ],
+  "cues": [
+   "Stay low",
+   "Push off the trailing foot",
+   "Never cross the feet"
+  ],
+  "mistakes": [
+   "Standing up tall",
+   "Crossing the feet",
+   "Bouncing up and down"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "treadmill-walk",
+  "name": "Treadmill Walk",
+  "tags": [
+   "cardio",
+   "machine"
+  ],
+  "equipment": "cardio_machine",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "calves",
+   "glutes",
+   "hamstrings"
+  ],
+  "motion": "treadmill_walk",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Stand on the side rails and start the belt at a slow speed.",
+   "Step on and walk at a brisk pace with a tall posture.",
+   "Swing the arms naturally and avoid gripping the rails."
+  ],
+  "cues": [
+   "Tall chest, eyes forward",
+   "Roll heel to toe",
+   "Swing the arms"
+  ],
+  "mistakes": [
+   "Gripping the rails",
+   "Looking down",
+   "Overstriding"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "treadmill-incline-walk",
+  "name": "Treadmill Incline Walk",
+  "tags": [
+   "cardio",
+   "machine"
+  ],
+  "equipment": "cardio_machine",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "glutes"
+  ],
+  "secondary": [
+   "quadriceps",
+   "calves",
+   "hamstrings"
+  ],
+  "motion": "treadmill_walk",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Set the incline to 5 to 12 percent and a comfortable speed.",
+   "Walk with a slight forward lean from the ankles.",
+   "Let the arms swing and keep the hands off the rails."
+  ],
+  "cues": [
+   "Push the belt back with each step",
+   "Lean from the ankles, not the waist",
+   "Tall posture"
+  ],
+  "mistakes": [
+   "Holding the rails",
+   "Leaning from the waist",
+   "Setting the speed too fast"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "treadmill-run",
+  "name": "Treadmill Run",
+  "tags": [
+   "cardio",
+   "machine"
+  ],
+  "equipment": "cardio_machine",
+  "category": "cardio",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "calves",
+   "hamstrings",
+   "glutes",
+   "hip_flexors"
+  ],
+  "motion": "treadmill_run",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Warm up with a walk, then raise the speed to a comfortable run.",
+   "Land with the foot under your hips and keep the stride quick.",
+   "Cool down with a walk."
+  ],
+  "cues": [
+   "Light quick steps",
+   "Land under the hips",
+   "Relaxed shoulders"
+  ],
+  "mistakes": [
+   "Overstriding",
+   "Running too close to the front",
+   "Gripping the rails"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "treadmill-sprint-intervals",
+  "name": "Treadmill Sprint Intervals",
+  "tags": [
+   "cardio",
+   "machine"
+  ],
+  "equipment": "cardio_machine",
+  "category": "cardio",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "hamstrings",
+   "glutes",
+   "calves",
+   "hip_flexors"
+  ],
+  "motion": "treadmill_run",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Warm up for five minutes at an easy pace.",
+   "Sprint for 20 to 30 seconds, then walk or jog for 60 seconds.",
+   "Repeat for several rounds and cool down."
+  ],
+  "cues": [
+   "Drive the arms",
+   "Stay tall and relaxed",
+   "Step on the rails to rest, never jump off"
+  ],
+  "mistakes": [
+   "Starting without a warm-up",
+   "Overstriding",
+   "Skipping the recovery"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "stationary-bike",
+  "name": "Stationary Bike",
+  "tags": [
+   "cardio",
+   "machine"
+  ],
+  "equipment": "cardio_machine",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "calves",
+   "glutes",
+   "hamstrings"
+  ],
+  "motion": "stationary_bike",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Adjust the seat so the knee is slightly bent at the bottom of the pedal stroke.",
+   "Pedal at a steady cadence.",
+   "Increase the resistance as needed."
+  ],
+  "cues": [
+   "Smooth circles with the pedals",
+   "Relaxed shoulders and hands",
+   "Keep the knees tracking forward"
+  ],
+  "mistakes": [
+   "Seat too low",
+   "Rocking the hips",
+   "Gripping the handlebar tightly"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "recumbent-bike",
+  "name": "Recumbent Bike",
+  "tags": [
+   "cardio",
+   "machine"
+  ],
+  "equipment": "cardio_machine",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "calves",
+   "glutes",
+   "hamstrings"
+  ],
+  "motion": "stationary_bike",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Adjust the seat so the legs reach the pedals with a slight knee bend.",
+   "Sit back against the backrest and pedal smoothly.",
+   "Adjust the resistance for your goal."
+  ],
+  "cues": [
+   "Push the pedals through a smooth circle",
+   "Back supported",
+   "Keep the knees in line with the toes"
+  ],
+  "mistakes": [
+   "Seat too far or too close",
+   "Bouncing in the seat",
+   "Setting the resistance too light"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "elliptical-trainer",
+  "name": "Elliptical Trainer",
+  "tags": [
+   "cardio",
+   "machine"
+  ],
+  "equipment": "cardio_machine",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "glutes",
+   "hamstrings",
+   "calves",
+   "shoulders"
+  ],
+  "motion": "elliptical",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Step on and hold the moving handles.",
+   "Push and pull with the arms while your legs move in an oval stride.",
+   "Keep the torso tall."
+  ],
+  "cues": [
+   "Push through the whole foot",
+   "Tall posture",
+   "Smooth continuous motion"
+  ],
+  "mistakes": [
+   "Leaning on the handles",
+   "Letting the heels lift",
+   "Moving too fast to control"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "rowing-machine",
+  "name": "Rowing Machine",
+  "tags": [
+   "cardio",
+   "machine"
+  ],
+  "equipment": "cardio_machine",
+  "category": "cardio",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "lats",
+   "middle_back",
+   "hamstrings",
+   "glutes",
+   "biceps",
+   "lower_back"
+  ],
+  "motion": "rowing_machine",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Sit with the feet strapped in and grip the handle with arms straight.",
+   "Drive with the legs first, then lean back slightly and pull the handle to the lower ribs.",
+   "Reverse the sequence: arms, torso, then legs, and slide forward."
+  ],
+  "cues": [
+   "Legs, back, arms on the drive",
+   "Push the floor away",
+   "Sit tall, no slumping"
+  ],
+  "mistakes": [
+   "Pulling with the arms first",
+   "Rounding the back",
+   "Rushing the recovery"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "stair-climber",
+  "name": "Stair Climber",
+  "tags": [
+   "cardio",
+   "machine"
+  ],
+  "equipment": "cardio_machine",
+  "category": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "primary": [
+   "glutes"
+  ],
+  "secondary": [
+   "quadriceps",
+   "calves",
+   "hamstrings"
+  ],
+  "motion": "stair_climber",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Step onto the machine and start at a slow pace.",
+   "Climb with a tall posture, using the full foot on each step.",
+   "Rest your hands lightly on the rails."
+  ],
+  "cues": [
+   "Push through the whole foot",
+   "Stay tall",
+   "Light touch on the rails"
+  ],
+  "mistakes": [
+   "Leaning on the handrails",
+   "Short shallow steps on the toes",
+   "Rounding the back"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "assisted-pull-up-machine",
+  "name": "Assisted Pull-Up Machine",
+  "tags": [
+   "machine"
+  ],
+  "equipment": "machine",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "primary": [
+   "lats"
+  ],
+  "secondary": [
+   "biceps",
+   "middle_back",
+   "forearms"
+  ],
+  "motion": "pullup",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Select an assistance weight and kneel or stand on the pad.",
+   "Grip the handles and pull the chest toward the bar.",
+   "Lower with control to a full hang."
+  ],
+  "cues": [
+   "Pull the elbows down to your pockets",
+   "Chest up to the bar",
+   "Control the lowering"
+  ],
+  "mistakes": [
+   "Using too much assistance",
+   "Swinging",
+   "Cutting the range"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "assisted-dip-machine",
+  "name": "Assisted Dip Machine",
+  "tags": [
+   "machine"
+  ],
+  "equipment": "machine",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "triceps"
+  ],
+  "secondary": [
+   "chest",
+   "shoulders"
+  ],
+  "motion": "parallel_dip",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Select the assistance weight and kneel on the pad.",
+   "Grip the handles and lower the body until the elbows reach 90 degrees.",
+   "Press up to straighten the arms."
+  ],
+  "cues": [
+   "Press down into the handles",
+   "Shoulders down and back",
+   "Lean slightly forward for the chest"
+  ],
+  "mistakes": [
+   "Dropping too deep",
+   "Shrugging",
+   "Swinging the legs"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "back-extension-bench",
+  "name": "Back Extension Bench",
+  "tags": [
+   "machine"
+  ],
+  "equipment": "machine",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "primary": [
+   "lower_back"
+  ],
+  "secondary": [
+   "glutes",
+   "hamstrings"
+  ],
+  "motion": "back_extension",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Set the pad below the hips and anchor your heels.",
+   "Cross your arms and lower the torso from the hips with a flat back.",
+   "Lift until the body is in a straight line."
+  ],
+  "cues": [
+   "Hinge at the hips, flat back",
+   "Squeeze the glutes to rise",
+   "Stop at a straight line"
+  ],
+  "mistakes": [
+   "Overextending at the top",
+   "Using momentum",
+   "Rounding the back"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "seated-row-machine",
+  "name": "Seated Row Machine",
+  "tags": [
+   "machine"
+  ],
+  "equipment": "machine",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "primary": [
+   "middle_back"
+  ],
+  "secondary": [
+   "lats",
+   "biceps",
+   "shoulders"
+  ],
+  "motion": "seated_cable_row",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Adjust the seat so the chest is against the pad.",
+   "Pull the handles back, squeezing the shoulder blades together.",
+   "Return slowly."
+  ],
+  "cues": [
+   "Drive the elbows back",
+   "Chest into the pad",
+   "Squeeze the shoulder blades"
+  ],
+  "mistakes": [
+   "Shrugging",
+   "Leaning back to cheat",
+   "Short range"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "chest-press-machine",
+  "name": "Chest Press Machine",
+  "tags": [
+   "machine"
+  ],
+  "equipment": "machine",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "chest"
+  ],
+  "secondary": [
+   "shoulders",
+   "triceps"
+  ],
+  "motion": "machine_chest_press",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Adjust the seat so the handles line up with the mid-chest.",
+   "Press the handles forward until the arms are almost straight.",
+   "Return slowly."
+  ],
+  "cues": [
+   "Push the handles away",
+   "Shoulder blades back",
+   "Do not lock out hard"
+  ],
+  "mistakes": [
+   "Shrugging",
+   "Arching off the pad",
+   "Slamming the stack"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "pec-deck-machine",
+  "name": "Pec Deck Machine",
+  "tags": [
+   "machine"
+  ],
+  "equipment": "machine",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "primary": [
+   "chest"
+  ],
+  "secondary": [
+   "shoulders"
+  ],
+  "motion": "pec_deck",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Set the seat so the handles are at chest height.",
+   "Bring the handles together in front of you.",
+   "Open slowly until you feel a stretch."
+  ],
+  "cues": [
+   "Hug a big tree",
+   "Chest proud, shoulders down",
+   "Squeeze the pecs"
+  ],
+  "mistakes": [
+   "Rolling the shoulders forward",
+   "Overstretching",
+   "Using momentum"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "shoulder-press-machine",
+  "name": "Shoulder Press Machine",
+  "tags": [
+   "machine"
+  ],
+  "equipment": "machine",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "shoulders"
+  ],
+  "secondary": [
+   "triceps"
+  ],
+  "motion": "machine_shoulder_press",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Adjust the seat so the handles are at shoulder height.",
+   "Press up until the arms are almost straight.",
+   "Lower under control."
+  ],
+  "cues": [
+   "Press straight up",
+   "Back against the pad",
+   "Lower to ear level"
+  ],
+  "mistakes": [
+   "Arching the back",
+   "Shrugging",
+   "Bouncing"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "lat-pulldown",
+  "name": "Lat Pulldown",
+  "tags": [
+   "machine"
+  ],
+  "equipment": "cable",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "primary": [
+   "lats"
+  ],
+  "secondary": [
+   "biceps",
+   "middle_back",
+   "shoulders"
+  ],
+  "motion": "lat_pulldown",
+  "implement": "cable",
+  "unilateral": false,
+  "instructions": [
+   "Adjust the thigh pad and grab the bar slightly wider than shoulder width.",
+   "Pull the bar to the upper chest by driving the elbows down.",
+   "Return slowly to full stretch."
+  ],
+  "cues": [
+   "Elbows down to your sides",
+   "Chest up",
+   "Squeeze the lats"
+  ],
+  "mistakes": [
+   "Pulling behind the neck",
+   "Leaning back too far",
+   "Using momentum"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "cable-biceps-curl",
+  "name": "Cable Biceps Curl",
+  "tags": [
+   "machine"
+  ],
+  "equipment": "cable",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "primary": [
+   "biceps"
+  ],
+  "secondary": [
+   "forearms"
+  ],
+  "motion": "curl",
+  "implement": "cable",
+  "unilateral": false,
+  "instructions": [
+   "Attach a straight bar to the low pulley and stand facing the stack.",
+   "Curl the bar to the shoulders with the elbows pinned.",
+   "Lower slowly."
+  ],
+  "cues": [
+   "Elbows pinned to your sides",
+   "Squeeze the biceps",
+   "Slow lowering"
+  ],
+  "mistakes": [
+   "Swinging the back",
+   "Elbows drifting forward",
+   "Dropping the weight fast"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "cable-woodchop",
+  "name": "Cable Woodchop",
+  "tags": [
+   "machine"
+  ],
+  "equipment": "cable",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "primary": [
+   "obliques"
+  ],
+  "secondary": [
+   "abdominals",
+   "shoulders"
+  ],
+  "motion": "woodchop",
+  "implement": "cable",
+  "unilateral": false,
+  "instructions": [
+   "Set the pulley high and stand sideways with the handle in both hands.",
+   "Rotate and pull the handle diagonally across the body to the opposite hip.",
+   "Return slowly."
+  ],
+  "cues": [
+   "Rotate through the torso, arms long",
+   "Pivot the back foot",
+   "Brace the abs"
+  ],
+  "mistakes": [
+   "Pulling with the arms",
+   "Using the lower back",
+   "Going too heavy"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "wall-sit",
+  "name": "Wall Sit",
+  "tags": [
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "glutes",
+   "calves",
+   "hamstrings"
+  ],
+  "motion": "wall_sit",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Stand with your back against a wall and feet shoulder-width apart.",
+   "Slide down until the thighs are parallel to the floor.",
+   "Hold, keeping the back flat against the wall."
+  ],
+  "cues": [
+   "Press your back into the wall",
+   "Knees over ankles",
+   "Breathe steadily"
+  ],
+  "mistakes": [
+   "Sliding too low",
+   "Knees past the toes",
+   "Resting hands on the thighs"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "bulgarian-split-squat-bodyweight",
+  "name": "Bulgarian Split Squat (Bodyweight)",
+  "tags": [
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "glutes",
+   "hamstrings",
+   "calves"
+  ],
+  "motion": "bulgarian_split_squat",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Stand a stride in front of a bench and place the rear foot on it.",
+   "Lower the back knee toward the floor.",
+   "Drive through the front foot to rise."
+  ],
+  "cues": [
+   "Drop straight down",
+   "Push through the front heel",
+   "Stay tall"
+  ],
+  "mistakes": [
+   "Front foot too close",
+   "Pushing off the back foot",
+   "Knee caving"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "dumbbell-bulgarian-split-squat",
+  "name": "Dumbbell Bulgarian Split Squat",
+  "tags": [
+   "dumbbell"
+  ],
+  "equipment": "dumbbell",
+  "category": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "glutes",
+   "hamstrings",
+   "calves"
+  ],
+  "motion": "bulgarian_split_squat",
+  "implement": "dumbbell",
+  "unilateral": true,
+  "instructions": [
+   "Hold a dumbbell in each hand and set the rear foot on a bench.",
+   "Lower the back knee toward the floor.",
+   "Drive through the front foot to rise."
+  ],
+  "cues": [
+   "Drop straight down",
+   "Push through the front heel",
+   "Stay tall"
+  ],
+  "mistakes": [
+   "Front foot too close",
+   "Pushing off the back foot",
+   "Leaning forward"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "dumbbell-farmer-s-walk",
+  "name": "Dumbbell Farmer's Walk",
+  "tags": [
+   "dumbbell"
+  ],
+  "equipment": "dumbbell",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "primary": [
+   "forearms"
+  ],
+  "secondary": [
+   "traps",
+   "shoulders",
+   "abdominals",
+   "glutes"
+  ],
+  "motion": "farmer_walk",
+  "implement": "dumbbell",
+  "unilateral": false,
+  "instructions": [
+   "Pick up a heavy dumbbell in each hand and stand tall.",
+   "Walk with short controlled steps.",
+   "Keep the shoulders down and back."
+  ],
+  "cues": [
+   "Stand tall, shoulders down",
+   "Short controlled steps",
+   "Squeeze the handles hard"
+  ],
+  "mistakes": [
+   "Leaning to one side",
+   "Shrugging",
+   "Taking long steps"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "goblet-squat",
+  "name": "Goblet Squat",
+  "tags": [
+   "dumbbell"
+  ],
+  "equipment": "dumbbell",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "glutes",
+   "hamstrings",
+   "abdominals",
+   "lower_back"
+  ],
+  "motion": "squat",
+  "implement": "dumbbell",
+  "unilateral": false,
+  "instructions": [
+   "Hold a dumbbell vertically against your chest.",
+   "Sit down between your hips, elbows inside the knees.",
+   "Push through the floor to stand."
+  ],
+  "cues": [
+   "Sit down between the hips",
+   "Chest tall",
+   "Push the floor away"
+  ],
+  "mistakes": [
+   "Heels lifting",
+   "Knees caving",
+   "Chest collapsing"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "dumbbell-hip-thrust",
+  "name": "Dumbbell Hip Thrust",
+  "tags": [
+   "dumbbell"
+  ],
+  "equipment": "dumbbell",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "glutes"
+  ],
+  "secondary": [
+   "hamstrings",
+   "quadriceps",
+   "abdominals"
+  ],
+  "motion": "glute_bridge",
+  "implement": "dumbbell",
+  "unilateral": false,
+  "instructions": [
+   "Sit with your upper back against a bench and a dumbbell resting on your hips.",
+   "Drive through the heels to lift the hips until the body is in a line.",
+   "Lower with control."
+  ],
+  "cues": [
+   "Push the floor away",
+   "Squeeze the glutes at the top",
+   "Chin tucked, ribs down"
+  ],
+  "mistakes": [
+   "Overarching the lower back",
+   "Pushing through the toes",
+   "Not reaching full hip extension"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "dumbbell-woodchop",
+  "name": "Dumbbell Woodchop",
+  "tags": [
+   "dumbbell"
+  ],
+  "equipment": "dumbbell",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "primary": [
+   "obliques"
+  ],
+  "secondary": [
+   "abdominals",
+   "shoulders",
+   "glutes"
+  ],
+  "motion": "woodchop",
+  "implement": "dumbbell",
+  "unilateral": false,
+  "instructions": [
+   "Hold one dumbbell with both hands near one hip.",
+   "Rotate and lift the dumbbell diagonally across the body overhead.",
+   "Reverse with control."
+  ],
+  "cues": [
+   "Rotate the whole torso",
+   "Pivot the back foot",
+   "Keep the abs braced"
+  ],
+  "mistakes": [
+   "Using only the arms",
+   "Twisting the lower back",
+   "Going too heavy"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "bird-dog",
+  "name": "Bird Dog",
+  "tags": [
+   "bodyweight",
+   "mat"
+  ],
+  "equipment": "bodyweight",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "static",
+  "primary": [
+   "lower_back"
+  ],
+  "secondary": [
+   "glutes",
+   "abdominals",
+   "shoulders"
+  ],
+  "motion": "bird_dog",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Start on hands and knees, hands under the shoulders and knees under the hips.",
+   "Extend the opposite arm and leg until they are in line with the torso.",
+   "Return and switch sides."
+  ],
+  "cues": [
+   "Reach long through fingers and toes",
+   "Keep the hips level",
+   "Brace the abs"
+  ],
+  "mistakes": [
+   "Rotating the hips",
+   "Arching the back",
+   "Rushing"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "superman",
+  "name": "Superman",
+  "tags": [
+   "bodyweight",
+   "mat"
+  ],
+  "equipment": "bodyweight",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "primary": [
+   "lower_back"
+  ],
+  "secondary": [
+   "glutes",
+   "hamstrings",
+   "shoulders"
+  ],
+  "motion": "superman",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Lie face down with the arms reaching overhead.",
+   "Lift the arms, chest and legs slightly off the mat.",
+   "Hold briefly and lower."
+  ],
+  "cues": [
+   "Reach long",
+   "Squeeze the glutes and back",
+   "Neck neutral"
+  ],
+  "mistakes": [
+   "Cranking the neck",
+   "Overarching",
+   "Jerking up"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "clamshell",
+  "name": "Clamshell",
+  "tags": [
+   "bodyweight",
+   "mat"
+  ],
+  "equipment": "bodyweight",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "primary": [
+   "abductors"
+  ],
+  "secondary": [
+   "glutes"
+  ],
+  "motion": "clamshell",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Lie on your side with knees bent and feet stacked.",
+   "Keep the feet together and open the top knee.",
+   "Close slowly."
+  ],
+  "cues": [
+   "Feet stay together",
+   "Hips stacked",
+   "Feel the outer hip"
+  ],
+  "mistakes": [
+   "Rolling the pelvis back",
+   "Rushing",
+   "Letting the feet part"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "side-lying-leg-raise",
+  "name": "Side-Lying Leg Raise",
+  "tags": [
+   "bodyweight",
+   "mat"
+  ],
+  "equipment": "bodyweight",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "primary": [
+   "abductors"
+  ],
+  "secondary": [
+   "glutes",
+   "obliques"
+  ],
+  "motion": "side_leg_raise",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Lie on your side, legs straight and stacked.",
+   "Lift the top leg to about 45 degrees.",
+   "Lower slowly."
+  ],
+  "cues": [
+   "Lift from the outer hip",
+   "Toes forward",
+   "Hips stacked"
+  ],
+  "mistakes": [
+   "Rolling the hips back",
+   "Swinging",
+   "Lifting too high"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "fire-hydrant",
+  "name": "Fire Hydrant",
+  "tags": [
+   "bodyweight",
+   "mat"
+  ],
+  "equipment": "bodyweight",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "primary": [
+   "abductors"
+  ],
+  "secondary": [
+   "glutes",
+   "obliques"
+  ],
+  "motion": "quadruped_kickback",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Start on hands and knees.",
+   "Lift one knee out to the side, keeping the knee bent.",
+   "Lower and repeat."
+  ],
+  "cues": [
+   "Open the hip, keep the knee bent",
+   "Hips square",
+   "Squeeze the glute"
+  ],
+  "mistakes": [
+   "Rotating the torso",
+   "Swinging",
+   "Arching the back"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "donkey-kick",
+  "name": "Donkey Kick",
+  "tags": [
+   "bodyweight",
+   "mat"
+  ],
+  "equipment": "bodyweight",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "primary": [
+   "glutes"
+  ],
+  "secondary": [
+   "hamstrings",
+   "lower_back"
+  ],
+  "motion": "quadruped_kickback",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Start on hands and knees.",
+   "Kick one heel toward the ceiling with the knee bent.",
+   "Lower with control."
+  ],
+  "cues": [
+   "Push the heel to the ceiling",
+   "Hips square",
+   "Squeeze the glute"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Swinging the leg",
+   "Rotating the hips"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "knee-push-up",
+  "name": "Knee Push-Up",
+  "tags": [
+   "bodyweight",
+   "mat"
+  ],
+  "equipment": "bodyweight",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "chest"
+  ],
+  "secondary": [
+   "shoulders",
+   "triceps",
+   "abdominals"
+  ],
+  "motion": "pushup",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Start on your hands and knees with the body in a line from the head to the knees.",
+   "Lower the chest toward the floor.",
+   "Press back up."
+  ],
+  "cues": [
+   "Push the floor away",
+   "Straight line from head to knees",
+   "Elbows at about 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows",
+   "Short range"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "glute-bridge",
+  "name": "Glute Bridge",
+  "tags": [
+   "bodyweight",
+   "mat"
+  ],
+  "equipment": "bodyweight",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "glutes"
+  ],
+  "secondary": [
+   "hamstrings",
+   "abdominals",
+   "lower_back"
+  ],
+  "motion": "glute_bridge",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Lie on your back with the knees bent and feet flat.",
+   "Drive the hips up until the body is in a line.",
+   "Lower with control."
+  ],
+  "cues": [
+   "Push the floor away through the heels",
+   "Squeeze the glutes at the top",
+   "Ribs down"
+  ],
+  "mistakes": [
+   "Overarching the lower back",
+   "Pushing through the toes",
+   "Knees splaying"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "bodyweight-calf-raise",
+  "name": "Bodyweight Calf Raise",
+  "tags": [
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "primary": [
+   "calves"
+  ],
+  "secondary": [],
+  "motion": "calf_raise",
+  "implement": "none",
+  "unilateral": false,
+  "instructions": [
+   "Stand on the edge of a step with the heels hanging off.",
+   "Rise onto the balls of the feet.",
+   "Lower below the step for a stretch."
+  ],
+  "cues": [
+   "Rise as tall as you can",
+   "Pause at the top",
+   "Full stretch at the bottom"
+  ],
+  "mistakes": [
+   "Bouncing",
+   "Short range",
+   "Rolling the ankles"
+  ],
+  "source": "fitnessgym"
+ },
+ {
+  "id": "reverse-lunge",
+  "name": "Reverse Lunge",
+  "tags": [
+   "bodyweight"
+  ],
+  "equipment": "bodyweight",
+  "category": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "primary": [
+   "quadriceps"
+  ],
+  "secondary": [
+   "glutes",
+   "hamstrings",
+   "calves"
+  ],
+  "motion": "lunge",
+  "implement": "none",
+  "unilateral": true,
+  "instructions": [
+   "Stand tall with feet together.",
+   "Step back and lower the back knee toward the floor.",
+   "Push through the front heel to return."
+  ],
+  "cues": [
+   "Drop straight down",
+   "Push the floor away",
+   "Stay tall"
+  ],
+  "mistakes": [
+   "Front knee caving",
+   "Short step",
+   "Leaning forward"
+  ],
+  "source": "fitnessgym"
+ }
+]

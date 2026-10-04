@@ -1,0 +1,12 @@
+{
+  "id": "woodchop", "name": "Woodchop", "duration": 2.6,
+  "handFrame": "chest", "footFrame": "world",
+  "view": {"yaw": -35, "pitch": 10},
+  "notes": "High-to-low chop across the body: torso rotates and flexes, hips sit slightly. Both hands hold one dumbbell/handle.",
+  "keys": [
+    {"t": 0.0, "e": 0.2, "pelvis": [0, 0.95, 0], "pitch": 0, "spine": [-4, 0, 30], "neck": -6, "lh": [0.14, 0.4, 0.28], "rh": [0.02, 0.4, 0.28], "lep": [0.6, 0.2, 0.2], "rep": [-0.6, 0.2, 0.2], "lf": [0.22, 0.08, 0], "rf": [-0.22, 0.08, 0], "lfy": 15, "rfy": 15, "lkp": [0.3, 0, 1], "rkp": [-0.3, 0, 1]},
+    {"t": 0.45, "e": 0.6, "pelvis": [0, 0.86, 0.02], "pitch": 8, "spine": [30, 0, -28], "neck": 0, "lh": [-0.02, -0.38, 0.34], "rh": [-0.14, -0.38, 0.34], "lep": [0.6, -0.3, 0.2], "rep": [-0.6, -0.3, 0.2]},
+    {"t": 0.55, "e": 1.0},
+    {"t": 0.9, "e": 0.5, "pelvis": [0, 0.95, 0], "pitch": 0, "spine": [-4, 0, 30], "neck": -6, "lh": [0.14, 0.4, 0.28], "rh": [0.02, 0.4, 0.28], "lep": [0.6, 0.2, 0.2], "rep": [-0.6, 0.2, 0.2]}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "squat", "name": "Squat", "duration": 3.2,
+  "handFrame": "chest", "footFrame": "world",
+  "view": { "yaw": -40, "pitch": 8 },
+  "keys": [
+    { "t": 0.0,  "e": 0.15, "pelvis": [0, 0.97, 0], "pitch": 0, "spine": [0, 0, 0], "neck": 0,
+      "lh": [0.16, -0.06, 0.48], "lf": [0.16, 0.08, 0.0], "lfy": 18, "lkp": [0.3, 0, 1] },
+    { "t": 0.45, "e": 0.55, "pelvis": [0, 0.56, -0.2], "pitch": 38, "spine": [-8, 0, 0], "neck": -25 },
+    { "t": 0.55, "e": 1.0 },
+    { "t": 0.85, "e": 0.8, "pelvis": [0, 0.84, -0.06], "pitch": 14, "spine": [-2, 0, 0], "neck": -8 }
+  ]
+}

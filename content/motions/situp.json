@@ -1,0 +1,15 @@
+{
+  "id": "situp", "name": "Sit-up", "duration": 3.0,
+  "handFrame": "chest", "footFrame": "world",
+  "view": {"yaw": -80, "pitch": 10},
+  "props": [
+    {"type": "mat", "min": [-0.4, -0.005, -1.1], "max": [0.4, 0.008, 0.9]}
+  ],
+  "notes": "Supine, knees bent; roll all the way up toward the knees (hips stay on the floor).",
+  "keys": [
+    {"t": 0.0, "e": 0.15, "pelvis": [0, 0.12, 0], "pitch": -90, "spine": [0, 0, 0], "neck": 0, "lh": [0.13, 0.22, 0.03], "lep": [1, 0.2, 0], "lf": [0.12, 0.08, 0.52], "lkp": [0.1, 0, 1], "lfy": 0},
+    {"t": 0.45, "e": 1.0, "pitch": -62, "spine": [48, 0, 0], "neck": 8},
+    {"t": 0.55, "e": 0.9},
+    {"t": 0.92, "e": 0.3, "pitch": -90, "spine": [0, 0, 0], "neck": 0}
+  ]
+}

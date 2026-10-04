@@ -1,0 +1,13 @@
+{"id": "roundhouse_kick", "name": "Roundhouse kick", "duration": 1.8, "handFrame": "chest", "footFrame": "world", "view": {"yaw": -70, "pitch": 6}, "notes": "Rear (right) roundhouse: pivot on the lead foot while the hips rotate ~90 deg (yaw -30 -> +62), the knee chambers, then the leg whips out nearly straight at waist/chest height with the torso leaning away; arms counter-swing. Approximate: engine IK uses a world-space foot target.",
+  "props": [
+
+  ],
+  "keys": [
+    {"pelvis": [0, 0.91, 0], "yaw": -30, "roll": 0, "pitch": 0, "spine": [6, 0, 0], "neck": -4, "lf": [0.08, 0.08, 0.26], "rf": [-0.14, 0.08, -0.2], "lfy": 10, "rfy": 40, "lfa": 0, "rfa": 0, "lh": [0.13, 0.06, 0.24], "rh": [-0.1, 0.04, 0.17], "lep": [0.3, -1, -0.2], "rep": [-0.3, -1, -0.2], "lkp": [0.15, 0, 1], "rkp": [-0.15, 0, 1], "t": 0, "el": 0.2, "er": 0.2},
+    {"pelvis": [0, 0.94, 0.02], "yaw": 10, "roll": 6, "pitch": 0, "spine": [6, 0, 0], "neck": -4, "lf": [0.08, 0.08, 0.26], "rf": [-0.22, 0.92, 0.05], "lfy": 40, "rfy": 40, "lfa": -15, "rfa": -20, "lh": [0.13, 0.12, 0.22], "rh": [-0.15, 0.0, 0.15], "lep": [0.3, -1, -0.2], "rep": [-0.3, -1, -0.2], "lkp": [0.15, 0, 1], "rkp": [-0.2, 0.3, 1], "t": 0.18, "el": 0.3, "er": 0.6},
+    {"pelvis": [0, 0.96, 0.04], "yaw": 62, "roll": 16, "pitch": -4, "spine": [-4, 0, -6], "neck": -4, "lf": [0.08, 0.08, 0.26], "rf": [0.02, 1.0, 0.72], "lfy": 75, "rfy": 40, "lfa": -20, "rfa": -5, "lh": [0.2, 0.2, 0.1], "rh": [-0.3, -0.1, -0.1], "lep": [0.8, -0.5, -0.4], "rep": [-0.5, -1, -0.4], "lkp": [0.15, 0, 1], "rkp": [-0.1, 0.4, 1], "t": 0.32, "el": 0.3, "er": 1.0},
+    {"pelvis": [0, 0.96, 0.04], "yaw": 62, "roll": 16, "pitch": -4, "spine": [-4, 0, -6], "neck": -4, "lf": [0.08, 0.08, 0.26], "rf": [0.02, 1.0, 0.72], "lfy": 75, "rfy": 40, "lfa": -20, "rfa": -5, "lh": [0.2, 0.2, 0.1], "rh": [-0.3, -0.1, -0.1], "lep": [0.8, -0.5, -0.4], "rep": [-0.5, -1, -0.4], "lkp": [0.15, 0, 1], "rkp": [-0.1, 0.4, 1], "t": 0.44, "el": 0.3, "er": 0.9},
+    {"pelvis": [0, 0.94, 0.02], "yaw": 10, "roll": 6, "pitch": 0, "spine": [6, 0, 0], "neck": -4, "lf": [0.08, 0.08, 0.26], "rf": [-0.22, 0.92, 0.05], "lfy": 40, "rfy": 40, "lfa": -15, "rfa": -20, "lh": [0.13, 0.06, 0.24], "rh": [-0.1, 0.04, 0.17], "lep": [0.3, -1, -0.2], "rep": [-0.3, -1, -0.2], "lkp": [0.15, 0, 1], "rkp": [-0.2, 0.3, 1], "t": 0.58, "el": 0.3, "er": 0.5},
+    {"pelvis": [0, 0.91, 0], "yaw": -30, "roll": 0, "pitch": 0, "spine": [6, 0, 0], "neck": -4, "lf": [0.08, 0.08, 0.26], "rf": [-0.14, 0.08, -0.2], "lfy": 10, "rfy": 40, "lfa": 0, "rfa": 0, "lh": [0.13, 0.06, 0.24], "rh": [-0.1, 0.04, 0.17], "lep": [0.3, -1, -0.2], "rep": [-0.3, -1, -0.2], "lkp": [0.15, 0, 1], "rkp": [-0.15, 0, 1], "t": 0.8, "el": 0.2, "er": 0.2}
+  ]
+}

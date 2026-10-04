@@ -1,0 +1,12 @@
+{
+  "id": "side_bend", "name": "Side bend", "duration": 4.0,
+  "handFrame": "chest", "footFrame": "world",
+  "view": {"yaw": -15, "pitch": 8},
+  "notes": "Dumbbells at the sides; bends toward one side then lifts back with the opposite obliques, alternating sides. Drawn two-handed (the rig draws the implement in both hands).",
+  "keys": [
+    {"t": 0.0, "e": 0.5, "pelvis": [0, 0.97, 0], "spine": [0, -22, 0], "lh": [0.21, -0.58, 0.02], "lep": [0.1, -1, -0.1], "lf": [0.12, 0.08, 0], "lkp": [0.1, 0, 1]},
+    {"t": 0.22, "e": 1.0, "spine": [0, 0, 0]},
+    {"t": 0.5, "e": 0.5, "spine": [0, 22, 0]},
+    {"t": 0.72, "e": 1.0, "spine": [0, 0, 0]}
+  ]
+}

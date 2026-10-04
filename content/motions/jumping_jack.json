@@ -1,0 +1,13 @@
+{"id": "jumping_jack", "name": "Jumping jack", "duration": 1.2, "handFrame": "chest", "footFrame": "world", "view": {"yaw": -25, "pitch": 6}, "notes": "Whole-body jump: pelvis rises ~0.13 m with both feet off the floor in the flight keys. Feet and arms open together, return together.",
+  "props": [
+
+  ],
+  "keys": [
+    {"t": 0, "e": 0.6, "pelvis": [0, 0.97, 0], "lf": [0.08, 0.08, 0], "lh": [0.24, -0.5, 0.0], "lep": [0.5, -1, -0.2], "lkp": [0.3, 0, 1], "lfy": 18},
+    {"t": 0.15, "e": 0.8, "pelvis": [0, 1.1, 0], "lf": [0.2, 0.24, 0], "lh": [0.4, 0.1, 0.0], "lep": [1, 0, -0.2], "lkp": [0.3, 0, 1], "lfy": 18},
+    {"t": 0.3, "e": 0.9, "pelvis": [0, 0.92, 0], "lf": [0.38, 0.08, 0], "lh": [0.42, 0.48, 0.0], "lep": [1, 0.2, -0.2], "lkp": [0.3, 0, 1], "lfy": 18},
+    {"t": 0.5, "e": 0.7, "pelvis": [0, 0.93, 0], "lf": [0.38, 0.08, 0], "lh": [0.42, 0.48, 0.0], "lep": [1, 0.2, -0.2], "lkp": [0.3, 0, 1], "lfy": 18},
+    {"t": 0.65, "e": 0.8, "pelvis": [0, 1.1, 0], "lf": [0.2, 0.24, 0], "lh": [0.4, 0.1, 0.0], "lep": [1, 0, -0.2], "lkp": [0.3, 0, 1], "lfy": 18},
+    {"t": 0.8, "e": 0.9, "pelvis": [0, 0.96, 0], "lf": [0.08, 0.08, 0], "lh": [0.24, -0.5, 0.0], "lep": [0.5, -1, -0.2], "lkp": [0.3, 0, 1], "lfy": 18}
+  ]
+}

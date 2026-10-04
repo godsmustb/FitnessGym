@@ -1,0 +1,17 @@
+{
+  "id": "hanging_knee_raise", "name": "Hanging knee raise", "duration": 3.0,
+  "handFrame": "world", "footFrame": "pelvis",
+  "view": {"yaw": -55, "pitch": 8},
+  "props": [
+    {"type": "box", "min": [-0.6, 2.04, -0.03], "max": [0.6, 2.1, 0.03], "color": "steel"},
+    {"type": "box", "min": [0.56, 0, -0.05], "max": [0.64, 2.1, 0.05], "color": "frame"},
+    {"type": "box", "min": [-0.64, 0, -0.05], "max": [-0.56, 2.1, 0.05], "color": "frame"}
+  ],
+  "notes": "Dead hang on a pull-up bar; knees drive up past hip height with a posterior pelvic tilt.",
+  "keys": [
+    {"t": 0.0, "e": 0.2, "pelvis": [0, 0.99, 0], "pitch": 0, "spine": [0, 0, 0], "neck": 0, "lh": [0.22, 2.0, 0.03], "lep": [0.3, -0.2, -1], "lf": [0.1, -0.78, 0.05], "lkp": [0.1, 0, 1], "lfy": 0, "lfa": -20},
+    {"t": 0.4, "e": 1.0, "pitch": -12, "spine": [12, 0, 0], "lf": [0.1, -0.28, 0.5]},
+    {"t": 0.5, "e": 0.9},
+    {"t": 0.92, "e": 0.35, "pitch": 0, "spine": [0, 0, 0], "lf": [0.1, -0.78, 0.05]}
+  ]
+}

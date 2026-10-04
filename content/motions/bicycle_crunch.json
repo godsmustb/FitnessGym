@@ -1,0 +1,13 @@
+{
+  "id": "bicycle_crunch", "name": "Bicycle crunch", "duration": 2.4,
+  "handFrame": "chest", "footFrame": "pelvis",
+  "view": {"yaw": -80, "pitch": 10},
+  "props": [
+    {"type": "mat", "min": [-0.4, -0.005, -1.1], "max": [0.4, 0.008, 1.0]}
+  ],
+  "notes": "Hands behind head; knee drives toward the opposite elbow while the other leg extends. Pedalling alternates sides; the spine twist sign may need flipping if it looks the wrong way.",
+  "keys": [
+    {"t": 0.0, "e": 0.9, "pelvis": [0, 0.12, 0], "pitch": -90, "spine": [30, 0, -28], "neck": 10, "lh": [0.13, 0.22, 0.03], "lep": [1, 0.2, 0], "lf": [0.1, -0.4, 0.43], "rf": [-0.1, -0.6, 0.56], "lkp": [0.1, 0.3, 1], "rkp": [-0.1, 0.3, 1], "lfy": 0, "rfy": 0},
+    {"t": 0.5, "e": 0.9, "lf": [0.1, -0.6, 0.56], "rf": [-0.1, -0.4, 0.43], "spine": [30, 0, 28]}
+  ]
+}

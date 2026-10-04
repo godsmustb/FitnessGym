@@ -1,0 +1,15 @@
+{
+  "id": "clamshell", "name": "Clamshell", "duration": 3.0,
+  "handFrame": "chest", "footFrame": "pelvis",
+  "view": {"yaw": -10, "pitch": 32},
+  "props": [
+    {"type": "mat", "min": [-1.1, -0.005, -0.4], "max": [0.9, 0.008, 0.4]}
+  ],
+  "notes": "Lying on the left side, hips flexed ~45 deg, knees bent, heels together; the top (right) knee opens like a clamshell with the feet staying together (knee pole swings up).",
+  "keys": [
+    {"t": 0.0, "e": 0.15, "pelvis": [0, 0.17, 0], "roll": 90, "pitch": 0, "yaw": 0, "neck": 0, "spine": [0, 0, 0], "lh": [0.19, 0.5, 0.0], "rh": [-0.12, -0.5, 0.08], "lep": [0.3, 0.3, -1], "rep": [-1, -0.3, -0.3], "lf": [0.09, -0.64, 0.02], "rf": [-0.01, -0.64, 0.02], "lkp": [0.0, -0.4, 1], "rkp": [0, -0.4, 1], "lfy": 0, "rfy": 0, "el": 0.1, "er": 0.15},
+    {"t": 0.4, "er": 1.0, "el": 0.1, "rkp": [-1, -0.2, 0.5]},
+    {"t": 0.55, "er": 0.95, "el": 0.1},
+    {"t": 0.92, "er": 0.25, "el": 0.1, "rkp": [0, -0.4, 1]}
+  ]
+}

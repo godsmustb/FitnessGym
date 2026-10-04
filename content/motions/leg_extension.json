@@ -1,0 +1,20 @@
+{
+  "id": "leg_extension", "name": "Leg extension machine", "duration": 3.0,
+  "handFrame": "pelvis", "footFrame": "pelvis",
+  "view": { "yaw": -68, "pitch": 10 },
+  "props": [
+    { "type": "box", "min": [-0.24, 0.40, -0.22], "max": [0.24, 0.49, 0.36], "color": "pad" },
+    { "type": "box", "min": [-0.24, 0.49, -0.27], "max": [0.24, 1.18, -0.17], "color": "pad" },
+    { "type": "box", "min": [-0.06, 0.0, -0.1], "max": [0.06, 0.40, 0.25], "color": "frame" },
+    { "type": "box", "min": [0.3, 0.0, -0.3], "max": [0.36, 1.25, -0.2], "color": "frame" },
+    { "type": "bar", "to": "feet", "color": "pad", "radius": 0.035 }
+  ],
+  "notes": "Seated: pelvis at seat height, feet in the pelvis frame. Knees bend 90 deg at the start; the pad sits on the front of the ankles.",
+  "keys": [
+    { "t": 0.0, "e": 0.15, "pelvis": [0, 0.57, -0.02], "pitch": -6, "lh": [0.27, -0.06, 0.06], "lep": [0.6, -1, -0.5],
+      "lf": [0.09, -0.48, 0.45], "lkp": [0.1, 0.4, 1.0], "lfa": 0, "lfy": 0 },
+    { "t": 0.42, "e": 1.0, "lf": [0.09, -0.02, 0.83] },
+    { "t": 0.52, "e": 0.95 },
+    { "t": 0.92, "e": 0.25, "lf": [0.09, -0.48, 0.45] }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dead_bug", "name": "Dead bug", "duration": 6.0,
+  "handFrame": "chest", "footFrame": "pelvis",
+  "view": {"yaw": -80, "pitch": 12},
+  "props": [
+    {"type": "mat", "min": [-0.4, -0.005, -1.2], "max": [0.4, 0.008, 0.9]}
+  ],
+  "notes": "Supine, arms up and hips/knees at 90 deg; opposite arm and leg lower toward the floor, return, then switch.",
+  "keys": [
+    {"t": 0.0, "e": 0.15, "pelvis": [0, 0.12, 0], "pitch": -90, "spine": [0, 0, 0], "neck": 0, "lh": [0.19, -0.06, 0.52], "rh": [-0.19, -0.06, 0.52], "lep": [0.3, 0, 1], "rep": [-0.3, 0, 1], "lf": [0.1, -0.4, 0.43], "rf": [-0.1, -0.4, 0.43], "lkp": [0.1, 0, 1], "rkp": [-0.1, 0, 1], "lfy": 0, "rfy": 0},
+    {"t": 0.18, "er": 1.0, "el": 0.8, "rh": [-0.19, 0.52, 0.0], "lf": [0.1, -0.86, 0.12]},
+    {"t": 0.42, "er": 1.0, "el": 0.8},
+    {"t": 0.5, "e": 0.15, "rh": [-0.19, -0.06, 0.52], "lf": [0.1, -0.4, 0.43]},
+    {"t": 0.68, "er": 0.8, "el": 1.0, "lh": [0.19, 0.52, 0.0], "rf": [-0.1, -0.86, 0.12]},
+    {"t": 0.92, "er": 0.8, "el": 1.0}
+  ]
+}

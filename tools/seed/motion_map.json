@@ -1,0 +1,3077 @@
+{
+ "_doc": "map: free-exercise-db id -> motion template, implement, unilateral, extra tags, optional primary/secondary replacement and add_secondary. skip: id -> reason.",
+ "map": {
+  "3_4_Sit-Up": {
+   "motion": "situp",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Ab_Crunch_Machine": {
+   "motion": "ab_crunch_machine",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Air_Bike": {
+   "motion": "bicycle_crunch",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "obliques",
+    "hip_flexors"
+   ]
+  },
+  "Alternate_Heel_Touchers": {
+   "motion": "crunch",
+   "implement": "none",
+   "unilateral": true,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ]
+  },
+  "Alternate_Hammer_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Alternate_Incline_Dumbbell_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Alternate_Leg_Diagonal_Bound": {
+   "motion": "skater_hop",
+   "implement": "none",
+   "unilateral": true,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Alternating_Cable_Shoulder_Press": {
+   "motion": "standing_overhead_press",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Alternating_Deltoid_Raise": {
+   "motion": "front_raise",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Arnold_Dumbbell_Press": {
+   "motion": "seated_overhead_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Around_The_Worlds": {
+   "motion": "chest_fly",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Bench_Dips": {
+   "motion": "bench_dip",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Bench_Jump": {
+   "motion": "jump_squat",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Bent-Arm_Dumbbell_Pullover": {
+   "motion": "pullover",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench": {
+   "motion": "rear_delt_fly",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Bent_Over_Low-Pulley_Side_Lateral": {
+   "motion": "rear_delt_fly",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Bent_Over_Two-Dumbbell_Row": {
+   "motion": "bent_over_row",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Bent_Over_Two-Dumbbell_Row_With_Palms_In": {
+   "motion": "bent_over_row",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Body-Up": {
+   "motion": "lying_triceps_extension",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ]
+  },
+  "Bodyweight_Squat": {
+   "motion": "squat",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Bodyweight_Walking_Lunge": {
+   "motion": "lunge",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Bottoms_Up": {
+   "motion": "leg_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Butt-Ups": {
+   "motion": "plank",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "secondary": [
+    "glutes",
+    "shoulders"
+   ]
+  },
+  "Butt_Lift_Bridge": {
+   "motion": "glute_bridge",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ]
+  },
+  "Butterfly": {
+   "motion": "pec_deck",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Chest_Press": {
+   "motion": "machine_chest_press",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Crossover": {
+   "motion": "cable_crossover",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Crunch": {
+   "motion": "ab_crunch_machine",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Deadlifts": {
+   "motion": "hinge",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Hammer_Curls_-_Rope_Attachment": {
+   "motion": "curl",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Hip_Adduction": {
+   "motion": "hip_adduction_machine",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ],
+   "primary": [
+    "adductors"
+   ],
+   "secondary": [
+    "quadriceps"
+   ]
+  },
+  "Cable_Incline_Pushdown": {
+   "motion": "pullover",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ],
+   "primary": [
+    "lats"
+   ],
+   "secondary": [
+    "triceps",
+    "chest"
+   ]
+  },
+  "Cable_Incline_Triceps_Extension": {
+   "motion": "overhead_triceps_extension",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Iron_Cross": {
+   "motion": "cable_crossover",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Judo_Flip": {
+   "motion": "woodchop",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ],
+   "primary": [
+    "obliques"
+   ],
+   "secondary": [
+    "abdominals",
+    "shoulders"
+   ],
+   "add_secondary": [
+    "obliques"
+   ]
+  },
+  "Cable_Lying_Triceps_Extension": {
+   "motion": "lying_triceps_extension",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_One_Arm_Tricep_Extension": {
+   "motion": "triceps_pushdown",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Preacher_Curl": {
+   "motion": "machine_curl",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Rear_Delt_Fly": {
+   "motion": "rear_delt_fly",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Reverse_Crunch": {
+   "motion": "leg_raise",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Cable_Rope_Overhead_Triceps_Extension": {
+   "motion": "overhead_triceps_extension",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Rope_Rear-Delt_Rows": {
+   "motion": "face_pull",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Russian_Twists": {
+   "motion": "russian_twist",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ],
+   "primary": [
+    "obliques"
+   ],
+   "secondary": [
+    "abdominals"
+   ],
+   "add_secondary": [
+    "obliques"
+   ]
+  },
+  "Cable_Seated_Crunch": {
+   "motion": "ab_crunch_machine",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Seated_Lateral_Raise": {
+   "motion": "lateral_raise",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Shoulder_Press": {
+   "motion": "standing_overhead_press",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Shrugs": {
+   "motion": "shrug",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Cable_Wrist_Curl": {
+   "motion": "wrist_curl",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Calf-Machine_Shoulder_Shrug": {
+   "motion": "shrug",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Calf_Press": {
+   "motion": "seated_calf_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Calf_Press_On_The_Leg_Press_Machine": {
+   "motion": "calf_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Calf_Raise_On_A_Dumbbell": {
+   "motion": "calf_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Carioca_Quick_Step": {
+   "motion": "skater_hop",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Chair_Squat": {
+   "motion": "squat",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Chin-Up": {
+   "motion": "pullup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Clock_Push-Up": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Close-Grip_Dumbbell_Press": {
+   "motion": "bench_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Close-Grip_Front_Lat_Pulldown": {
+   "motion": "lat_pulldown",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Close-Grip_Push-Up_off_of_a_Dumbbell": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Cocoons": {
+   "motion": "leg_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Concentration_Curls": {
+   "motion": "concentration_curl",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Cross-Body_Crunch": {
+   "motion": "crunch",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "primary": [
+    "abdominals"
+   ],
+   "secondary": [
+    "obliques"
+   ]
+  },
+  "Cross_Body_Hammer_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Crunch_-_Hands_Overhead": {
+   "motion": "crunch",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ]
+  },
+  "Crunches": {
+   "motion": "crunch",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ]
+  },
+  "Cuban_Press": {
+   "motion": "upright_row",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dead_Bug": {
+   "motion": "dead_bug",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Decline_Crunch": {
+   "motion": "crunch",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Decline_Dumbbell_Bench_Press": {
+   "motion": "bench_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Decline_Dumbbell_Flyes": {
+   "motion": "chest_fly",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Decline_Dumbbell_Triceps_Extension": {
+   "motion": "lying_triceps_extension",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Decline_Oblique_Crunch": {
+   "motion": "crunch",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ],
+   "primary": [
+    "obliques"
+   ],
+   "secondary": [
+    "abdominals"
+   ]
+  },
+  "Decline_Push-Up": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Decline_Reverse_Crunch": {
+   "motion": "leg_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Decline_Smith_Press": {
+   "motion": "machine_chest_press",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Dip_Machine": {
+   "motion": "parallel_dip",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Dips_-_Triceps_Version": {
+   "motion": "parallel_dip",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Double_Leg_Butt_Kick": {
+   "motion": "butt_kicks",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Dumbbell_Alternate_Bicep_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Bench_Press": {
+   "motion": "bench_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Bench_Press_with_Neutral_Grip": {
+   "motion": "bench_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Bicep_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Floor_Press": {
+   "motion": "bench_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell",
+    "mat"
+   ]
+  },
+  "Dumbbell_Flyes": {
+   "motion": "chest_fly",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Incline_Row": {
+   "motion": "bent_over_row",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Incline_Shoulder_Raise": {
+   "motion": "front_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Lunges": {
+   "motion": "lunge",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise": {
+   "motion": "rear_delt_fly",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Lying_Pronation": {
+   "motion": "wrist_curl",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Lying_Rear_Lateral_Raise": {
+   "motion": "rear_delt_fly",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Lying_Supination": {
+   "motion": "wrist_curl",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_One-Arm_Shoulder_Press": {
+   "motion": "standing_overhead_press",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_One-Arm_Triceps_Extension": {
+   "motion": "overhead_triceps_extension",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_One-Arm_Upright_Row": {
+   "motion": "upright_row",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Prone_Incline_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Raise": {
+   "motion": "front_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Rear_Lunge": {
+   "motion": "lunge",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Scaption": {
+   "motion": "front_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Seated_One-Leg_Calf_Raise": {
+   "motion": "seated_calf_raise",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Shoulder_Press": {
+   "motion": "seated_overhead_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Shrug": {
+   "motion": "shrug",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Side_Bend": {
+   "motion": "side_bend",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ],
+   "primary": [
+    "obliques"
+   ],
+   "secondary": [
+    "abdominals"
+   ],
+   "add_secondary": [
+    "obliques"
+   ]
+  },
+  "Dumbbell_Squat": {
+   "motion": "squat",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Squat_To_A_Bench": {
+   "motion": "squat",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Step_Ups": {
+   "motion": "step_up",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Dumbbell_Tricep_Extension_-Pronated_Grip": {
+   "motion": "overhead_triceps_extension",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Elbow_to_Knee": {
+   "motion": "crunch",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "secondary": [
+    "obliques",
+    "hip_flexors"
+   ]
+  },
+  "Elevated_Cable_Rows": {
+   "motion": "seated_cable_row",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Face_Pull": {
+   "motion": "face_pull",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Fast_Skipping": {
+   "motion": "run_in_place",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Flat_Bench_Cable_Flyes": {
+   "motion": "chest_fly",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Flat_Bench_Leg_Pull-In": {
+   "motion": "leg_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Flat_Bench_Lying_Leg_Raise": {
+   "motion": "leg_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Flexor_Incline_Dumbbell_Curls": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Flutter_Kicks": {
+   "motion": "back_extension",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ],
+   "primary": [
+    "glutes"
+   ],
+   "secondary": [
+    "hamstrings",
+    "lower_back"
+   ]
+  },
+  "Frog_Sit-Ups": {
+   "motion": "situp",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Front_Cable_Raise": {
+   "motion": "front_raise",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Front_Dumbbell_Raise": {
+   "motion": "front_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Front_Incline_Dumbbell_Raise": {
+   "motion": "front_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Front_Two-Dumbbell_Raise": {
+   "motion": "front_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Full_Range-Of-Motion_Lat_Pulldown": {
+   "motion": "lat_pulldown",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Glute_Ham_Raise": {
+   "motion": "back_extension",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ],
+   "primary": [
+    "hamstrings"
+   ],
+   "secondary": [
+    "glutes",
+    "lower_back"
+   ]
+  },
+  "Glute_Kickback": {
+   "motion": "quadruped_kickback",
+   "implement": "none",
+   "unilateral": true,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ]
+  },
+  "Gorilla_Chin_Crunch": {
+   "motion": "hanging_knee_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Hack_Squat": {
+   "motion": "squat",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Hammer_Curls": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Hammer_Grip_Incline_DB_Bench_Press": {
+   "motion": "incline_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Hanging_Leg_Raise": {
+   "motion": "hanging_knee_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Hanging_Pike": {
+   "motion": "hanging_knee_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "High_Cable_Curls": {
+   "motion": "curl",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Hyperextensions_With_No_Hyperextension_Bench": {
+   "motion": "back_extension",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Incline_Cable_Chest_Press": {
+   "motion": "incline_press",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Incline_Cable_Flye": {
+   "motion": "chest_fly",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Incline_Dumbbell_Bench_With_Palms_Facing_In": {
+   "motion": "incline_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Incline_Dumbbell_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Incline_Dumbbell_Flyes": {
+   "motion": "chest_fly",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Incline_Dumbbell_Flyes_-_With_A_Twist": {
+   "motion": "chest_fly",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Incline_Dumbbell_Press": {
+   "motion": "incline_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Incline_Hammer_Curls": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Incline_Inner_Biceps_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Incline_Push-Up": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Incline_Push-Up_Close-Grip": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Incline_Push-Up_Medium": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Incline_Push-Up_Reverse_Grip": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Incline_Push-Up_Wide": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Inverted_Row": {
+   "motion": "inverted_row",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Jackknife_Sit-Up": {
+   "motion": "situp",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Janda_Sit-Up": {
+   "motion": "situp",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Knee_Tuck_Jump": {
+   "motion": "jump_squat",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists": {
+   "motion": "ab_crunch_machine",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ],
+   "secondary": [
+    "obliques"
+   ]
+  },
+  "Kneeling_Cable_Triceps_Extension": {
+   "motion": "overhead_triceps_extension",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Kneeling_High_Pulley_Row": {
+   "motion": "lat_pulldown",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Kneeling_Single-Arm_High_Pulley_Row": {
+   "motion": "lat_pulldown",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Lateral_Bound": {
+   "motion": "skater_hop",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Leg_Extensions": {
+   "motion": "leg_extension",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Leg_Lift": {
+   "motion": "cable_kickback",
+   "implement": "none",
+   "unilateral": true,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Leg_Press": {
+   "motion": "leg_press",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Leg_Pull-In": {
+   "motion": "leg_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Leverage_Chest_Press": {
+   "motion": "machine_chest_press",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Leverage_Deadlift": {
+   "motion": "hinge",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Leverage_Decline_Chest_Press": {
+   "motion": "machine_chest_press",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Leverage_High_Row": {
+   "motion": "seated_cable_row",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Leverage_Incline_Chest_Press": {
+   "motion": "machine_chest_press",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Leverage_Iso_Row": {
+   "motion": "seated_cable_row",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Leverage_Shoulder_Press": {
+   "motion": "machine_shoulder_press",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Leverage_Shrug": {
+   "motion": "shrug",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Low_Cable_Crossover": {
+   "motion": "cable_crossover",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Low_Cable_Triceps_Extension": {
+   "motion": "overhead_triceps_extension",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Low_Pulley_Row_To_Neck": {
+   "motion": "face_pull",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Lunge_Sprint": {
+   "motion": "lunge",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Lying_Cable_Curl": {
+   "motion": "curl",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Lying_Close-Grip_Bar_Curl_On_High_Pulley": {
+   "motion": "curl",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Lying_Dumbbell_Tricep_Extension": {
+   "motion": "lying_triceps_extension",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Lying_Leg_Curls": {
+   "motion": "leg_curl",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Lying_Machine_Squat": {
+   "motion": "leg_press",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Lying_One-Arm_Lateral_Raise": {
+   "motion": "lateral_raise",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Lying_Rear_Delt_Raise": {
+   "motion": "rear_delt_fly",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Lying_Supine_Dumbbell_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Lying_T-Bar_Row": {
+   "motion": "seated_cable_row",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Machine_Bench_Press": {
+   "motion": "machine_chest_press",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Machine_Bicep_Curl": {
+   "motion": "machine_curl",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Machine_Preacher_Curls": {
+   "motion": "machine_curl",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Machine_Shoulder_Military_Press": {
+   "motion": "machine_shoulder_press",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Machine_Triceps_Extension": {
+   "motion": "triceps_pushdown",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Middle_Back_Shrug": {
+   "motion": "shrug",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Mountain_Climbers": {
+   "motion": "mountain_climber",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat",
+    "cardio"
+   ],
+   "primary": [
+    "abdominals"
+   ],
+   "secondary": [
+    "shoulders",
+    "hip_flexors",
+    "quadriceps"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Narrow_Stance_Hack_Squats": {
+   "motion": "squat",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Narrow_Stance_Leg_Press": {
+   "motion": "leg_press",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Oblique_Crunches": {
+   "motion": "crunch",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ],
+   "primary": [
+    "obliques"
+   ],
+   "secondary": [
+    "abdominals"
+   ]
+  },
+  "Oblique_Crunches_-_On_The_Floor": {
+   "motion": "crunch",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "primary": [
+    "obliques"
+   ],
+   "secondary": [
+    "abdominals"
+   ]
+  },
+  "One-Arm_Dumbbell_Row": {
+   "motion": "one_arm_row",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "One-Arm_Flat_Bench_Dumbbell_Flye": {
+   "motion": "chest_fly",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "One-Arm_High-Pulley_Cable_Side_Bends": {
+   "motion": "side_bend",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ],
+   "primary": [
+    "obliques"
+   ],
+   "secondary": [
+    "abdominals"
+   ],
+   "add_secondary": [
+    "obliques"
+   ]
+  },
+  "One-Arm_Incline_Lateral_Raise": {
+   "motion": "lateral_raise",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "One-Arm_Side_Laterals": {
+   "motion": "lateral_raise",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "One-Legged_Cable_Kickback": {
+   "motion": "cable_kickback",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "One_Arm_Dumbbell_Bench_Press": {
+   "motion": "bench_press",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "One_Arm_Dumbbell_Preacher_Curl": {
+   "motion": "machine_curl",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "One_Arm_Lat_Pulldown": {
+   "motion": "lat_pulldown",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "One_Arm_Pronated_Dumbbell_Triceps_Extension": {
+   "motion": "overhead_triceps_extension",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "One_Arm_Supinated_Dumbbell_Triceps_Extension": {
+   "motion": "overhead_triceps_extension",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Overhead_Cable_Curl": {
+   "motion": "curl",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench": {
+   "motion": "wrist_curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench": {
+   "motion": "wrist_curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Plank": {
+   "motion": "plank",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ]
+  },
+  "Plie_Dumbbell_Squat": {
+   "motion": "squat",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ],
+   "primary": [
+    "quadriceps"
+   ],
+   "secondary": [
+    "adductors",
+    "glutes",
+    "hamstrings",
+    "calves"
+   ]
+  },
+  "Plyo_Push-up": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Preacher_Hammer_Dumbbell_Curl": {
+   "motion": "machine_curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Pull_Through": {
+   "motion": "hinge",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Pullups": {
+   "motion": "pullup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Push-Up_Wide": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Push-Ups_-_Close_Triceps_Position": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Push-Ups_With_Feet_Elevated": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Push_Up_to_Side_Plank": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ],
+   "secondary": [
+    "abdominals",
+    "obliques",
+    "shoulders",
+    "triceps"
+   ]
+  },
+  "Pushups": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Pushups_Close_and_Wide_Hand_Positions": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Reverse_Cable_Curl": {
+   "motion": "curl",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Reverse_Crunch": {
+   "motion": "leg_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Reverse_Flyes": {
+   "motion": "rear_delt_fly",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Reverse_Flyes_With_External_Rotation": {
+   "motion": "rear_delt_fly",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Reverse_Grip_Triceps_Pushdown": {
+   "motion": "triceps_pushdown",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Reverse_Hyperextension": {
+   "motion": "back_extension",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ],
+   "primary": [
+    "glutes"
+   ],
+   "secondary": [
+    "hamstrings",
+    "lower_back"
+   ]
+  },
+  "Reverse_Machine_Flyes": {
+   "motion": "pec_deck",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Rocket_Jump": {
+   "motion": "jump_squat",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Rope_Crunch": {
+   "motion": "ab_crunch_machine",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Rope_Straight-Arm_Pulldown": {
+   "motion": "pullover",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Russian_Twist": {
+   "motion": "russian_twist",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "primary": [
+    "obliques"
+   ],
+   "secondary": [
+    "abdominals",
+    "hip_flexors",
+    "lower_back"
+   ],
+   "add_secondary": [
+    "obliques"
+   ]
+  },
+  "Scapular_Pull-Up": {
+   "motion": "pullup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Scissors_Jump": {
+   "motion": "lunge",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension": {
+   "motion": "triceps_kickback",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Seated_Bent-Over_Rear_Delt_Raise": {
+   "motion": "rear_delt_fly",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension": {
+   "motion": "triceps_kickback",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Seated_Cable_Rows": {
+   "motion": "seated_cable_row",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Seated_Cable_Shoulder_Press": {
+   "motion": "seated_overhead_press",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Seated_Calf_Raise": {
+   "motion": "seated_calf_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Seated_Dumbbell_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Seated_Dumbbell_Inner_Biceps_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Seated_Dumbbell_Palms-Down_Wrist_Curl": {
+   "motion": "wrist_curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Seated_Dumbbell_Palms-Up_Wrist_Curl": {
+   "motion": "wrist_curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Seated_Dumbbell_Press": {
+   "motion": "seated_overhead_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Seated_Flat_Bench_Leg_Pull-In": {
+   "motion": "leg_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Seated_Leg_Curl": {
+   "motion": "leg_curl",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Seated_Leg_Tucks": {
+   "motion": "leg_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl": {
+   "motion": "wrist_curl",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl": {
+   "motion": "wrist_curl",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Seated_One-arm_Cable_Pulley_Rows": {
+   "motion": "seated_cable_row",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Seated_Side_Lateral_Raise": {
+   "motion": "lateral_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Seated_Triceps_Press": {
+   "motion": "overhead_triceps_extension",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl": {
+   "motion": "wrist_curl",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "See-Saw_Press_Alternating_Side_Press": {
+   "motion": "standing_overhead_press",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ],
+   "secondary": [
+    "triceps",
+    "abdominals",
+    "obliques"
+   ]
+  },
+  "Shotgun_Row": {
+   "motion": "seated_cable_row",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Side_Bridge": {
+   "motion": "side_plank",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "primary": [
+    "obliques"
+   ],
+   "secondary": [
+    "abdominals",
+    "shoulders"
+   ],
+   "add_secondary": [
+    "obliques"
+   ],
+   "instructions": [
+    "Lie on your side with your forearm under the shoulder and your legs stacked.",
+    "Lift the hips until your body forms a straight line from head to feet.",
+    "Hold, then lower with control and switch sides."
+   ]
+  },
+  "Side_Lateral_Raise": {
+   "motion": "lateral_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Side_Laterals_to_Front_Raise": {
+   "motion": "lateral_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Side_Standing_Long_Jump": {
+   "motion": "skater_hop",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Single-Arm_Cable_Crossover": {
+   "motion": "cable_crossover",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Single-Arm_Push-Up": {
+   "motion": "pushup",
+   "implement": "none",
+   "unilateral": true,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Single_Dumbbell_Raise": {
+   "motion": "front_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Single_Leg_Butt_Kick": {
+   "motion": "butt_kicks",
+   "implement": "none",
+   "unilateral": true,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Single_Leg_Glute_Bridge": {
+   "motion": "glute_bridge",
+   "implement": "none",
+   "unilateral": true,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ]
+  },
+  "Sit-Up": {
+   "motion": "situp",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Smith_Machine_Behind_the_Back_Shrug": {
+   "motion": "shrug",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Bench_Press": {
+   "motion": "machine_chest_press",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Bent_Over_Row": {
+   "motion": "bent_over_row",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Calf_Raise": {
+   "motion": "calf_raise",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Close-Grip_Bench_Press": {
+   "motion": "machine_chest_press",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Decline_Press": {
+   "motion": "machine_chest_press",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Hip_Raise": {
+   "motion": "leg_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Smith_Machine_Incline_Bench_Press": {
+   "motion": "incline_press",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Leg_Press": {
+   "motion": "leg_press",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_One-Arm_Upright_Row": {
+   "motion": "upright_row",
+   "implement": "handle",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Overhead_Shoulder_Press": {
+   "motion": "machine_shoulder_press",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Pistol_Squat": {
+   "motion": "squat",
+   "implement": "handle",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Reverse_Calf_Raises": {
+   "motion": "calf_raise",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Squat": {
+   "motion": "squat",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Stiff-Legged_Deadlift": {
+   "motion": "hinge",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Machine_Upright_Row": {
+   "motion": "upright_row",
+   "implement": "handle",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Smith_Single-Leg_Split_Squat": {
+   "motion": "bulgarian_split_squat",
+   "implement": "handle",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Spell_Caster": {
+   "motion": "woodchop",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ],
+   "primary": [
+    "obliques"
+   ],
+   "secondary": [
+    "abdominals",
+    "shoulders",
+    "glutes"
+   ],
+   "add_secondary": [
+    "obliques"
+   ]
+  },
+  "Spider_Crawl": {
+   "motion": "mountain_climber",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "primary": [
+    "abdominals"
+   ],
+   "secondary": [
+    "chest",
+    "shoulders",
+    "triceps",
+    "hip_flexors"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Split_Jump": {
+   "motion": "lunge",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Split_Squat_with_Dumbbells": {
+   "motion": "lunge",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Alternating_Dumbbell_Press": {
+   "motion": "standing_overhead_press",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension": {
+   "motion": "triceps_kickback",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension": {
+   "motion": "triceps_kickback",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Biceps_Cable_Curl": {
+   "motion": "curl",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Standing_Cable_Chest_Press": {
+   "motion": "machine_chest_press",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Standing_Cable_Lift": {
+   "motion": "woodchop",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ],
+   "primary": [
+    "obliques"
+   ],
+   "secondary": [
+    "abdominals",
+    "shoulders"
+   ],
+   "add_secondary": [
+    "obliques"
+   ]
+  },
+  "Standing_Cable_Wood_Chop": {
+   "motion": "woodchop",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ],
+   "primary": [
+    "obliques"
+   ],
+   "secondary": [
+    "abdominals",
+    "shoulders"
+   ],
+   "add_secondary": [
+    "obliques"
+   ]
+  },
+  "Standing_Calf_Raises": {
+   "motion": "calf_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Standing_Concentration_Curl": {
+   "motion": "concentration_curl",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Dumbbell_Calf_Raise": {
+   "motion": "calf_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Dumbbell_Press": {
+   "motion": "standing_overhead_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Dumbbell_Reverse_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head": {
+   "motion": "front_raise",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Dumbbell_Triceps_Extension": {
+   "motion": "overhead_triceps_extension",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Dumbbell_Upright_Row": {
+   "motion": "upright_row",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Inner-Biceps_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Leg_Curl": {
+   "motion": "leg_curl",
+   "implement": "none",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Standing_Long_Jump": {
+   "motion": "jump_squat",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Standing_Low-Pulley_Deltoid_Raise": {
+   "motion": "front_raise",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Standing_Low-Pulley_One-Arm_Triceps_Extension": {
+   "motion": "overhead_triceps_extension",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Standing_One-Arm_Cable_Curl": {
+   "motion": "curl",
+   "implement": "cable",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_One-Arm_Dumbbell_Triceps_Extension": {
+   "motion": "overhead_triceps_extension",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Palm-In_One-Arm_Dumbbell_Press": {
+   "motion": "standing_overhead_press",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Palms-In_Dumbbell_Press": {
+   "motion": "standing_overhead_press",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Standing_Rope_Crunch": {
+   "motion": "ab_crunch_machine",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Standing_Towel_Triceps_Extension": {
+   "motion": "overhead_triceps_extension",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Star_Jump": {
+   "motion": "jumping_jack",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "cardio"
+   ]
+  },
+  "Step-up_with_Knee_Raise": {
+   "motion": "step_up",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Stiff-Legged_Dumbbell_Deadlift": {
+   "motion": "hinge",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Straight-Arm_Dumbbell_Pullover": {
+   "motion": "pullover",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Straight-Arm_Pulldown": {
+   "motion": "pullover",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ],
+   "primary": [
+    "lats"
+   ],
+   "secondary": [
+    "triceps",
+    "chest"
+   ]
+  },
+  "Tate_Press": {
+   "motion": "lying_triceps_extension",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Thigh_Abductor": {
+   "motion": "hip_abduction_machine",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Thigh_Adductor": {
+   "motion": "hip_adduction_machine",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Tricep_Dumbbell_Kickback": {
+   "motion": "triceps_kickback",
+   "implement": "dumbbell",
+   "unilateral": true,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Triceps_Overhead_Extension_with_Rope": {
+   "motion": "overhead_triceps_extension",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Triceps_Pushdown": {
+   "motion": "triceps_pushdown",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Triceps_Pushdown_-_Rope_Attachment": {
+   "motion": "triceps_pushdown",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Triceps_Pushdown_-_V-Bar_Attachment": {
+   "motion": "triceps_pushdown",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Tuck_Crunch": {
+   "motion": "leg_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Two-Arm_Dumbbell_Preacher_Curl": {
+   "motion": "machine_curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Underhand_Cable_Pulldowns": {
+   "motion": "lat_pulldown",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Upright_Cable_Row": {
+   "motion": "upright_row",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "V-Bar_Pulldown": {
+   "motion": "lat_pulldown",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "V-Bar_Pullup": {
+   "motion": "pullup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Vertical_Swing": {
+   "motion": "hinge",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Wide-Grip_Lat_Pulldown": {
+   "motion": "lat_pulldown",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Wide-Grip_Pulldown_Behind_The_Neck": {
+   "motion": "lat_pulldown",
+   "implement": "cable",
+   "unilateral": false,
+   "tags": [
+    "machine"
+   ]
+  },
+  "Wide-Grip_Rear_Pull-Up": {
+   "motion": "pullup",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight"
+   ]
+  },
+  "Wind_Sprints": {
+   "motion": "hanging_knee_raise",
+   "implement": "none",
+   "unilateral": true,
+   "tags": [
+    "bodyweight"
+   ],
+   "primary": [
+    "abdominals"
+   ],
+   "secondary": [
+    "hip_flexors"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Zottman_Curl": {
+   "motion": "curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Zottman_Preacher_Curl": {
+   "motion": "machine_curl",
+   "implement": "dumbbell",
+   "unilateral": false,
+   "tags": [
+    "dumbbell"
+   ]
+  },
+  "Bent-Knee_Hip_Raise": {
+   "motion": "leg_raise",
+   "implement": "none",
+   "unilateral": false,
+   "tags": [
+    "bodyweight",
+    "mat"
+   ],
+   "add_secondary": [
+    "hip_flexors"
+   ]
+  },
+  "Single-Leg_Leg_Extension": {
+   "motion": "leg_extension",
+   "implement": "none",
+   "unilateral": true,
+   "tags": [
+    "machine"
+   ]
+  }
+ },
+ "skip": {
+  "Bicycling_Stationary": "replaced by authored cardio machine entry",
+  "Body_Tricep_Press": "needs a rack with a barbell",
+  "Bosu_Ball_Cable_Crunch_With_Side_Bends": "needs a Bosu ball",
+  "Cable_Internal_Rotation": "rotator-cuff rotation, no motion template fits",
+  "Crunch_-_Legs_On_Exercise_Ball": "needs an exercise ball",
+  "Dumbbell_Clean": "explosive clean, no motion template fits",
+  "Dumbbell_Seated_Box_Jump": "needs a box and an awkward seated start",
+  "Elliptical_Trainer": "replaced by authored cardio machine entry",
+  "External_Rotation": "rotator-cuff rotation, no motion template fits",
+  "External_Rotation_with_Cable": "rotator-cuff rotation, no motion template fits",
+  "Floor_Glute-Ham_Raise": "needs a partner or anchored feet",
+  "Freehand_Jump_Squat": "duplicate of authored Jump Squats",
+  "Handstand_Push-Ups": "handstand, no template fits and expert-only",
+  "Iron_Cross": "source has no instructions",
+  "Isometric_Chest_Squeezes": "isometric hold, no motion template fits",
+  "Isometric_Neck_Exercise_-_Front_And_Back": "isometric neck hold, no motion template fits",
+  "Isometric_Neck_Exercise_-_Sides": "isometric neck hold, no motion template fits",
+  "Isometric_Wipers": "isometric plank sway, no motion template fits",
+  "Jogging_Treadmill": "replaced by authored cardio machine entry",
+  "Kneeling_Arm_Drill": "sprint technique drill, no motion template fits",
+  "Linear_3-Part_Start_Technique": "sprint technique drill, no motion template fits",
+  "Linear_Acceleration_Wall_Drill": "sprint technique drill, no motion template fits",
+  "Moving_Claw_Series": "sprint technique drill, no motion template fits",
+  "Natural_Glute_Ham_Raise": "needs a partner or anchored feet",
+  "Pallof_Press": "anti-rotation press, no motion template fits",
+  "Pallof_Press_With_Rotation": "anti-rotation press, no motion template fits",
+  "Power_Partials": "unclear source instructions, no template fits",
+  "Prone_Manual_Hamstring": "needs a partner",
+  "Recumbent_Bike": "replaced by authored cardio machine entry",
+  "Rowing_Stationary": "replaced by authored cardio machine entry",
+  "Running_Treadmill": "replaced by authored cardio machine entry",
+  "Side_Jackknife": "source has no instructions",
+  "Smith_Machine_Hang_Power_Clean": "explosive clean, no motion template fits",
+  "Stairmaster": "replaced by authored cardio machine entry",
+  "Step_Mill": "replaced by authored cardio machine entry",
+  "Trail_Running_Walking": "replaced by authored cardio entries",
+  "Walking_Treadmill": "replaced by authored cardio machine entry"
+ }
+}

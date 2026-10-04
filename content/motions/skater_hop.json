@@ -1,0 +1,11 @@
+{"id": "skater_hop", "name": "Skater hop", "duration": 1.4, "handFrame": "chest", "footFrame": "world", "view": {"yaw": -12, "pitch": 8}, "notes": "Lateral bound: pushes off one leg, flies across (both feet off the floor) and lands on the other with the trailing leg swept behind and the opposite arm swinging across. Both sides explicit.",
+  "props": [
+
+  ],
+  "keys": [
+    {"e": 0.85, "pelvis": [0.5, 0.84, 0], "pitch": 16, "roll": 5, "lf": [0.56, 0.08, 0.0], "lkp": [0.2, 0, 1], "lfa": 0, "lfy": 10, "rf": [0.2, 0.14, -0.45], "rkp": [-0.1, 0, 1], "rfa": -30, "rfy": 0, "lh": [0.15, -0.3, -0.25], "rh": [-0.05, -0.2, 0.32], "lep": [0.4, -0.8, -0.8], "rep": [-0.3, -1, 0], "t": 0},
+    {"e": 0.6, "pelvis": [0.0, 1.0, 0], "pitch": 14, "roll": 0, "lf": [0.1, 0.32, -0.3], "rf": [-0.4, 0.26, 0.05], "lfa": -25, "rfa": -10, "lh": [0.2, -0.3, -0.1], "rh": [-0.1, -0.25, 0.28], "lkp": [0.1, 0, 1], "rkp": [-0.1, 0, 1], "t": 0.25},
+    {"e": 0.85, "pelvis": [-0.5, 0.84, 0], "pitch": 16, "roll": -5, "rf": [-0.56, 0.08, 0.0], "rkp": [-0.2, 0, 1], "rfa": 0, "rfy": 10, "lf": [-0.2, 0.14, -0.45], "lkp": [0.1, 0, 1], "lfa": -30, "lfy": 0, "rh": [-0.15, -0.3, -0.25], "lh": [0.05, -0.2, 0.32], "rep": [-0.4, -0.8, -0.8], "lep": [0.3, -1, 0], "t": 0.5},
+    {"e": 0.6, "pelvis": [-0.0, 1.0, 0], "pitch": 14, "roll": 0, "rf": [-0.1, 0.32, -0.3], "lf": [0.4, 0.26, 0.05], "rfa": -25, "lfa": -10, "rh": [-0.2, -0.3, -0.1], "lh": [0.1, -0.25, 0.28], "rkp": [-0.1, 0, 1], "lkp": [0.1, 0, 1], "t": 0.75}
+  ]
+}

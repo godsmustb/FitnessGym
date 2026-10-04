@@ -1,0 +1,17 @@
+{
+  "id": "side_leg_raise", "name": "Side-lying leg raise", "duration": 3.0,
+  "handFrame": "chest", "footFrame": "pelvis",
+  "view": {"yaw": -10, "pitch": 32},
+  "props": [
+    {"type": "mat", "min": [-1.1, -0.005, -0.4], "max": [0.9, 0.008, 0.4]}
+  ],
+  "notes": "Lying on the left side, legs straight; the top (right) leg lifts sideways (hip abduction) and lowers.",
+  "keys": [
+    {"t": 0.0, "e": 0.15, "pelvis": [0, 0.17, 0], "roll": 90, "pitch": 0, "yaw": 0, "neck": 0, "spine": [0, 0, 0], "lh": [0.19, 0.5, 0.0], "rh": [-0.12, -0.5, 0.08], "lep": [0.3, 0.3, -1], "rep": [-1, -0.3, -0.3], "lf": [0.09, -0.88, 0.0], "rf": [-0.01, -0.88, 0.0], "lkp": [0.0, 0, 1], "rkp": [0, 0, 1], "lfy": 0, "rfy": 0, "el": 0.1, "er": 0.15},
+    {"t": 0.2, "er": 1.0, "el": 0.1, "rf": [-0.37, -0.83, 0.0]},
+    {"t": 0.4, "er": 1.0, "el": 0.1, "rf": [-0.62, -0.69, 0.0]},
+    {"t": 0.55, "er": 0.95, "el": 0.1},
+    {"t": 0.7, "er": 0.5, "el": 0.1, "rf": [-0.37, -0.83, 0.0]},
+    {"t": 0.92, "er": 0.25, "el": 0.1, "rf": [-0.01, -0.88, 0.0]}
+  ]
+}

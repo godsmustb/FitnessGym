@@ -1,0 +1,13 @@
+{"id": "rolling_like_a_ball", "name": "Rolling like a ball", "duration": 2.4, "handFrame": "pelvis", "footFrame": "pelvis", "view": {"yaw": -85, "pitch": 6}, "notes": "Balanced on the sit bones in a tight C-curve (knees tucked, hands on shins, chin to chest), then rolls back to the shoulder blades and returns to balance without the feet touching down.",
+  "props": [
+    {"type": "mat", "min": [-0.35, -0.005, -1.15], "max": [0.35, 0.012, 1.2]}
+  ],
+  "keys": [
+    {"t": 0, "e": 0.4, "pelvis": [0, 0.17, 0.05], "pitch": -28, "spine": [48, 0, 0], "neck": 32, "lf": [0.09, -0.2, 0.18], "lkp": [0.05, 0.6, 1], "lfa": -30, "lh": [0.14, 0.0, 0.3], "lep": [0.8, 0, 0]},
+    {"t": 0.2, "e": 0.8, "pelvis": [0, 0.25, -0.1], "pitch": -65},
+    {"t": 0.4, "e": 1.0, "pelvis": [0, 0.42, -0.3], "pitch": -108},
+    {"t": 0.52, "e": 0.9, "pelvis": [0, 0.42, -0.3], "pitch": -108},
+    {"t": 0.72, "e": 0.8, "pelvis": [0, 0.25, -0.1], "pitch": -65},
+    {"t": 0.88, "e": 0.5, "pelvis": [0, 0.17, 0.05], "pitch": -28}
+  ]
+}

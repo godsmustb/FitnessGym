@@ -1,0 +1,15 @@
+{
+  "id": "crunch", "name": "Crunch", "duration": 2.4,
+  "handFrame": "chest", "footFrame": "pelvis",
+  "view": {"yaw": -80, "pitch": 10},
+  "props": [
+    {"type": "mat", "min": [-0.4, -0.005, -1.1], "max": [0.4, 0.008, 0.9]}
+  ],
+  "notes": "Supine, knees bent (feet in the pelvis frame), hands behind head; curl the shoulders up.",
+  "keys": [
+    {"t": 0.0, "e": 0.15, "pelvis": [0, 0.12, 0], "pitch": -90, "spine": [0, 0, 0], "neck": 0, "lh": [0.13, 0.22, 0.03], "lep": [1, 0.2, 0], "lf": [0.12, -0.52, 0.02], "lkp": [0.1, 0, 1], "lfy": 0},
+    {"t": 0.4, "e": 1.0, "spine": [38, 0, 0], "neck": 12},
+    {"t": 0.5, "e": 0.9},
+    {"t": 0.92, "e": 0.3, "spine": [0, 0, 0], "neck": 0}
+  ]
+}

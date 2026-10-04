@@ -1,0 +1,14 @@
+{"id": "jump_squat", "name": "Jump squat", "duration": 1.5, "handFrame": "chest", "footFrame": "world", "view": {"yaw": -45, "pitch": 8}, "notes": "Squat to ~parallel with arms swinging back, explosive extension and a flight key (pelvis y 1.26, feet 0.3 m off the floor), soft landing back into the squat.",
+  "props": [
+
+  ],
+  "keys": [
+    {"t": 0, "e": 0.2, "pelvis": [0, 0.97, 0], "pitch": 0, "spine": [0, 0, 0], "neck": 0, "lf": [0.16, 0.08, 0], "lh": [0.16, -0.06, 0.48], "lep": [0.3, -1, -0.3], "lkp": [0.3, 0, 1], "lfy": 18, "lfa": 0},
+    {"t": 0.3, "e": 0.55, "pelvis": [0, 0.62, -0.18], "pitch": 32, "spine": [-6, 0, 0], "neck": -18, "lh": [0.2, -0.5, -0.25]},
+    {"t": 0.42, "e": 1.0, "pelvis": [0, 0.92, -0.03], "pitch": 8, "spine": [-2, 0, 0], "neck": -8, "lf": [0.14, 0.08, 0], "lh": [0.2, 0.1, 0.3]},
+    {"t": 0.52, "e": 1.0, "pelvis": [0, 1.26, 0], "pitch": 0, "spine": [0, 0, 0], "neck": 0, "lf": [0.1, 0.3, 0], "lfa": -30, "lh": [0.2, 0.45, 0.15], "lep": [0.8, -0.2, -0.5]},
+    {"t": 0.66, "e": 0.5, "pelvis": [0, 1.1, 0], "lf": [0.12, 0.2, 0], "lfa": -10, "lh": [0.2, 0.1, 0.3]},
+    {"t": 0.76, "e": 0.6, "pelvis": [0, 0.72, -0.1], "pitch": 22, "spine": [-4, 0, 0], "neck": -12, "lf": [0.16, 0.08, 0], "lfa": 0, "lh": [0.18, -0.3, 0.3], "lep": [0.3, -1, -0.3]},
+    {"t": 0.9, "e": 0.3, "pelvis": [0, 0.92, 0], "pitch": 3, "spine": [0, 0, 0], "neck": 0, "lh": [0.16, -0.06, 0.48]}
+  ]
+}

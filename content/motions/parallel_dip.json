@@ -1,0 +1,20 @@
+{
+  "id": "parallel_dip", "name": "Parallel bar dip", "duration": 3.0,
+  "handFrame": "world", "footFrame": "world",
+  "view": {"yaw": -60, "pitch": 8},
+  "props": [
+    {"type": "box", "min": [0.18, 1.04, -0.55], "max": [0.26, 1.1, 0.55], "color": "steel"},
+    {"type": "box", "min": [0.18, 0, 0.5], "max": [0.26, 1.04, 0.58], "color": "frame"},
+    {"type": "box", "min": [0.18, 0, -0.58], "max": [0.26, 1.04, -0.5], "color": "frame"},
+    {"type": "box", "min": [-0.26, 1.04, -0.55], "max": [-0.18, 1.1, 0.55], "color": "steel"},
+    {"type": "box", "min": [-0.26, 0, 0.5], "max": [-0.18, 1.04, 0.58], "color": "frame"},
+    {"type": "box", "min": [-0.26, 0, -0.58], "max": [-0.18, 1.04, -0.5], "color": "frame"}
+  ],
+  "notes": "Support on parallel bars with knees bent behind; lower until elbows ~90 deg, press back up.",
+  "keys": [
+    {"t": 0.0, "e": 0.2, "pelvis": [0, 1.06, 0.0], "pitch": 6, "spine": [0, 0, 0], "neck": -5, "lh": [0.22, 1.1, -0.05], "lep": [0.35, -0.2, -1], "lf": [0.1, 0.38, -0.3], "lfa": -20, "lfy": 0, "lkp": [0.05, 0, 1]},
+    {"t": 0.45, "e": 0.5, "pelvis": [0, 0.72, 0.0], "pitch": 12},
+    {"t": 0.55, "e": 1.0},
+    {"t": 0.9, "e": 0.8, "pelvis": [0, 1.06, 0.0], "pitch": 6}
+  ]
+}

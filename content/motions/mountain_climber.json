@@ -1,0 +1,13 @@
+{
+  "id": "mountain_climber", "name": "Mountain climber", "duration": 1.0,
+  "handFrame": "world", "footFrame": "world",
+  "view": {"yaw": -75, "pitch": 12},
+  "props": [
+    {"type": "mat", "min": [-0.4, -0.005, -1.1], "max": [0.4, 0.008, 0.8]}
+  ],
+  "notes": "High plank, hands fixed; knees drive alternately toward the chest (fast loop).",
+  "keys": [
+    {"t": 0.0, "e": 0.8, "pelvis": [0, 0.47, -0.02], "pitch": 72, "spine": [0, 0, 0], "neck": -12, "lh": [0.22, 0.06, 0.45], "lep": [0.7, -1, 0], "lf": [0.1, 0.17, -0.1], "rf": [-0.1, 0.17, -0.9], "lfa": -70, "rfa": -75, "lfy": 0, "rfy": 0, "lkp": [0.0, 1, 0.3], "rkp": [0.0, 1, 0.3]},
+    {"t": 0.5, "e": 1.0, "lf": [0.1, 0.17, -0.9], "rf": [-0.1, 0.17, -0.1], "lfa": -75, "rfa": -70}
+  ]
+}

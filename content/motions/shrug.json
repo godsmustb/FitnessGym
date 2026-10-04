@@ -1,0 +1,12 @@
+{
+  "id": "shrug", "name": "Shrug", "duration": 2.4,
+  "handFrame": "chest", "footFrame": "world",
+  "view": {"yaw": -30, "pitch": 8},
+  "notes": "Approximate: the rig has no shoulder elevation, so the shrug is shown as the arms lifting a few cm.",
+  "keys": [
+    {"t": 0.0, "e": 0.15, "pelvis": [0, 0.97, 0], "lh": [0.22, -0.57, 0.02], "lep": [0.1, -1, -0.1], "lf": [0.12, 0.08, 0], "lkp": [0.1, 0, 1]},
+    {"t": 0.35, "e": 1.0, "lh": [0.22, -0.49, 0.02], "neck": 3},
+    {"t": 0.5, "e": 0.95},
+    {"t": 0.92, "e": 0.3, "lh": [0.22, -0.57, 0.02], "neck": 0}
+  ]
+}

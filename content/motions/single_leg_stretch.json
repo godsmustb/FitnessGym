@@ -1,0 +1,11 @@
+{"id": "single_leg_stretch", "name": "Single leg stretch", "duration": 2.0, "handFrame": "pelvis", "footFrame": "pelvis", "view": {"yaw": -85, "pitch": 6}, "notes": "Head and shoulders curled; one knee pulled in with the hands on the shin while the other leg extends at ~45 deg; legs switch each half cycle. el/er mark the extending leg.",
+  "props": [
+    {"type": "mat", "min": [-0.35, -0.005, -1.15], "max": [0.35, 0.012, 1.2]}
+  ],
+  "keys": [
+    {"pelvis": [0, 0.12, 0], "pitch": -90, "spine": [35, 0, 0], "neck": 22, "lf": [0.09, -0.18, 0.2], "lkp": [0.0, 0.6, 1], "lfa": 0, "rf": [-0.09, -0.68, 0.62], "rkp": [-0.1, 0, 1], "rfa": -20, "lh": [0.04, 0.12, 0.36], "rh": [-0.15, 0.12, 0.34], "lep": [0.8, 0, -0.2], "rep": [-0.8, 0, -0.2], "el": 0.6, "er": 1.0, "t": 0},
+    {"pelvis": [0, 0.12, 0], "pitch": -90, "spine": [35, 0, 0], "neck": 22, "lf": [0.09, -0.4, 0.4], "lkp": [0.0, 0.6, 1], "lfa": 0, "rf": [-0.09, -0.4, 0.4], "rkp": [-0.1, 0, 1], "rfa": -20, "lh": [0.1, 0.1, 0.34], "rh": [-0.1, 0.1, 0.34], "lep": [0.8, 0, -0.2], "rep": [-0.8, 0, -0.2], "el": 0.7, "er": 0.7, "t": 0.25},
+    {"pelvis": [0, 0.12, 0], "pitch": -90, "spine": [35, 0, 0], "neck": 22, "rf": [-0.09, -0.18, 0.2], "rkp": [-0.0, 0.6, 1], "rfa": 0, "lf": [0.09, -0.68, 0.62], "lkp": [0.1, 0, 1], "lfa": -20, "rh": [-0.04, 0.12, 0.36], "lh": [0.15, 0.12, 0.34], "rep": [-0.8, 0, -0.2], "lep": [0.8, 0, -0.2], "er": 0.6, "el": 1.0, "t": 0.5},
+    {"pelvis": [0, 0.12, 0], "pitch": -90, "spine": [35, 0, 0], "neck": 22, "rf": [-0.09, -0.4, 0.4], "rkp": [-0.0, 0.6, 1], "rfa": 0, "lf": [0.09, -0.4, 0.4], "lkp": [0.1, 0, 1], "lfa": -20, "rh": [-0.1, 0.1, 0.34], "lh": [0.1, 0.1, 0.34], "rep": [-0.8, 0, -0.2], "lep": [0.8, 0, -0.2], "er": 0.7, "el": 0.7, "t": 0.75}
+  ]
+}

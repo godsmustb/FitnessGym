@@ -1,0 +1,15 @@
+{"id": "leg_press", "name": "Leg press", "duration": 3.0, "handFrame": "chest", "footFrame": "pelvis", "view": {"yaw": -85, "pitch": 8}, "notes": "Reclined seat (~40 deg); feet on the platform, knees bend to ~90 deg and extend without locking out. Platform approximated by a foot bar and plate.",
+  "props": [
+    {"type": "box", "min": [-0.3, 0, -1.0], "max": [0.3, 0.08, 1.4], "color": "frame"},
+    {"type": "box", "min": [-0.24, 0.18, -0.9], "max": [0.24, 0.45, -0.6], "color": "pad"},
+    {"type": "box", "min": [-0.24, 0.3, -0.65], "max": [0.24, 0.5, -0.3], "color": "pad"},
+    {"type": "box", "min": [-0.24, 0.32, -0.3], "max": [0.24, 0.4, 0.0], "color": "pad"},
+    {"type": "bar", "to": "feet", "color": "steel", "radius": 0.05}
+  ],
+  "keys": [
+    {"t": 0, "e": 0.25, "pelvis": [0, 0.45, -0.3], "pitch": -50, "lh": [0.28, -0.3, 0.1], "lep": [0.5, -1, -0.3], "lkp": [0.15, 0, 1], "lfa": 65, "lfy": 5, "lf": [0.13, -0.4, 0.42]},
+    {"t": 0.4, "e": 1.0, "lf": [0.13, -0.5, 0.7]},
+    {"t": 0.52, "e": 0.95},
+    {"t": 0.92, "e": 0.4, "lf": [0.13, -0.4, 0.42]}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "triceps_kickback", "name": "Triceps kickback", "duration": 3.0,
+  "handFrame": "chest", "footFrame": "world",
+  "view": {"yaw": -75, "pitch": 8},
+  "notes": "Bent over, upper arms pinned parallel to the torso, forearms swing back. Drawn two-armed; one-arm variants share it.",
+  "keys": [
+    {"t": 0.0, "e": 0.2, "pelvis": [0, 0.9, -0.22], "pitch": 65, "spine": [0, 0, 0], "neck": -25, "lh": [0.19, -0.45, 0.24], "lep": [0.1, -0.1, -1], "lf": [0.12, 0.08, 0], "lkp": [0.1, 0, 1]},
+    {"t": 0.4, "e": 1.0, "lh": [0.19, -0.6, 0.0]},
+    {"t": 0.5, "e": 0.9},
+    {"t": 0.92, "e": 0.3, "lh": [0.19, -0.45, 0.24]}
+  ]
+}

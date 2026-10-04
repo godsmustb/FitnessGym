@@ -1,0 +1,18 @@
+{
+  "id": "inverted_row", "name": "Inverted row", "duration": 3.0,
+  "handFrame": "world", "footFrame": "world",
+  "view": {"yaw": -80, "pitch": 8},
+  "props": [
+    {"type": "mat", "min": [-0.5, -0.005, -0.8], "max": [0.5, 0.008, 1.1]},
+    {"type": "box", "min": [-0.45, 0.96, -0.5], "max": [0.45, 1.02, -0.44], "color": "steel"},
+    {"type": "box", "min": [0.45, 0, -0.5], "max": [0.52, 1.02, -0.44], "color": "frame"},
+    {"type": "box", "min": [-0.52, 0, -0.5], "max": [-0.45, 1.02, -0.44], "color": "frame"}
+  ],
+  "notes": "Body straight under a low bar, heels on the floor; pull the chest to the bar.",
+  "keys": [
+    {"t": 0.0, "e": 0.2, "pelvis": [0, 0.34, 0.0], "pitch": -73, "spine": [0, 0, 0], "neck": 0, "lh": [0.25, 0.98, -0.46], "lep": [0.35, -0.2, -1], "lf": [0.1, 0.08, 0.86], "lfa": 10, "lfy": 6, "lkp": [0.05, 0, 1]},
+    {"t": 0.45, "e": 0.55, "pelvis": [0, 0.52, 0.08], "pitch": -60},
+    {"t": 0.55, "e": 1.0},
+    {"t": 0.9, "e": 0.5, "pelvis": [0, 0.34, 0.0], "pitch": -73}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bench_dip", "name": "Bench dip", "duration": 3.0,
+  "handFrame": "world", "footFrame": "world",
+  "view": {"yaw": -70, "pitch": 8},
+  "props": [
+    {"type": "box", "min": [-0.3, 0.37, -0.55], "max": [0.3, 0.45, -0.2], "color": "pad"},
+    {"type": "box", "min": [-0.25, 0, -0.5], "max": [0.25, 0.37, -0.43000000000000005], "color": "frame"},
+    {"type": "box", "min": [-0.25, 0, -0.32], "max": [0.25, 0.37, -0.25], "color": "frame"}
+  ],
+  "notes": "Hands on the bench behind the body, legs extended, heels down; elbows bend back (elbow pole behind) and the hips drop beside the bench.",
+  "keys": [
+    {"t": 0.0, "e": 0.2, "pelvis": [0, 0.5, -0.24], "pitch": 0, "spine": [0, 0, 0], "neck": 0, "lh": [0.2, 0.46, -0.33], "lep": [0.35, -0.2, -1], "lf": [0.1, 0.08, 0.55], "lfa": 15, "lfy": 6, "lkp": [0.05, 0, 1]},
+    {"t": 0.45, "e": 0.5, "pelvis": [0, 0.27, -0.2]},
+    {"t": 0.55, "e": 1.0},
+    {"t": 0.9, "e": 0.8, "pelvis": [0, 0.5, -0.24]}
+  ]
+}

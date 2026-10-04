@@ -1,0 +1,12 @@
+{
+  "id": "hinge", "name": "Hip hinge", "duration": 3.4,
+  "handFrame": "world", "footFrame": "world",
+  "view": {"yaw": -75, "pitch": 8},
+  "notes": "Hips back, near-straight legs, flat back; hands (world frame) hang down the front of the legs.",
+  "keys": [
+    {"t": 0.0, "e": 0.2, "pelvis": [0, 0.97, 0], "pitch": 0, "spine": [0, 0, 0], "neck": 0, "lh": [0.2, 0.92, 0.08], "lf": [0.1, 0.08, 0.0], "lkp": [0.05, 0, 1], "lep": [0.2, -1, -0.4]},
+    {"t": 0.45, "e": 0.5, "pelvis": [0, 0.9, -0.24], "pitch": 68, "neck": -30, "lh": [0.2, 0.42, 0.22]},
+    {"t": 0.55, "e": 1.0},
+    {"t": 0.92, "e": 0.7, "pelvis": [0, 0.96, -0.03], "pitch": 8, "neck": -8, "lh": [0.2, 0.88, 0.1]}
+  ]
+}

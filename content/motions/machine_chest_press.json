@@ -1,0 +1,19 @@
+{"id": "machine_chest_press", "name": "Machine chest press", "duration": 3.0, "handFrame": "chest", "footFrame": "world", "view": {"yaw": -80, "pitch": 8}, "notes": "Seated chest press: hands on the handles at chest height, pushed straight forward.",
+  "props": [
+    {"type": "box", "min": [-0.24, 0.4, -0.22], "max": [0.24, 0.49, 0.36], "color": "pad"},
+    {"type": "box", "min": [-0.24, 0.49, -0.27], "max": [0.24, 1.18, -0.17], "color": "pad"},
+    {"type": "box", "min": [-0.06, 0, -0.1], "max": [0.06, 0.4, 0.25], "color": "frame"},
+    {"type": "box", "min": [-0.3, 0, -0.75], "max": [0.3, 0.05, 0.4], "color": "frame"},
+    {"type": "box", "min": [-0.2, 0, -0.67], "max": [0.2, 1.5, -0.43000000000000005], "color": "dark"},
+    {"type": "box", "min": [-0.2, 0, -0.6900000000000001], "max": [-0.17, 1.65, -0.41000000000000003], "color": "frame"},
+    {"type": "box", "min": [0.17, 0, -0.6900000000000001], "max": [0.2, 1.65, -0.41000000000000003], "color": "frame"},
+    {"type": "box", "min": [0.3, 0.9, 0.05], "max": [0.34, 1.4, 0.2], "color": "steel"},
+    {"type": "box", "min": [-0.34, 0.9, 0.05], "max": [-0.3, 1.4, 0.2], "color": "steel"}
+  ],
+  "keys": [
+    {"t": 0, "e": 0.2, "pelvis": [0, 0.57, -0.02], "pitch": -5, "lf": [0.13, 0.08, 0.42], "lkp": [0.1, 0.2, 1], "lfy": 8, "lh": [0.2, -0.2, 0.1], "lep": [0.5, -0.3, -1]},
+    {"t": 0.35, "e": 1.0, "lh": [0.13, -0.2, 0.52], "lep": [0.6, -0.5, -0.4]},
+    {"t": 0.48, "e": 0.9},
+    {"t": 0.9, "e": 0.35, "lh": [0.2, -0.2, 0.1], "lep": [0.5, -0.3, -1]}
+  ]
+}

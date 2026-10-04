@@ -1,0 +1,11 @@
+{"id": "leg_pull_front", "name": "Leg pull front", "duration": 3.0, "handFrame": "world", "footFrame": "world", "view": {"yaw": -85, "pitch": 8}, "notes": "Front support (high plank): hands under the shoulders, body in one straight line, then the right leg lifts a few degrees above the line without sagging the hips, and lowers. Right leg works.",
+  "props": [
+    {"type": "mat", "min": [-0.4, -0.005, -1.2], "max": [0.4, 0.012, 0.8]}
+  ],
+  "keys": [
+    {"t": 0, "e": 0.5, "el": 0.4, "er": 0.5, "pelvis": [0, 0.454, -0.01], "pitch": 71, "spine": [0, 0, 0], "neck": 0, "lh": [0.2, 0.06, 0.45], "lf": [0.1, 0.17, -0.85], "lfa": -75, "lfy": 0, "lkp": [0.1, 0, 1], "lep": [0.7, -1, 0], "rf": [-0.1, 0.17, -0.85], "rfa": -75},
+    {"t": 0.3, "e": 1.0, "el": 0.5, "er": 1.0, "rf": [-0.1, 0.55, -0.95], "rfa": -60},
+    {"t": 0.5, "e": 0.9, "el": 0.5, "er": 0.9},
+    {"t": 0.8, "e": 0.5, "el": 0.4, "er": 0.5, "rf": [-0.1, 0.17, -0.85], "rfa": -75}
+  ]
+}

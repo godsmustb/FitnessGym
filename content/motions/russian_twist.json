@@ -1,0 +1,13 @@
+{
+  "id": "russian_twist", "name": "Russian twist", "duration": 2.6,
+  "handFrame": "chest", "footFrame": "world",
+  "view": {"yaw": -60, "pitch": 14},
+  "props": [
+    {"type": "mat", "min": [-0.4, -0.005, -1.1], "max": [0.4, 0.008, 1.0]}
+  ],
+  "notes": "V-sit: leaning back, feet raised, hands together and the torso twisting side to side.",
+  "keys": [
+    {"t": 0.0, "e": 0.7, "pelvis": [0, 0.12, -0.1], "pitch": -38, "spine": [10, 0, 40], "neck": 0, "lh": [0.06, -0.15, 0.36], "lep": [0.6, -0.5, -0.2], "lf": [0.1, 0.35, 0.55], "lfa": 0, "lkp": [0.1, 0, 1], "lfy": 0},
+    {"t": 0.5, "e": 0.7, "spine": [10, 0, -40]}
+  ]
+}

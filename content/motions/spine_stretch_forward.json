@@ -1,0 +1,13 @@
+{"id": "spine_stretch_forward", "name": "Spine stretch forward", "duration": 4.0, "handFrame": "chest", "footFrame": "world", "view": {"yaw": -85, "pitch": 6}, "notes": "Seated tall with legs a little wider than the hips; the spine curls forward into a C with the head between the arms and the arms reaching long, then stacks back up.",
+  "props": [
+    {"type": "mat", "min": [-0.45, -0.005, -0.6], "max": [0.45, 0.012, 1.2]}
+  ],
+  "keys": [
+    {"t": 0, "e": 0.3, "pelvis": [0, 0.13, 0], "pitch": 0, "spine": [0, 0, 0], "neck": 0, "lf": [0.22, 0.1, 0.88], "lfa": 55, "lkp": [0.0, 1, 0], "lh": [0.19, -0.05, 0.55], "lep": [0.35, -0.5, -1]},
+    {"t": 0.15, "e": 0.5, "pelvis": [0, 0.13, 0], "pitch": 4, "spine": [18, 0, 0], "neck": 18, "lh": [0.19, 0.15, 0.5]},
+    {"t": 0.4, "e": 1.0, "pelvis": [0, 0.13, 0.0], "pitch": 14, "spine": [62, 0, 0], "neck": 40, "lh": [0.19, 0.5, 0.12]},
+    {"t": 0.55, "e": 0.9},
+    {"t": 0.8, "e": 0.5, "pelvis": [0, 0.13, 0], "pitch": 4, "spine": [22, 0, 0], "neck": 15, "lh": [0.19, 0.2, 0.5]},
+    {"t": 0.92, "e": 0.3, "pitch": 0, "spine": [4, 0, 0], "neck": 0, "lh": [0.19, -0.05, 0.55]}
+  ]
+}

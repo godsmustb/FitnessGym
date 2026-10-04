@@ -1,0 +1,4220 @@
+{
+ "3_4_Sit-Up": {
+  "cues": [
+   "Curl up one vertebra at a time",
+   "Exhale as you rise, abs leading",
+   "Lower with control"
+  ],
+  "mistakes": [
+   "Yanking the head forward",
+   "Using momentum and a fast drop",
+   "Letting the feet fly up"
+  ]
+ },
+ "Ab_Crunch_Machine": {
+  "cues": [
+   "Curl your ribs toward your pelvis",
+   "Squeeze the abs hard at the bottom",
+   "Control the return",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Pulling with the arms",
+   "Using the hips instead of the abs",
+   "Letting the weight slam"
+  ]
+ },
+ "Air_Bike": {
+  "cues": [
+   "Bring the shoulder toward the opposite knee",
+   "Extend the straight leg low and slow",
+   "Rotate through the ribs, not the elbows"
+  ],
+  "mistakes": [
+   "Pulling on the neck",
+   "Rushing the pedaling",
+   "Letting the lower back arch"
+  ]
+ },
+ "Alternate_Heel_Touchers": {
+  "cues": [
+   "Lift the ribs toward the pelvis",
+   "Keep the chin off the chest",
+   "Exhale and squeeze the abs at the top",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Pulling on the neck",
+   "Using momentum",
+   "Lifting the lower back off the floor"
+  ]
+ },
+ "Alternate_Hammer_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Alternate_Incline_Dumbbell_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Alternate_Leg_Diagonal_Bound": {
+  "cues": [
+   "Push off sideways and land soft on one leg",
+   "Sweep the back leg behind",
+   "Stay low through the hips",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Landing stiff",
+   "Letting the knee cave in",
+   "Standing too upright"
+  ]
+ },
+ "Alternating_Cable_Shoulder_Press": {
+  "cues": [
+   "Push the weight straight up past your ears",
+   "Squeeze your glutes and ribs down",
+   "Finish with biceps by your ears",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Pressing the weight forward of the body",
+   "Flaring the ribs"
+  ]
+ },
+ "Alternating_Deltoid_Raise": {
+  "cues": [
+   "Raise to eye level, no swinging",
+   "Keep a soft bend in the elbows",
+   "Feel the front of the shoulder lift",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Using body momentum",
+   "Lifting above shoulder height",
+   "Leaning back as you raise"
+  ]
+ },
+ "Arnold_Dumbbell_Press": {
+  "cues": [
+   "Press the weights up and slightly together",
+   "Back firmly against the pad",
+   "Lower to ear level under control"
+  ],
+  "mistakes": [
+   "Arching off the bench",
+   "Bouncing the weights at the bottom",
+   "Shrugging toward the ears"
+  ]
+ },
+ "Around_The_Worlds": {
+  "cues": [
+   "Hug a big tree with a soft elbow bend",
+   "Open until you feel a chest stretch",
+   "Squeeze the chest as you close"
+  ],
+  "mistakes": [
+   "Bending and straightening the elbows like a press",
+   "Going too deep and straining the shoulders",
+   "Using too much weight"
+  ]
+ },
+ "Bench_Dips": {
+  "cues": [
+   "Press the bench away to straighten the arms",
+   "Keep the hips close to the bench",
+   "Shoulders down, away from ears"
+  ],
+  "mistakes": [
+   "Dropping too deep",
+   "Moving the hips far from the bench",
+   "Flaring the elbows out"
+  ]
+ },
+ "Bench_Jump": {
+  "cues": [
+   "Push the floor away explosively",
+   "Land softly, knees bent",
+   "Reset between reps"
+  ],
+  "mistakes": [
+   "Landing stiff-legged",
+   "Letting the knees cave in",
+   "Landing on the toes only"
+  ]
+ },
+ "Bent-Arm_Dumbbell_Pullover": {
+  "cues": [
+   "Keep arms long with a soft elbow bend",
+   "Reach back until the lats stretch",
+   "Pull the weight over with your lats"
+  ],
+  "mistakes": [
+   "Bending the elbows into a press",
+   "Arching the back",
+   "Letting the ribs flare"
+  ]
+ },
+ "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench": {
+  "cues": [
+   "Sweep the arms out wide, elbows leading",
+   "Hinge forward with a flat back",
+   "Squeeze the rear shoulders at the top"
+  ],
+  "mistakes": [
+   "Turning it into a row",
+   "Using momentum from the legs",
+   "Shrugging the shoulders up"
+  ]
+ },
+ "Bent_Over_Low-Pulley_Side_Lateral": {
+  "cues": [
+   "Sweep the arms out wide, elbows leading",
+   "Hinge forward with a flat back",
+   "Squeeze the rear shoulders at the top",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Turning it into a row",
+   "Using momentum from the legs",
+   "Shrugging the shoulders up"
+  ]
+ },
+ "Bent_Over_Two-Dumbbell_Row": {
+  "cues": [
+   "Drive the elbows toward your hips",
+   "Hinge forward, back flat",
+   "Squeeze the shoulder blades together"
+  ],
+  "mistakes": [
+   "Standing too upright",
+   "Yanking the weight with momentum",
+   "Rounding the back"
+  ]
+ },
+ "Bent_Over_Two-Dumbbell_Row_With_Palms_In": {
+  "cues": [
+   "Drive the elbows toward your hips",
+   "Hinge forward, back flat",
+   "Squeeze the shoulder blades together"
+  ],
+  "mistakes": [
+   "Standing too upright",
+   "Yanking the weight with momentum",
+   "Rounding the back"
+  ]
+ },
+ "Body-Up": {
+  "cues": [
+   "Keep the upper arms still and pointing up",
+   "Extend the elbows, squeeze the triceps",
+   "Lower toward the forehead slowly"
+  ],
+  "mistakes": [
+   "Flaring the elbows",
+   "Letting the upper arms drift",
+   "Going too heavy"
+  ]
+ },
+ "Bodyweight_Squat": {
+  "cues": [
+   "Push the floor away through mid-foot",
+   "Sit down between your hips, chest tall",
+   "Knees track over your toes"
+  ],
+  "mistakes": [
+   "Heels lifting off the floor",
+   "Knees caving inward",
+   "Rounding the lower back at the bottom"
+  ]
+ },
+ "Bodyweight_Walking_Lunge": {
+  "cues": [
+   "Drop straight down, as if between two rails",
+   "Push the floor away through the front heel",
+   "Keep your torso tall"
+  ],
+  "mistakes": [
+   "Front knee collapsing inward",
+   "Taking a stride too short and loading the knee",
+   "Leaning the torso forward"
+  ]
+ },
+ "Bottoms_Up": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Butt-Ups": {
+  "cues": [
+   "Push the floor away through the forearms",
+   "Squeeze glutes and brace abs",
+   "Straight line from head to heels"
+  ],
+  "mistakes": [
+   "Sagging the lower back",
+   "Piking the hips up",
+   "Holding your breath"
+  ]
+ },
+ "Butt_Lift_Bridge": {
+  "cues": [
+   "Push the floor away through your heels",
+   "Squeeze the glutes hard at the top",
+   "Ribs down, no arching the back"
+  ],
+  "mistakes": [
+   "Overarching the lower back",
+   "Pushing through the toes",
+   "Letting the knees fall inward"
+  ]
+ },
+ "Butterfly": {
+  "cues": [
+   "Bring the handles together as if hugging",
+   "Keep the chest proud, shoulders down",
+   "Squeeze the pecs for a beat",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Letting the shoulders roll forward",
+   "Going too far back on the return",
+   "Using momentum"
+  ]
+ },
+ "Cable_Chest_Press": {
+  "cues": [
+   "Push the handles away from your chest",
+   "Shoulder blades back against the pad",
+   "Do not lock out hard",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Shrugging the shoulders",
+   "Lifting the back off the pad",
+   "Letting the weight stack slam"
+  ]
+ },
+ "Cable_Crossover": {
+  "cues": [
+   "Sweep the hands down and together",
+   "Slight forward lean, soft elbows",
+   "Squeeze the chest at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Bending the elbows into a press",
+   "Swinging the torso",
+   "Letting the cables yank the shoulders back"
+  ]
+ },
+ "Cable_Crunch": {
+  "cues": [
+   "Curl your ribs toward your pelvis",
+   "Squeeze the abs hard at the bottom",
+   "Control the return",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Pulling with the arms",
+   "Using the hips instead of the abs",
+   "Letting the weight slam"
+  ]
+ },
+ "Cable_Deadlifts": {
+  "cues": [
+   "Push your hips back like closing a car door",
+   "Keep the weight close to your legs",
+   "Feel the stretch in the back of your thighs",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Rounding the lower back",
+   "Squatting the movement instead of hinging",
+   "Letting the weight drift away from the legs"
+  ]
+ },
+ "Cable_Hammer_Curls_-_Rope_Attachment": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Cable_Hip_Adduction": {
+  "cues": [
+   "Squeeze the thighs together",
+   "Sit tall with a neutral spine",
+   "Control the opening",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Letting the weight pull the legs open fast",
+   "Leaning forward",
+   "Using too heavy a stack"
+  ]
+ },
+ "Cable_Incline_Pushdown": {
+  "cues": [
+   "Keep arms long with a soft elbow bend",
+   "Reach back until the lats stretch",
+   "Pull the weight over with your lats",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Bending the elbows into a press",
+   "Arching the back",
+   "Letting the ribs flare"
+  ]
+ },
+ "Cable_Incline_Triceps_Extension": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Cable_Iron_Cross": {
+  "cues": [
+   "Sweep the hands down and together",
+   "Slight forward lean, soft elbows",
+   "Squeeze the chest at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Bending the elbows into a press",
+   "Swinging the torso",
+   "Letting the cables yank the shoulders back"
+  ]
+ },
+ "Cable_Judo_Flip": {
+  "cues": [
+   "Rotate through the torso, arms stay long",
+   "Pivot the back foot as you turn",
+   "Brace your abs the whole time",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Bending the arms to pull",
+   "Rotating through the lower back only",
+   "Using too much weight"
+  ]
+ },
+ "Cable_Lying_Triceps_Extension": {
+  "cues": [
+   "Keep the upper arms still and pointing up",
+   "Extend the elbows, squeeze the triceps",
+   "Lower toward the forehead slowly",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Flaring the elbows",
+   "Letting the upper arms drift",
+   "Going too heavy"
+  ]
+ },
+ "Cable_One_Arm_Tricep_Extension": {
+  "cues": [
+   "Lock the elbows to your sides",
+   "Push the handle down and squeeze the triceps",
+   "Control the way up",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Letting the elbows flare",
+   "Leaning over the handle",
+   "Using body weight"
+  ]
+ },
+ "Cable_Preacher_Curl": {
+  "cues": [
+   "Keep the upper arms on the pad",
+   "Curl up and squeeze the biceps",
+   "Lower slowly to a full stretch",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Lifting the elbows off the pad",
+   "Swinging the body",
+   "Cutting the lowering short"
+  ]
+ },
+ "Cable_Rear_Delt_Fly": {
+  "cues": [
+   "Sweep the arms out wide, elbows leading",
+   "Hinge forward with a flat back",
+   "Squeeze the rear shoulders at the top",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Turning it into a row",
+   "Using momentum from the legs",
+   "Shrugging the shoulders up"
+  ]
+ },
+ "Cable_Reverse_Crunch": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Cable_Rope_Overhead_Triceps_Extension": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Cable_Rope_Rear-Delt_Rows": {
+  "cues": [
+   "Pull the rope toward your face, hands apart",
+   "Elbows high, thumbs back",
+   "Squeeze the rear shoulders",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Using too much weight",
+   "Leaning back to cheat",
+   "Pulling with the hands only"
+  ]
+ },
+ "Cable_Russian_Twists": {
+  "cues": [
+   "Rotate the ribcage, not just the arms",
+   "Lean back to a tall V and stay long",
+   "Squeeze the sides of the waist",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Swinging only the arms",
+   "Rounding the back",
+   "Dropping the chest"
+  ]
+ },
+ "Cable_Seated_Crunch": {
+  "cues": [
+   "Curl your ribs toward your pelvis",
+   "Squeeze the abs hard at the bottom",
+   "Control the return",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Pulling with the arms",
+   "Using the hips instead of the abs",
+   "Letting the weight slam"
+  ]
+ },
+ "Cable_Seated_Lateral_Raise": {
+  "cues": [
+   "Lead with your elbows, pour the water out",
+   "Lift to shoulder height, no higher",
+   "Think side delts doing the work",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Swinging the torso for momentum",
+   "Shrugging the traps",
+   "Lifting the hands above the elbows"
+  ]
+ },
+ "Cable_Shoulder_Press": {
+  "cues": [
+   "Push the weight straight up past your ears",
+   "Squeeze your glutes and ribs down",
+   "Finish with biceps by your ears",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Pressing the weight forward of the body",
+   "Flaring the ribs"
+  ]
+ },
+ "Cable_Shrugs": {
+  "cues": [
+   "Lift the shoulders straight up to the ears",
+   "Hold the top for a beat",
+   "Squeeze the traps",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Rolling the shoulders",
+   "Bending the elbows to lift",
+   "Using too much momentum"
+  ]
+ },
+ "Cable_Wrist_Curl": {
+  "cues": [
+   "Let the weight roll to the fingertips, then curl up",
+   "Keep the forearms still on the thighs",
+   "Feel the forearms burn",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Lifting the forearms off the legs",
+   "Rushing the reps",
+   "Using too heavy a weight"
+  ]
+ },
+ "Calf-Machine_Shoulder_Shrug": {
+  "cues": [
+   "Lift the shoulders straight up to the ears",
+   "Hold the top for a beat",
+   "Squeeze the traps",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Rolling the shoulders",
+   "Bending the elbows to lift",
+   "Using too much momentum"
+  ]
+ },
+ "Calf_Press": {
+  "cues": [
+   "Press up through the balls of the feet",
+   "Pause at the top, then stretch fully",
+   "Feel the lower calf work",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Bouncing at the bottom",
+   "Cutting the range short",
+   "Using the thighs to drive the weight"
+  ]
+ },
+ "Calf_Press_On_The_Leg_Press_Machine": {
+  "cues": [
+   "Press the floor away with the ball of the foot",
+   "Rise as tall as you can and pause",
+   "Lower into a full stretch",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Bouncing through the reps",
+   "Short range of motion",
+   "Letting the ankles roll outward"
+  ]
+ },
+ "Calf_Raise_On_A_Dumbbell": {
+  "cues": [
+   "Press the floor away with the ball of the foot",
+   "Rise as tall as you can and pause",
+   "Lower into a full stretch"
+  ],
+  "mistakes": [
+   "Bouncing through the reps",
+   "Short range of motion",
+   "Letting the ankles roll outward"
+  ]
+ },
+ "Carioca_Quick_Step": {
+  "cues": [
+   "Push off sideways and land soft on one leg",
+   "Sweep the back leg behind",
+   "Stay low through the hips"
+  ],
+  "mistakes": [
+   "Landing stiff",
+   "Letting the knee cave in",
+   "Standing too upright"
+  ]
+ },
+ "Chair_Squat": {
+  "cues": [
+   "Push the floor away through mid-foot",
+   "Sit down between your hips, chest tall",
+   "Knees track over your toes",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Heels lifting off the floor",
+   "Knees caving inward",
+   "Rounding the lower back at the bottom"
+  ]
+ },
+ "Chin-Up": {
+  "cues": [
+   "Pull the elbows down to your pockets",
+   "Start by setting the shoulder blades",
+   "Lead with the chest toward the bar"
+  ],
+  "mistakes": [
+   "Kipping or swinging",
+   "Half reps with no full hang",
+   "Craning the chin over the bar"
+  ]
+ },
+ "Clock_Push-Up": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Close-Grip_Dumbbell_Press": {
+  "cues": [
+   "Push yourself away from the bench into the pad",
+   "Shoulder blades pinned back",
+   "Lower for 2-3 seconds"
+  ],
+  "mistakes": [
+   "Flaring the elbows to 90 degrees",
+   "Bouncing the weights",
+   "Lifting the hips off the bench"
+  ]
+ },
+ "Close-Grip_Front_Lat_Pulldown": {
+  "cues": [
+   "Pull the elbows down to your sides",
+   "Chest up, slight lean back",
+   "Squeeze the lats at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Pulling the bar behind the neck",
+   "Leaning back too far",
+   "Using momentum"
+  ]
+ },
+ "Close-Grip_Push-Up_off_of_a_Dumbbell": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Cocoons": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Concentration_Curls": {
+  "cues": [
+   "Brace the upper arm against the inner thigh",
+   "Curl slowly, squeeze the biceps at the top",
+   "Keep the shoulder still",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the torso",
+   "Lifting the elbow off the leg",
+   "Rushing the lowering"
+  ]
+ },
+ "Cross-Body_Crunch": {
+  "cues": [
+   "Lift the ribs toward the pelvis",
+   "Keep the chin off the chest",
+   "Exhale and squeeze the abs at the top"
+  ],
+  "mistakes": [
+   "Pulling on the neck",
+   "Using momentum",
+   "Lifting the lower back off the floor"
+  ]
+ },
+ "Cross_Body_Hammer_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Crunch_-_Hands_Overhead": {
+  "cues": [
+   "Lift the ribs toward the pelvis",
+   "Keep the chin off the chest",
+   "Exhale and squeeze the abs at the top"
+  ],
+  "mistakes": [
+   "Pulling on the neck",
+   "Using momentum",
+   "Lifting the lower back off the floor"
+  ]
+ },
+ "Crunches": {
+  "cues": [
+   "Lift the ribs toward the pelvis",
+   "Keep the chin off the chest",
+   "Exhale and squeeze the abs at the top"
+  ],
+  "mistakes": [
+   "Pulling on the neck",
+   "Using momentum",
+   "Lifting the lower back off the floor"
+  ]
+ },
+ "Cuban_Press": {
+  "cues": [
+   "Lead with the elbows, keep the weight close",
+   "Stop at about chest height",
+   "Shoulders down, away from the ears"
+  ],
+  "mistakes": [
+   "Pulling the elbows higher than the shoulders",
+   "Hunching the traps",
+   "Swinging the torso"
+  ]
+ },
+ "Dead_Bug": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Reach opposite arm and leg slowly",
+   "Breathe out as you extend"
+  ],
+  "mistakes": [
+   "Letting the back arch",
+   "Moving too fast",
+   "Dropping the legs too low"
+  ]
+ },
+ "Decline_Crunch": {
+  "cues": [
+   "Lift the ribs toward the pelvis",
+   "Keep the chin off the chest",
+   "Exhale and squeeze the abs at the top"
+  ],
+  "mistakes": [
+   "Pulling on the neck",
+   "Using momentum",
+   "Lifting the lower back off the floor"
+  ]
+ },
+ "Decline_Dumbbell_Bench_Press": {
+  "cues": [
+   "Push yourself away from the bench into the pad",
+   "Shoulder blades pinned back",
+   "Lower for 2-3 seconds"
+  ],
+  "mistakes": [
+   "Flaring the elbows to 90 degrees",
+   "Bouncing the weights",
+   "Lifting the hips off the bench"
+  ]
+ },
+ "Decline_Dumbbell_Flyes": {
+  "cues": [
+   "Hug a big tree with a soft elbow bend",
+   "Open until you feel a chest stretch",
+   "Squeeze the chest as you close"
+  ],
+  "mistakes": [
+   "Bending and straightening the elbows like a press",
+   "Going too deep and straining the shoulders",
+   "Using too much weight"
+  ]
+ },
+ "Decline_Dumbbell_Triceps_Extension": {
+  "cues": [
+   "Keep the upper arms still and pointing up",
+   "Extend the elbows, squeeze the triceps",
+   "Lower toward the forehead slowly"
+  ],
+  "mistakes": [
+   "Flaring the elbows",
+   "Letting the upper arms drift",
+   "Going too heavy"
+  ]
+ },
+ "Decline_Oblique_Crunch": {
+  "cues": [
+   "Lift the ribs toward the pelvis",
+   "Keep the chin off the chest",
+   "Exhale and squeeze the abs at the top"
+  ],
+  "mistakes": [
+   "Pulling on the neck",
+   "Using momentum",
+   "Lifting the lower back off the floor"
+  ]
+ },
+ "Decline_Push-Up": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Decline_Reverse_Crunch": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Decline_Smith_Press": {
+  "cues": [
+   "Push the handles away from your chest",
+   "Shoulder blades back against the pad",
+   "Do not lock out hard",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Shrugging the shoulders",
+   "Lifting the back off the pad",
+   "Letting the weight stack slam"
+  ]
+ },
+ "Dip_Machine": {
+  "cues": [
+   "Press down into the bars",
+   "Lean slightly forward for the chest, upright for triceps",
+   "Control the way down",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Dropping too deep for your shoulders",
+   "Shrugging up",
+   "Swinging the legs"
+  ]
+ },
+ "Dips_-_Triceps_Version": {
+  "cues": [
+   "Press down into the bars",
+   "Lean slightly forward for the chest, upright for triceps",
+   "Control the way down"
+  ],
+  "mistakes": [
+   "Dropping too deep for your shoulders",
+   "Shrugging up",
+   "Swinging the legs"
+  ]
+ },
+ "Double_Leg_Butt_Kick": {
+  "cues": [
+   "Flick the heels toward the glutes",
+   "Stay tall, quick light steps",
+   "Swing arms in rhythm"
+  ],
+  "mistakes": [
+   "Leaning forward",
+   "Heavy stomping",
+   "Barely lifting the heels"
+  ]
+ },
+ "Dumbbell_Alternate_Bicep_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Dumbbell_Bench_Press": {
+  "cues": [
+   "Push yourself away from the bench into the pad",
+   "Shoulder blades pinned back",
+   "Lower for 2-3 seconds"
+  ],
+  "mistakes": [
+   "Flaring the elbows to 90 degrees",
+   "Bouncing the weights",
+   "Lifting the hips off the bench"
+  ]
+ },
+ "Dumbbell_Bench_Press_with_Neutral_Grip": {
+  "cues": [
+   "Push yourself away from the bench into the pad",
+   "Shoulder blades pinned back",
+   "Lower for 2-3 seconds"
+  ],
+  "mistakes": [
+   "Flaring the elbows to 90 degrees",
+   "Bouncing the weights",
+   "Lifting the hips off the bench"
+  ]
+ },
+ "Dumbbell_Bicep_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Dumbbell_Floor_Press": {
+  "cues": [
+   "Push yourself away from the bench into the pad",
+   "Shoulder blades pinned back",
+   "Lower for 2-3 seconds"
+  ],
+  "mistakes": [
+   "Flaring the elbows to 90 degrees",
+   "Bouncing the weights",
+   "Lifting the hips off the bench"
+  ]
+ },
+ "Dumbbell_Flyes": {
+  "cues": [
+   "Hug a big tree with a soft elbow bend",
+   "Open until you feel a chest stretch",
+   "Squeeze the chest as you close"
+  ],
+  "mistakes": [
+   "Bending and straightening the elbows like a press",
+   "Going too deep and straining the shoulders",
+   "Using too much weight"
+  ]
+ },
+ "Dumbbell_Incline_Row": {
+  "cues": [
+   "Drive the elbows toward your hips",
+   "Hinge forward, back flat",
+   "Squeeze the shoulder blades together"
+  ],
+  "mistakes": [
+   "Standing too upright",
+   "Yanking the weight with momentum",
+   "Rounding the back"
+  ]
+ },
+ "Dumbbell_Incline_Shoulder_Raise": {
+  "cues": [
+   "Raise to eye level, no swinging",
+   "Keep a soft bend in the elbows",
+   "Feel the front of the shoulder lift"
+  ],
+  "mistakes": [
+   "Using body momentum",
+   "Lifting above shoulder height",
+   "Leaning back as you raise"
+  ]
+ },
+ "Dumbbell_Lunges": {
+  "cues": [
+   "Drop straight down, as if between two rails",
+   "Push the floor away through the front heel",
+   "Keep your torso tall"
+  ],
+  "mistakes": [
+   "Front knee collapsing inward",
+   "Taking a stride too short and loading the knee",
+   "Leaning the torso forward"
+  ]
+ },
+ "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise": {
+  "cues": [
+   "Sweep the arms out wide, elbows leading",
+   "Hinge forward with a flat back",
+   "Squeeze the rear shoulders at the top",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Turning it into a row",
+   "Using momentum from the legs",
+   "Shrugging the shoulders up"
+  ]
+ },
+ "Dumbbell_Lying_Pronation": {
+  "cues": [
+   "Let the weight roll to the fingertips, then curl up",
+   "Keep the forearms still on the thighs",
+   "Feel the forearms burn",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Lifting the forearms off the legs",
+   "Rushing the reps",
+   "Using too heavy a weight"
+  ]
+ },
+ "Dumbbell_Lying_Rear_Lateral_Raise": {
+  "cues": [
+   "Sweep the arms out wide, elbows leading",
+   "Hinge forward with a flat back",
+   "Squeeze the rear shoulders at the top"
+  ],
+  "mistakes": [
+   "Turning it into a row",
+   "Using momentum from the legs",
+   "Shrugging the shoulders up"
+  ]
+ },
+ "Dumbbell_Lying_Supination": {
+  "cues": [
+   "Let the weight roll to the fingertips, then curl up",
+   "Keep the forearms still on the thighs",
+   "Feel the forearms burn",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Lifting the forearms off the legs",
+   "Rushing the reps",
+   "Using too heavy a weight"
+  ]
+ },
+ "Dumbbell_One-Arm_Shoulder_Press": {
+  "cues": [
+   "Push the weight straight up past your ears",
+   "Squeeze your glutes and ribs down",
+   "Finish with biceps by your ears",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Pressing the weight forward of the body",
+   "Flaring the ribs"
+  ]
+ },
+ "Dumbbell_One-Arm_Triceps_Extension": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Dumbbell_One-Arm_Upright_Row": {
+  "cues": [
+   "Lead with the elbows, keep the weight close",
+   "Stop at about chest height",
+   "Shoulders down, away from the ears",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Pulling the elbows higher than the shoulders",
+   "Hunching the traps",
+   "Swinging the torso"
+  ]
+ },
+ "Dumbbell_Prone_Incline_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Dumbbell_Raise": {
+  "cues": [
+   "Raise to eye level, no swinging",
+   "Keep a soft bend in the elbows",
+   "Feel the front of the shoulder lift"
+  ],
+  "mistakes": [
+   "Using body momentum",
+   "Lifting above shoulder height",
+   "Leaning back as you raise"
+  ]
+ },
+ "Dumbbell_Rear_Lunge": {
+  "cues": [
+   "Drop straight down, as if between two rails",
+   "Push the floor away through the front heel",
+   "Keep your torso tall"
+  ],
+  "mistakes": [
+   "Front knee collapsing inward",
+   "Taking a stride too short and loading the knee",
+   "Leaning the torso forward"
+  ]
+ },
+ "Dumbbell_Scaption": {
+  "cues": [
+   "Raise to eye level, no swinging",
+   "Keep a soft bend in the elbows",
+   "Feel the front of the shoulder lift"
+  ],
+  "mistakes": [
+   "Using body momentum",
+   "Lifting above shoulder height",
+   "Leaning back as you raise"
+  ]
+ },
+ "Dumbbell_Seated_One-Leg_Calf_Raise": {
+  "cues": [
+   "Press up through the balls of the feet",
+   "Pause at the top, then stretch fully",
+   "Feel the lower calf work",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Bouncing at the bottom",
+   "Cutting the range short",
+   "Using the thighs to drive the weight"
+  ]
+ },
+ "Dumbbell_Shoulder_Press": {
+  "cues": [
+   "Press the weights up and slightly together",
+   "Back firmly against the pad",
+   "Lower to ear level under control"
+  ],
+  "mistakes": [
+   "Arching off the bench",
+   "Bouncing the weights at the bottom",
+   "Shrugging toward the ears"
+  ]
+ },
+ "Dumbbell_Shrug": {
+  "cues": [
+   "Lift the shoulders straight up to the ears",
+   "Hold the top for a beat",
+   "Squeeze the traps"
+  ],
+  "mistakes": [
+   "Rolling the shoulders",
+   "Bending the elbows to lift",
+   "Using too much momentum"
+  ]
+ },
+ "Dumbbell_Side_Bend": {
+  "cues": [
+   "Slide the weight straight down your leg",
+   "Bend sideways, not forward",
+   "Squeeze the side of the waist to come back up"
+  ],
+  "mistakes": [
+   "Leaning forward or back",
+   "Using momentum",
+   "Going too heavy"
+  ]
+ },
+ "Dumbbell_Squat": {
+  "cues": [
+   "Push the floor away through mid-foot",
+   "Sit down between your hips, chest tall",
+   "Knees track over your toes"
+  ],
+  "mistakes": [
+   "Heels lifting off the floor",
+   "Knees caving inward",
+   "Rounding the lower back at the bottom"
+  ]
+ },
+ "Dumbbell_Squat_To_A_Bench": {
+  "cues": [
+   "Push the floor away through mid-foot",
+   "Sit down between your hips, chest tall",
+   "Knees track over your toes"
+  ],
+  "mistakes": [
+   "Heels lifting off the floor",
+   "Knees caving inward",
+   "Rounding the lower back at the bottom"
+  ]
+ },
+ "Dumbbell_Step_Ups": {
+  "cues": [
+   "Push the box away with the top foot",
+   "Stand fully tall at the top",
+   "Lower with control, do not drop"
+  ],
+  "mistakes": [
+   "Pushing off the trailing foot",
+   "Leaning far forward",
+   "Letting the knee cave in"
+  ]
+ },
+ "Dumbbell_Tricep_Extension_-Pronated_Grip": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Elbow_to_Knee": {
+  "cues": [
+   "Lift the ribs toward the pelvis",
+   "Keep the chin off the chest",
+   "Exhale and squeeze the abs at the top"
+  ],
+  "mistakes": [
+   "Pulling on the neck",
+   "Using momentum",
+   "Lifting the lower back off the floor"
+  ]
+ },
+ "Elevated_Cable_Rows": {
+  "cues": [
+   "Drive the elbows back",
+   "Sit tall, chest proud",
+   "Squeeze the shoulder blades together",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Rocking the torso",
+   "Shrugging the shoulders",
+   "Letting the shoulders round forward"
+  ]
+ },
+ "Face_Pull": {
+  "cues": [
+   "Pull the rope toward your face, hands apart",
+   "Elbows high, thumbs back",
+   "Squeeze the rear shoulders",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Using too much weight",
+   "Leaning back to cheat",
+   "Pulling with the hands only"
+  ]
+ },
+ "Fast_Skipping": {
+  "cues": [
+   "Run tall, quick light feet",
+   "Drive the arms in rhythm",
+   "Land softly on the ball of the foot"
+  ],
+  "mistakes": [
+   "Slouching forward",
+   "Heavy heel strikes",
+   "Tensing the shoulders"
+  ]
+ },
+ "Flat_Bench_Cable_Flyes": {
+  "cues": [
+   "Hug a big tree with a soft elbow bend",
+   "Open until you feel a chest stretch",
+   "Squeeze the chest as you close",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Bending and straightening the elbows like a press",
+   "Going too deep and straining the shoulders",
+   "Using too much weight"
+  ]
+ },
+ "Flat_Bench_Leg_Pull-In": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Flat_Bench_Lying_Leg_Raise": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Flexor_Incline_Dumbbell_Curls": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Flutter_Kicks": {
+  "cues": [
+   "Hinge at the hips, keep a neutral spine",
+   "Squeeze the glutes to rise",
+   "Stop when the body forms a straight line"
+  ],
+  "mistakes": [
+   "Overextending at the top",
+   "Using momentum",
+   "Rounding the back at the bottom"
+  ]
+ },
+ "Frog_Sit-Ups": {
+  "cues": [
+   "Curl up one vertebra at a time",
+   "Exhale as you rise, abs leading",
+   "Lower with control"
+  ],
+  "mistakes": [
+   "Yanking the head forward",
+   "Using momentum and a fast drop",
+   "Letting the feet fly up"
+  ]
+ },
+ "Front_Cable_Raise": {
+  "cues": [
+   "Raise to eye level, no swinging",
+   "Keep a soft bend in the elbows",
+   "Feel the front of the shoulder lift",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Using body momentum",
+   "Lifting above shoulder height",
+   "Leaning back as you raise"
+  ]
+ },
+ "Front_Dumbbell_Raise": {
+  "cues": [
+   "Raise to eye level, no swinging",
+   "Keep a soft bend in the elbows",
+   "Feel the front of the shoulder lift"
+  ],
+  "mistakes": [
+   "Using body momentum",
+   "Lifting above shoulder height",
+   "Leaning back as you raise"
+  ]
+ },
+ "Front_Incline_Dumbbell_Raise": {
+  "cues": [
+   "Raise to eye level, no swinging",
+   "Keep a soft bend in the elbows",
+   "Feel the front of the shoulder lift"
+  ],
+  "mistakes": [
+   "Using body momentum",
+   "Lifting above shoulder height",
+   "Leaning back as you raise"
+  ]
+ },
+ "Front_Two-Dumbbell_Raise": {
+  "cues": [
+   "Raise to eye level, no swinging",
+   "Keep a soft bend in the elbows",
+   "Feel the front of the shoulder lift"
+  ],
+  "mistakes": [
+   "Using body momentum",
+   "Lifting above shoulder height",
+   "Leaning back as you raise"
+  ]
+ },
+ "Full_Range-Of-Motion_Lat_Pulldown": {
+  "cues": [
+   "Pull the elbows down to your sides",
+   "Chest up, slight lean back",
+   "Squeeze the lats at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Pulling the bar behind the neck",
+   "Leaning back too far",
+   "Using momentum"
+  ]
+ },
+ "Glute_Ham_Raise": {
+  "cues": [
+   "Hinge at the hips, keep a neutral spine",
+   "Squeeze the glutes to rise",
+   "Stop when the body forms a straight line",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Overextending at the top",
+   "Using momentum",
+   "Rounding the back at the bottom"
+  ]
+ },
+ "Glute_Kickback": {
+  "cues": [
+   "Push the heel toward the ceiling",
+   "Squeeze the glute at the top",
+   "Keep the hips square to the floor",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Swinging the leg with momentum",
+   "Rotating the pelvis"
+  ]
+ },
+ "Gorilla_Chin_Crunch": {
+  "cues": [
+   "Pull the knees up by curling the pelvis",
+   "Hang tall with shoulders engaged",
+   "Lower without swinging"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Only lifting the thighs with hip flexors",
+   "Letting the shoulders shrug up"
+  ]
+ },
+ "Hack_Squat": {
+  "cues": [
+   "Push the floor away through mid-foot",
+   "Sit down between your hips, chest tall",
+   "Knees track over your toes",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Heels lifting off the floor",
+   "Knees caving inward",
+   "Rounding the lower back at the bottom"
+  ]
+ },
+ "Hammer_Curls": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Hammer_Grip_Incline_DB_Bench_Press": {
+  "cues": [
+   "Press up and slightly in",
+   "Shoulder blades set on the bench",
+   "Lower to upper chest"
+  ],
+  "mistakes": [
+   "Setting the bench too steep",
+   "Flaring the elbows wide",
+   "Arching the lower back off the pad"
+  ]
+ },
+ "Hanging_Leg_Raise": {
+  "cues": [
+   "Pull the knees up by curling the pelvis",
+   "Hang tall with shoulders engaged",
+   "Lower without swinging"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Only lifting the thighs with hip flexors",
+   "Letting the shoulders shrug up"
+  ]
+ },
+ "Hanging_Pike": {
+  "cues": [
+   "Pull the knees up by curling the pelvis",
+   "Hang tall with shoulders engaged",
+   "Lower without swinging"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Only lifting the thighs with hip flexors",
+   "Letting the shoulders shrug up"
+  ]
+ },
+ "High_Cable_Curls": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Hyperextensions_With_No_Hyperextension_Bench": {
+  "cues": [
+   "Hinge at the hips, keep a neutral spine",
+   "Squeeze the glutes to rise",
+   "Stop when the body forms a straight line"
+  ],
+  "mistakes": [
+   "Overextending at the top",
+   "Using momentum",
+   "Rounding the back at the bottom"
+  ]
+ },
+ "Incline_Cable_Chest_Press": {
+  "cues": [
+   "Press up and slightly in",
+   "Shoulder blades set on the bench",
+   "Lower to upper chest",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Setting the bench too steep",
+   "Flaring the elbows wide",
+   "Arching the lower back off the pad"
+  ]
+ },
+ "Incline_Cable_Flye": {
+  "cues": [
+   "Hug a big tree with a soft elbow bend",
+   "Open until you feel a chest stretch",
+   "Squeeze the chest as you close",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Bending and straightening the elbows like a press",
+   "Going too deep and straining the shoulders",
+   "Using too much weight"
+  ]
+ },
+ "Incline_Dumbbell_Bench_With_Palms_Facing_In": {
+  "cues": [
+   "Press up and slightly in",
+   "Shoulder blades set on the bench",
+   "Lower to upper chest"
+  ],
+  "mistakes": [
+   "Setting the bench too steep",
+   "Flaring the elbows wide",
+   "Arching the lower back off the pad"
+  ]
+ },
+ "Incline_Dumbbell_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Incline_Dumbbell_Flyes": {
+  "cues": [
+   "Hug a big tree with a soft elbow bend",
+   "Open until you feel a chest stretch",
+   "Squeeze the chest as you close"
+  ],
+  "mistakes": [
+   "Bending and straightening the elbows like a press",
+   "Going too deep and straining the shoulders",
+   "Using too much weight"
+  ]
+ },
+ "Incline_Dumbbell_Flyes_-_With_A_Twist": {
+  "cues": [
+   "Hug a big tree with a soft elbow bend",
+   "Open until you feel a chest stretch",
+   "Squeeze the chest as you close"
+  ],
+  "mistakes": [
+   "Bending and straightening the elbows like a press",
+   "Going too deep and straining the shoulders",
+   "Using too much weight"
+  ]
+ },
+ "Incline_Dumbbell_Press": {
+  "cues": [
+   "Press up and slightly in",
+   "Shoulder blades set on the bench",
+   "Lower to upper chest"
+  ],
+  "mistakes": [
+   "Setting the bench too steep",
+   "Flaring the elbows wide",
+   "Arching the lower back off the pad"
+  ]
+ },
+ "Incline_Hammer_Curls": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Incline_Inner_Biceps_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Incline_Push-Up": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Incline_Push-Up_Close-Grip": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Incline_Push-Up_Medium": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Incline_Push-Up_Reverse_Grip": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Incline_Push-Up_Wide": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Inverted_Row": {
+  "cues": [
+   "Pull your chest to the bar",
+   "Keep the body in one straight line",
+   "Squeeze the shoulder blades"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Shrugging the shoulders",
+   "Pulling with only the arms"
+  ]
+ },
+ "Jackknife_Sit-Up": {
+  "cues": [
+   "Curl up one vertebra at a time",
+   "Exhale as you rise, abs leading",
+   "Lower with control"
+  ],
+  "mistakes": [
+   "Yanking the head forward",
+   "Using momentum and a fast drop",
+   "Letting the feet fly up"
+  ]
+ },
+ "Janda_Sit-Up": {
+  "cues": [
+   "Curl up one vertebra at a time",
+   "Exhale as you rise, abs leading",
+   "Lower with control"
+  ],
+  "mistakes": [
+   "Yanking the head forward",
+   "Using momentum and a fast drop",
+   "Letting the feet fly up"
+  ]
+ },
+ "Knee_Tuck_Jump": {
+  "cues": [
+   "Push the floor away explosively",
+   "Land softly, knees bent",
+   "Reset between reps"
+  ],
+  "mistakes": [
+   "Landing stiff-legged",
+   "Letting the knees cave in",
+   "Landing on the toes only"
+  ]
+ },
+ "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists": {
+  "cues": [
+   "Curl your ribs toward your pelvis",
+   "Squeeze the abs hard at the bottom",
+   "Control the return",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Pulling with the arms",
+   "Using the hips instead of the abs",
+   "Letting the weight slam"
+  ]
+ },
+ "Kneeling_Cable_Triceps_Extension": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Kneeling_High_Pulley_Row": {
+  "cues": [
+   "Pull the elbows down to your sides",
+   "Chest up, slight lean back",
+   "Squeeze the lats at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Pulling the bar behind the neck",
+   "Leaning back too far",
+   "Using momentum"
+  ]
+ },
+ "Kneeling_Single-Arm_High_Pulley_Row": {
+  "cues": [
+   "Pull the elbows down to your sides",
+   "Chest up, slight lean back",
+   "Squeeze the lats at the bottom",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Pulling the bar behind the neck",
+   "Leaning back too far",
+   "Using momentum"
+  ]
+ },
+ "Lateral_Bound": {
+  "cues": [
+   "Push off sideways and land soft on one leg",
+   "Sweep the back leg behind",
+   "Stay low through the hips"
+  ],
+  "mistakes": [
+   "Landing stiff",
+   "Letting the knee cave in",
+   "Standing too upright"
+  ]
+ },
+ "Leg_Extensions": {
+  "cues": [
+   "Straighten the knees and squeeze the quads",
+   "Pause briefly at the top",
+   "Lower slowly",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Swinging the weight up",
+   "Lifting the hips off the seat",
+   "Dropping the weight fast"
+  ]
+ },
+ "Leg_Lift": {
+  "cues": [
+   "Drive the heel back and squeeze the glute",
+   "Hips square, no twisting",
+   "Keep the standing leg soft",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Swinging the leg",
+   "Leaning on the machine"
+  ]
+ },
+ "Leg_Press": {
+  "cues": [
+   "Push the platform away",
+   "Press through the whole foot",
+   "Lower until the knees reach about 90 degrees",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Locking out the knees hard",
+   "Letting the lower back round off the seat",
+   "Letting the knees cave in"
+  ]
+ },
+ "Leg_Pull-In": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Leverage_Chest_Press": {
+  "cues": [
+   "Push the handles away from your chest",
+   "Shoulder blades back against the pad",
+   "Do not lock out hard",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Shrugging the shoulders",
+   "Lifting the back off the pad",
+   "Letting the weight stack slam"
+  ]
+ },
+ "Leverage_Deadlift": {
+  "cues": [
+   "Push your hips back like closing a car door",
+   "Keep the weight close to your legs",
+   "Feel the stretch in the back of your thighs",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Rounding the lower back",
+   "Squatting the movement instead of hinging",
+   "Letting the weight drift away from the legs"
+  ]
+ },
+ "Leverage_Decline_Chest_Press": {
+  "cues": [
+   "Push the handles away from your chest",
+   "Shoulder blades back against the pad",
+   "Do not lock out hard",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Shrugging the shoulders",
+   "Lifting the back off the pad",
+   "Letting the weight stack slam"
+  ]
+ },
+ "Leverage_High_Row": {
+  "cues": [
+   "Drive the elbows back",
+   "Sit tall, chest proud",
+   "Squeeze the shoulder blades together",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Rocking the torso",
+   "Shrugging the shoulders",
+   "Letting the shoulders round forward"
+  ]
+ },
+ "Leverage_Incline_Chest_Press": {
+  "cues": [
+   "Push the handles away from your chest",
+   "Shoulder blades back against the pad",
+   "Do not lock out hard",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Shrugging the shoulders",
+   "Lifting the back off the pad",
+   "Letting the weight stack slam"
+  ]
+ },
+ "Leverage_Iso_Row": {
+  "cues": [
+   "Drive the elbows back",
+   "Sit tall, chest proud",
+   "Squeeze the shoulder blades together",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Rocking the torso",
+   "Shrugging the shoulders",
+   "Letting the shoulders round forward"
+  ]
+ },
+ "Leverage_Shoulder_Press": {
+  "cues": [
+   "Push the handles straight overhead",
+   "Back pressed to the pad",
+   "Lower to ear level",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Arching the back",
+   "Shrugging up",
+   "Pressing the seat too low"
+  ]
+ },
+ "Leverage_Shrug": {
+  "cues": [
+   "Lift the shoulders straight up to the ears",
+   "Hold the top for a beat",
+   "Squeeze the traps",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Rolling the shoulders",
+   "Bending the elbows to lift",
+   "Using too much momentum"
+  ]
+ },
+ "Low_Cable_Crossover": {
+  "cues": [
+   "Sweep the hands down and together",
+   "Slight forward lean, soft elbows",
+   "Squeeze the chest at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Bending the elbows into a press",
+   "Swinging the torso",
+   "Letting the cables yank the shoulders back"
+  ]
+ },
+ "Low_Cable_Triceps_Extension": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Low_Pulley_Row_To_Neck": {
+  "cues": [
+   "Pull the rope toward your face, hands apart",
+   "Elbows high, thumbs back",
+   "Squeeze the rear shoulders",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Using too much weight",
+   "Leaning back to cheat",
+   "Pulling with the hands only"
+  ]
+ },
+ "Lunge_Sprint": {
+  "cues": [
+   "Drop straight down, as if between two rails",
+   "Push the floor away through the front heel",
+   "Keep your torso tall",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Front knee collapsing inward",
+   "Taking a stride too short and loading the knee",
+   "Leaning the torso forward"
+  ]
+ },
+ "Lying_Cable_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Lying_Close-Grip_Bar_Curl_On_High_Pulley": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Lying_Dumbbell_Tricep_Extension": {
+  "cues": [
+   "Keep the upper arms still and pointing up",
+   "Extend the elbows, squeeze the triceps",
+   "Lower toward the forehead slowly"
+  ],
+  "mistakes": [
+   "Flaring the elbows",
+   "Letting the upper arms drift",
+   "Going too heavy"
+  ]
+ },
+ "Lying_Leg_Curls": {
+  "cues": [
+   "Curl the heels toward the glutes",
+   "Squeeze the hamstrings",
+   "Control the return",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Lifting the hips",
+   "Using momentum",
+   "Cutting the range short"
+  ]
+ },
+ "Lying_Machine_Squat": {
+  "cues": [
+   "Push the platform away",
+   "Press through the whole foot",
+   "Lower until the knees reach about 90 degrees",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Locking out the knees hard",
+   "Letting the lower back round off the seat",
+   "Letting the knees cave in"
+  ]
+ },
+ "Lying_One-Arm_Lateral_Raise": {
+  "cues": [
+   "Lead with your elbows, pour the water out",
+   "Lift to shoulder height, no higher",
+   "Think side delts doing the work",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the torso for momentum",
+   "Shrugging the traps",
+   "Lifting the hands above the elbows"
+  ]
+ },
+ "Lying_Rear_Delt_Raise": {
+  "cues": [
+   "Sweep the arms out wide, elbows leading",
+   "Hinge forward with a flat back",
+   "Squeeze the rear shoulders at the top"
+  ],
+  "mistakes": [
+   "Turning it into a row",
+   "Using momentum from the legs",
+   "Shrugging the shoulders up"
+  ]
+ },
+ "Lying_Supine_Dumbbell_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Lying_T-Bar_Row": {
+  "cues": [
+   "Drive the elbows back",
+   "Sit tall, chest proud",
+   "Squeeze the shoulder blades together",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Rocking the torso",
+   "Shrugging the shoulders",
+   "Letting the shoulders round forward"
+  ]
+ },
+ "Machine_Bench_Press": {
+  "cues": [
+   "Push the handles away from your chest",
+   "Shoulder blades back against the pad",
+   "Do not lock out hard",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Shrugging the shoulders",
+   "Lifting the back off the pad",
+   "Letting the weight stack slam"
+  ]
+ },
+ "Machine_Bicep_Curl": {
+  "cues": [
+   "Keep the upper arms on the pad",
+   "Curl up and squeeze the biceps",
+   "Lower slowly to a full stretch",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Lifting the elbows off the pad",
+   "Swinging the body",
+   "Cutting the lowering short"
+  ]
+ },
+ "Machine_Preacher_Curls": {
+  "cues": [
+   "Keep the upper arms on the pad",
+   "Curl up and squeeze the biceps",
+   "Lower slowly to a full stretch",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Lifting the elbows off the pad",
+   "Swinging the body",
+   "Cutting the lowering short"
+  ]
+ },
+ "Machine_Shoulder_Military_Press": {
+  "cues": [
+   "Push the handles straight overhead",
+   "Back pressed to the pad",
+   "Lower to ear level",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Arching the back",
+   "Shrugging up",
+   "Pressing the seat too low"
+  ]
+ },
+ "Machine_Triceps_Extension": {
+  "cues": [
+   "Lock the elbows to your sides",
+   "Push the handle down and squeeze the triceps",
+   "Control the way up",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Letting the elbows flare",
+   "Leaning over the handle",
+   "Using body weight"
+  ]
+ },
+ "Middle_Back_Shrug": {
+  "cues": [
+   "Lift the shoulders straight up to the ears",
+   "Hold the top for a beat",
+   "Squeeze the traps"
+  ],
+  "mistakes": [
+   "Rolling the shoulders",
+   "Bending the elbows to lift",
+   "Using too much momentum"
+  ]
+ },
+ "Mountain_Climbers": {
+  "cues": [
+   "Push the floor away",
+   "Drive the knees to the chest",
+   "Hips level with the shoulders"
+  ],
+  "mistakes": [
+   "Hips bobbing up",
+   "Letting the shoulders drift back",
+   "Rushing with sloppy form"
+  ]
+ },
+ "Narrow_Stance_Hack_Squats": {
+  "cues": [
+   "Push the floor away through mid-foot",
+   "Sit down between your hips, chest tall",
+   "Knees track over your toes",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Heels lifting off the floor",
+   "Knees caving inward",
+   "Rounding the lower back at the bottom"
+  ]
+ },
+ "Narrow_Stance_Leg_Press": {
+  "cues": [
+   "Push the platform away",
+   "Press through the whole foot",
+   "Lower until the knees reach about 90 degrees",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Locking out the knees hard",
+   "Letting the lower back round off the seat",
+   "Letting the knees cave in"
+  ]
+ },
+ "Oblique_Crunches": {
+  "cues": [
+   "Lift the ribs toward the pelvis",
+   "Keep the chin off the chest",
+   "Exhale and squeeze the abs at the top"
+  ],
+  "mistakes": [
+   "Pulling on the neck",
+   "Using momentum",
+   "Lifting the lower back off the floor"
+  ]
+ },
+ "Oblique_Crunches_-_On_The_Floor": {
+  "cues": [
+   "Lift the ribs toward the pelvis",
+   "Keep the chin off the chest",
+   "Exhale and squeeze the abs at the top"
+  ],
+  "mistakes": [
+   "Pulling on the neck",
+   "Using momentum",
+   "Lifting the lower back off the floor"
+  ]
+ },
+ "One-Arm_Dumbbell_Row": {
+  "cues": [
+   "Pull the elbow to the ceiling",
+   "Keep the back flat and hips square",
+   "Squeeze the lat at the top",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Twisting the torso",
+   "Shrugging toward the ear",
+   "Using a jerky pull"
+  ]
+ },
+ "One-Arm_Flat_Bench_Dumbbell_Flye": {
+  "cues": [
+   "Hug a big tree with a soft elbow bend",
+   "Open until you feel a chest stretch",
+   "Squeeze the chest as you close",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Bending and straightening the elbows like a press",
+   "Going too deep and straining the shoulders",
+   "Using too much weight"
+  ]
+ },
+ "One-Arm_High-Pulley_Cable_Side_Bends": {
+  "cues": [
+   "Slide the weight straight down your leg",
+   "Bend sideways, not forward",
+   "Squeeze the side of the waist to come back up",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Leaning forward or back",
+   "Using momentum",
+   "Going too heavy"
+  ]
+ },
+ "One-Arm_Incline_Lateral_Raise": {
+  "cues": [
+   "Lead with your elbows, pour the water out",
+   "Lift to shoulder height, no higher",
+   "Think side delts doing the work",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the torso for momentum",
+   "Shrugging the traps",
+   "Lifting the hands above the elbows"
+  ]
+ },
+ "One-Arm_Side_Laterals": {
+  "cues": [
+   "Lead with your elbows, pour the water out",
+   "Lift to shoulder height, no higher",
+   "Think side delts doing the work",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the torso for momentum",
+   "Shrugging the traps",
+   "Lifting the hands above the elbows"
+  ]
+ },
+ "One-Legged_Cable_Kickback": {
+  "cues": [
+   "Drive the heel back and squeeze the glute",
+   "Hips square, no twisting",
+   "Keep the standing leg soft",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Swinging the leg",
+   "Leaning on the machine"
+  ]
+ },
+ "One_Arm_Dumbbell_Bench_Press": {
+  "cues": [
+   "Push yourself away from the bench into the pad",
+   "Shoulder blades pinned back",
+   "Lower for 2-3 seconds",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Flaring the elbows to 90 degrees",
+   "Bouncing the weights",
+   "Lifting the hips off the bench"
+  ]
+ },
+ "One_Arm_Dumbbell_Preacher_Curl": {
+  "cues": [
+   "Keep the upper arms on the pad",
+   "Curl up and squeeze the biceps",
+   "Lower slowly to a full stretch",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Lifting the elbows off the pad",
+   "Swinging the body",
+   "Cutting the lowering short"
+  ]
+ },
+ "One_Arm_Lat_Pulldown": {
+  "cues": [
+   "Pull the elbows down to your sides",
+   "Chest up, slight lean back",
+   "Squeeze the lats at the bottom",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Pulling the bar behind the neck",
+   "Leaning back too far",
+   "Using momentum"
+  ]
+ },
+ "One_Arm_Pronated_Dumbbell_Triceps_Extension": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "One_Arm_Supinated_Dumbbell_Triceps_Extension": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Overhead_Cable_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench": {
+  "cues": [
+   "Let the weight roll to the fingertips, then curl up",
+   "Keep the forearms still on the thighs",
+   "Feel the forearms burn"
+  ],
+  "mistakes": [
+   "Lifting the forearms off the legs",
+   "Rushing the reps",
+   "Using too heavy a weight"
+  ]
+ },
+ "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench": {
+  "cues": [
+   "Let the weight roll to the fingertips, then curl up",
+   "Keep the forearms still on the thighs",
+   "Feel the forearms burn"
+  ],
+  "mistakes": [
+   "Lifting the forearms off the legs",
+   "Rushing the reps",
+   "Using too heavy a weight"
+  ]
+ },
+ "Plank": {
+  "cues": [
+   "Push the floor away through the forearms",
+   "Squeeze glutes and brace abs",
+   "Straight line from head to heels"
+  ],
+  "mistakes": [
+   "Sagging the lower back",
+   "Piking the hips up",
+   "Holding your breath"
+  ]
+ },
+ "Plie_Dumbbell_Squat": {
+  "cues": [
+   "Push the floor away through mid-foot",
+   "Sit down between your hips, chest tall",
+   "Knees track over your toes"
+  ],
+  "mistakes": [
+   "Heels lifting off the floor",
+   "Knees caving inward",
+   "Rounding the lower back at the bottom"
+  ]
+ },
+ "Plyo_Push-up": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Preacher_Hammer_Dumbbell_Curl": {
+  "cues": [
+   "Keep the upper arms on the pad",
+   "Curl up and squeeze the biceps",
+   "Lower slowly to a full stretch"
+  ],
+  "mistakes": [
+   "Lifting the elbows off the pad",
+   "Swinging the body",
+   "Cutting the lowering short"
+  ]
+ },
+ "Pull_Through": {
+  "cues": [
+   "Push your hips back like closing a car door",
+   "Keep the weight close to your legs",
+   "Feel the stretch in the back of your thighs",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Rounding the lower back",
+   "Squatting the movement instead of hinging",
+   "Letting the weight drift away from the legs"
+  ]
+ },
+ "Pullups": {
+  "cues": [
+   "Pull the elbows down to your pockets",
+   "Start by setting the shoulder blades",
+   "Lead with the chest toward the bar"
+  ],
+  "mistakes": [
+   "Kipping or swinging",
+   "Half reps with no full hang",
+   "Craning the chin over the bar"
+  ]
+ },
+ "Push-Up_Wide": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Push-Ups_-_Close_Triceps_Position": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Push-Ups_With_Feet_Elevated": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Push_Up_to_Side_Plank": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Pushups": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Pushups_Close_and_Wide_Hand_Positions": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Reverse_Cable_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Reverse_Crunch": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Reverse_Flyes": {
+  "cues": [
+   "Sweep the arms out wide, elbows leading",
+   "Hinge forward with a flat back",
+   "Squeeze the rear shoulders at the top"
+  ],
+  "mistakes": [
+   "Turning it into a row",
+   "Using momentum from the legs",
+   "Shrugging the shoulders up"
+  ]
+ },
+ "Reverse_Flyes_With_External_Rotation": {
+  "cues": [
+   "Sweep the arms out wide, elbows leading",
+   "Hinge forward with a flat back",
+   "Squeeze the rear shoulders at the top"
+  ],
+  "mistakes": [
+   "Turning it into a row",
+   "Using momentum from the legs",
+   "Shrugging the shoulders up"
+  ]
+ },
+ "Reverse_Grip_Triceps_Pushdown": {
+  "cues": [
+   "Lock the elbows to your sides",
+   "Push the handle down and squeeze the triceps",
+   "Control the way up",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Letting the elbows flare",
+   "Leaning over the handle",
+   "Using body weight"
+  ]
+ },
+ "Reverse_Hyperextension": {
+  "cues": [
+   "Hinge at the hips, keep a neutral spine",
+   "Squeeze the glutes to rise",
+   "Stop when the body forms a straight line",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Overextending at the top",
+   "Using momentum",
+   "Rounding the back at the bottom"
+  ]
+ },
+ "Reverse_Machine_Flyes": {
+  "cues": [
+   "Bring the handles together as if hugging",
+   "Keep the chest proud, shoulders down",
+   "Squeeze the pecs for a beat",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Letting the shoulders roll forward",
+   "Going too far back on the return",
+   "Using momentum"
+  ]
+ },
+ "Rocket_Jump": {
+  "cues": [
+   "Push the floor away explosively",
+   "Land softly, knees bent",
+   "Reset between reps"
+  ],
+  "mistakes": [
+   "Landing stiff-legged",
+   "Letting the knees cave in",
+   "Landing on the toes only"
+  ]
+ },
+ "Rope_Crunch": {
+  "cues": [
+   "Curl your ribs toward your pelvis",
+   "Squeeze the abs hard at the bottom",
+   "Control the return",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Pulling with the arms",
+   "Using the hips instead of the abs",
+   "Letting the weight slam"
+  ]
+ },
+ "Rope_Straight-Arm_Pulldown": {
+  "cues": [
+   "Keep arms long with a soft elbow bend",
+   "Reach back until the lats stretch",
+   "Pull the weight over with your lats",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Bending the elbows into a press",
+   "Arching the back",
+   "Letting the ribs flare"
+  ]
+ },
+ "Russian_Twist": {
+  "cues": [
+   "Rotate the ribcage, not just the arms",
+   "Lean back to a tall V and stay long",
+   "Squeeze the sides of the waist"
+  ],
+  "mistakes": [
+   "Swinging only the arms",
+   "Rounding the back",
+   "Dropping the chest"
+  ]
+ },
+ "Scapular_Pull-Up": {
+  "cues": [
+   "Pull the elbows down to your pockets",
+   "Start by setting the shoulder blades",
+   "Lead with the chest toward the bar"
+  ],
+  "mistakes": [
+   "Kipping or swinging",
+   "Half reps with no full hang",
+   "Craning the chin over the bar"
+  ]
+ },
+ "Scissors_Jump": {
+  "cues": [
+   "Drop straight down, as if between two rails",
+   "Push the floor away through the front heel",
+   "Keep your torso tall"
+  ],
+  "mistakes": [
+   "Front knee collapsing inward",
+   "Taking a stride too short and loading the knee",
+   "Leaning the torso forward"
+  ]
+ },
+ "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension": {
+  "cues": [
+   "Hold the upper arm still against your side",
+   "Straighten the elbow, squeeze the triceps",
+   "Keep the back flat",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the upper arm",
+   "Dropping the elbow",
+   "Rounding the back"
+  ]
+ },
+ "Seated_Bent-Over_Rear_Delt_Raise": {
+  "cues": [
+   "Sweep the arms out wide, elbows leading",
+   "Hinge forward with a flat back",
+   "Squeeze the rear shoulders at the top"
+  ],
+  "mistakes": [
+   "Turning it into a row",
+   "Using momentum from the legs",
+   "Shrugging the shoulders up"
+  ]
+ },
+ "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension": {
+  "cues": [
+   "Hold the upper arm still against your side",
+   "Straighten the elbow, squeeze the triceps",
+   "Keep the back flat"
+  ],
+  "mistakes": [
+   "Swinging the upper arm",
+   "Dropping the elbow",
+   "Rounding the back"
+  ]
+ },
+ "Seated_Cable_Rows": {
+  "cues": [
+   "Drive the elbows back",
+   "Sit tall, chest proud",
+   "Squeeze the shoulder blades together",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Rocking the torso",
+   "Shrugging the shoulders",
+   "Letting the shoulders round forward"
+  ]
+ },
+ "Seated_Cable_Shoulder_Press": {
+  "cues": [
+   "Press the weights up and slightly together",
+   "Back firmly against the pad",
+   "Lower to ear level under control",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Arching off the bench",
+   "Bouncing the weights at the bottom",
+   "Shrugging toward the ears"
+  ]
+ },
+ "Seated_Calf_Raise": {
+  "cues": [
+   "Press up through the balls of the feet",
+   "Pause at the top, then stretch fully",
+   "Feel the lower calf work",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Bouncing at the bottom",
+   "Cutting the range short",
+   "Using the thighs to drive the weight"
+  ]
+ },
+ "Seated_Dumbbell_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Seated_Dumbbell_Inner_Biceps_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Seated_Dumbbell_Palms-Down_Wrist_Curl": {
+  "cues": [
+   "Let the weight roll to the fingertips, then curl up",
+   "Keep the forearms still on the thighs",
+   "Feel the forearms burn"
+  ],
+  "mistakes": [
+   "Lifting the forearms off the legs",
+   "Rushing the reps",
+   "Using too heavy a weight"
+  ]
+ },
+ "Seated_Dumbbell_Palms-Up_Wrist_Curl": {
+  "cues": [
+   "Let the weight roll to the fingertips, then curl up",
+   "Keep the forearms still on the thighs",
+   "Feel the forearms burn"
+  ],
+  "mistakes": [
+   "Lifting the forearms off the legs",
+   "Rushing the reps",
+   "Using too heavy a weight"
+  ]
+ },
+ "Seated_Dumbbell_Press": {
+  "cues": [
+   "Press the weights up and slightly together",
+   "Back firmly against the pad",
+   "Lower to ear level under control"
+  ],
+  "mistakes": [
+   "Arching off the bench",
+   "Bouncing the weights at the bottom",
+   "Shrugging toward the ears"
+  ]
+ },
+ "Seated_Flat_Bench_Leg_Pull-In": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Seated_Leg_Curl": {
+  "cues": [
+   "Curl the heels toward the glutes",
+   "Squeeze the hamstrings",
+   "Control the return",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Lifting the hips",
+   "Using momentum",
+   "Cutting the range short"
+  ]
+ },
+ "Seated_Leg_Tucks": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl": {
+  "cues": [
+   "Let the weight roll to the fingertips, then curl up",
+   "Keep the forearms still on the thighs",
+   "Feel the forearms burn",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Lifting the forearms off the legs",
+   "Rushing the reps",
+   "Using too heavy a weight"
+  ]
+ },
+ "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl": {
+  "cues": [
+   "Let the weight roll to the fingertips, then curl up",
+   "Keep the forearms still on the thighs",
+   "Feel the forearms burn",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Lifting the forearms off the legs",
+   "Rushing the reps",
+   "Using too heavy a weight"
+  ]
+ },
+ "Seated_One-arm_Cable_Pulley_Rows": {
+  "cues": [
+   "Drive the elbows back",
+   "Sit tall, chest proud",
+   "Squeeze the shoulder blades together",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Rocking the torso",
+   "Shrugging the shoulders",
+   "Letting the shoulders round forward"
+  ]
+ },
+ "Seated_Side_Lateral_Raise": {
+  "cues": [
+   "Lead with your elbows, pour the water out",
+   "Lift to shoulder height, no higher",
+   "Think side delts doing the work"
+  ],
+  "mistakes": [
+   "Swinging the torso for momentum",
+   "Shrugging the traps",
+   "Lifting the hands above the elbows"
+  ]
+ },
+ "Seated_Triceps_Press": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl": {
+  "cues": [
+   "Let the weight roll to the fingertips, then curl up",
+   "Keep the forearms still on the thighs",
+   "Feel the forearms burn",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Lifting the forearms off the legs",
+   "Rushing the reps",
+   "Using too heavy a weight"
+  ]
+ },
+ "See-Saw_Press_Alternating_Side_Press": {
+  "cues": [
+   "Push the weight straight up past your ears",
+   "Squeeze your glutes and ribs down",
+   "Finish with biceps by your ears",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Pressing the weight forward of the body",
+   "Flaring the ribs"
+  ]
+ },
+ "Shotgun_Row": {
+  "cues": [
+   "Drive the elbows back",
+   "Sit tall, chest proud",
+   "Squeeze the shoulder blades together",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Rocking the torso",
+   "Shrugging the shoulders",
+   "Letting the shoulders round forward"
+  ]
+ },
+ "Side_Bridge": {
+  "cues": [
+   "Push the floor away through the forearm",
+   "Stack the hips and lift them high",
+   "Squeeze the side of the waist"
+  ],
+  "mistakes": [
+   "Letting the hips sink",
+   "Rolling the chest forward",
+   "Shrugging into the shoulder"
+  ]
+ },
+ "Side_Lateral_Raise": {
+  "cues": [
+   "Lead with your elbows, pour the water out",
+   "Lift to shoulder height, no higher",
+   "Think side delts doing the work"
+  ],
+  "mistakes": [
+   "Swinging the torso for momentum",
+   "Shrugging the traps",
+   "Lifting the hands above the elbows"
+  ]
+ },
+ "Side_Laterals_to_Front_Raise": {
+  "cues": [
+   "Lead with your elbows, pour the water out",
+   "Lift to shoulder height, no higher",
+   "Think side delts doing the work"
+  ],
+  "mistakes": [
+   "Swinging the torso for momentum",
+   "Shrugging the traps",
+   "Lifting the hands above the elbows"
+  ]
+ },
+ "Side_Standing_Long_Jump": {
+  "cues": [
+   "Push off sideways and land soft on one leg",
+   "Sweep the back leg behind",
+   "Stay low through the hips"
+  ],
+  "mistakes": [
+   "Landing stiff",
+   "Letting the knee cave in",
+   "Standing too upright"
+  ]
+ },
+ "Single-Arm_Cable_Crossover": {
+  "cues": [
+   "Sweep the hands down and together",
+   "Slight forward lean, soft elbows",
+   "Squeeze the chest at the bottom",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Bending the elbows into a press",
+   "Swinging the torso",
+   "Letting the cables yank the shoulders back"
+  ]
+ },
+ "Single-Arm_Push-Up": {
+  "cues": [
+   "Push the floor away",
+   "Keep a straight line from head to heels",
+   "Elbows at roughly 45 degrees",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Sagging hips",
+   "Flaring the elbows to 90 degrees",
+   "Cutting the range short"
+  ]
+ },
+ "Single_Dumbbell_Raise": {
+  "cues": [
+   "Raise to eye level, no swinging",
+   "Keep a soft bend in the elbows",
+   "Feel the front of the shoulder lift"
+  ],
+  "mistakes": [
+   "Using body momentum",
+   "Lifting above shoulder height",
+   "Leaning back as you raise"
+  ]
+ },
+ "Single_Leg_Butt_Kick": {
+  "cues": [
+   "Flick the heels toward the glutes",
+   "Stay tall, quick light steps",
+   "Swing arms in rhythm",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Leaning forward",
+   "Heavy stomping",
+   "Barely lifting the heels"
+  ]
+ },
+ "Single_Leg_Glute_Bridge": {
+  "cues": [
+   "Push the floor away through your heels",
+   "Squeeze the glutes hard at the top",
+   "Ribs down, no arching the back",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Overarching the lower back",
+   "Pushing through the toes",
+   "Letting the knees fall inward"
+  ]
+ },
+ "Sit-Up": {
+  "cues": [
+   "Curl up one vertebra at a time",
+   "Exhale as you rise, abs leading",
+   "Lower with control"
+  ],
+  "mistakes": [
+   "Yanking the head forward",
+   "Using momentum and a fast drop",
+   "Letting the feet fly up"
+  ]
+ },
+ "Smith_Machine_Behind_the_Back_Shrug": {
+  "cues": [
+   "Lift the shoulders straight up to the ears",
+   "Hold the top for a beat",
+   "Squeeze the traps",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Rolling the shoulders",
+   "Bending the elbows to lift",
+   "Using too much momentum"
+  ]
+ },
+ "Smith_Machine_Bench_Press": {
+  "cues": [
+   "Push the handles away from your chest",
+   "Shoulder blades back against the pad",
+   "Do not lock out hard",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Shrugging the shoulders",
+   "Lifting the back off the pad",
+   "Letting the weight stack slam"
+  ]
+ },
+ "Smith_Machine_Bent_Over_Row": {
+  "cues": [
+   "Drive the elbows toward your hips",
+   "Hinge forward, back flat",
+   "Squeeze the shoulder blades together",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Standing too upright",
+   "Yanking the weight with momentum",
+   "Rounding the back"
+  ]
+ },
+ "Smith_Machine_Calf_Raise": {
+  "cues": [
+   "Press the floor away with the ball of the foot",
+   "Rise as tall as you can and pause",
+   "Lower into a full stretch",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Bouncing through the reps",
+   "Short range of motion",
+   "Letting the ankles roll outward"
+  ]
+ },
+ "Smith_Machine_Close-Grip_Bench_Press": {
+  "cues": [
+   "Push the handles away from your chest",
+   "Shoulder blades back against the pad",
+   "Do not lock out hard",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Shrugging the shoulders",
+   "Lifting the back off the pad",
+   "Letting the weight stack slam"
+  ]
+ },
+ "Smith_Machine_Decline_Press": {
+  "cues": [
+   "Push the handles away from your chest",
+   "Shoulder blades back against the pad",
+   "Do not lock out hard",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Shrugging the shoulders",
+   "Lifting the back off the pad",
+   "Letting the weight stack slam"
+  ]
+ },
+ "Smith_Machine_Hip_Raise": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Smith_Machine_Incline_Bench_Press": {
+  "cues": [
+   "Press up and slightly in",
+   "Shoulder blades set on the bench",
+   "Lower to upper chest",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Setting the bench too steep",
+   "Flaring the elbows wide",
+   "Arching the lower back off the pad"
+  ]
+ },
+ "Smith_Machine_Leg_Press": {
+  "cues": [
+   "Push the platform away",
+   "Press through the whole foot",
+   "Lower until the knees reach about 90 degrees",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Locking out the knees hard",
+   "Letting the lower back round off the seat",
+   "Letting the knees cave in"
+  ]
+ },
+ "Smith_Machine_One-Arm_Upright_Row": {
+  "cues": [
+   "Lead with the elbows, keep the weight close",
+   "Stop at about chest height",
+   "Shoulders down, away from the ears",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Pulling the elbows higher than the shoulders",
+   "Hunching the traps",
+   "Swinging the torso"
+  ]
+ },
+ "Smith_Machine_Overhead_Shoulder_Press": {
+  "cues": [
+   "Push the handles straight overhead",
+   "Back pressed to the pad",
+   "Lower to ear level",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Arching the back",
+   "Shrugging up",
+   "Pressing the seat too low"
+  ]
+ },
+ "Smith_Machine_Pistol_Squat": {
+  "cues": [
+   "Push the floor away through mid-foot",
+   "Sit down between your hips, chest tall",
+   "Knees track over your toes",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Heels lifting off the floor",
+   "Knees caving inward",
+   "Rounding the lower back at the bottom"
+  ]
+ },
+ "Smith_Machine_Reverse_Calf_Raises": {
+  "cues": [
+   "Press the floor away with the ball of the foot",
+   "Rise as tall as you can and pause",
+   "Lower into a full stretch",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Bouncing through the reps",
+   "Short range of motion",
+   "Letting the ankles roll outward"
+  ]
+ },
+ "Smith_Machine_Squat": {
+  "cues": [
+   "Push the floor away through mid-foot",
+   "Sit down between your hips, chest tall",
+   "Knees track over your toes",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Heels lifting off the floor",
+   "Knees caving inward",
+   "Rounding the lower back at the bottom"
+  ]
+ },
+ "Smith_Machine_Stiff-Legged_Deadlift": {
+  "cues": [
+   "Push your hips back like closing a car door",
+   "Keep the weight close to your legs",
+   "Feel the stretch in the back of your thighs",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Rounding the lower back",
+   "Squatting the movement instead of hinging",
+   "Letting the weight drift away from the legs"
+  ]
+ },
+ "Smith_Machine_Upright_Row": {
+  "cues": [
+   "Lead with the elbows, keep the weight close",
+   "Stop at about chest height",
+   "Shoulders down, away from the ears",
+   "Set the safety stops before you start"
+  ],
+  "mistakes": [
+   "Pulling the elbows higher than the shoulders",
+   "Hunching the traps",
+   "Swinging the torso"
+  ]
+ },
+ "Smith_Single-Leg_Split_Squat": {
+  "cues": [
+   "Drop the back knee straight toward the floor",
+   "Drive through the whole front foot",
+   "Stay tall through the chest",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Front foot too close to the bench",
+   "Pushing off the back foot",
+   "Front knee diving inward"
+  ]
+ },
+ "Spell_Caster": {
+  "cues": [
+   "Rotate through the torso, arms stay long",
+   "Pivot the back foot as you turn",
+   "Brace your abs the whole time"
+  ],
+  "mistakes": [
+   "Bending the arms to pull",
+   "Rotating through the lower back only",
+   "Using too much weight"
+  ]
+ },
+ "Spider_Crawl": {
+  "cues": [
+   "Push the floor away",
+   "Drive the knees to the chest",
+   "Hips level with the shoulders"
+  ],
+  "mistakes": [
+   "Hips bobbing up",
+   "Letting the shoulders drift back",
+   "Rushing with sloppy form"
+  ]
+ },
+ "Split_Jump": {
+  "cues": [
+   "Drop straight down, as if between two rails",
+   "Push the floor away through the front heel",
+   "Keep your torso tall"
+  ],
+  "mistakes": [
+   "Front knee collapsing inward",
+   "Taking a stride too short and loading the knee",
+   "Leaning the torso forward"
+  ]
+ },
+ "Split_Squat_with_Dumbbells": {
+  "cues": [
+   "Drop straight down, as if between two rails",
+   "Push the floor away through the front heel",
+   "Keep your torso tall",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Front knee collapsing inward",
+   "Taking a stride too short and loading the knee",
+   "Leaning the torso forward"
+  ]
+ },
+ "Standing_Alternating_Dumbbell_Press": {
+  "cues": [
+   "Push the weight straight up past your ears",
+   "Squeeze your glutes and ribs down",
+   "Finish with biceps by your ears",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Pressing the weight forward of the body",
+   "Flaring the ribs"
+  ]
+ },
+ "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension": {
+  "cues": [
+   "Hold the upper arm still against your side",
+   "Straighten the elbow, squeeze the triceps",
+   "Keep the back flat",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the upper arm",
+   "Dropping the elbow",
+   "Rounding the back"
+  ]
+ },
+ "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension": {
+  "cues": [
+   "Hold the upper arm still against your side",
+   "Straighten the elbow, squeeze the triceps",
+   "Keep the back flat"
+  ],
+  "mistakes": [
+   "Swinging the upper arm",
+   "Dropping the elbow",
+   "Rounding the back"
+  ]
+ },
+ "Standing_Biceps_Cable_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Standing_Cable_Chest_Press": {
+  "cues": [
+   "Push the handles away from your chest",
+   "Shoulder blades back against the pad",
+   "Do not lock out hard",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Shrugging the shoulders",
+   "Lifting the back off the pad",
+   "Letting the weight stack slam"
+  ]
+ },
+ "Standing_Cable_Lift": {
+  "cues": [
+   "Rotate through the torso, arms stay long",
+   "Pivot the back foot as you turn",
+   "Brace your abs the whole time",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Bending the arms to pull",
+   "Rotating through the lower back only",
+   "Using too much weight"
+  ]
+ },
+ "Standing_Cable_Wood_Chop": {
+  "cues": [
+   "Rotate through the torso, arms stay long",
+   "Pivot the back foot as you turn",
+   "Brace your abs the whole time",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Bending the arms to pull",
+   "Rotating through the lower back only",
+   "Using too much weight"
+  ]
+ },
+ "Standing_Calf_Raises": {
+  "cues": [
+   "Press the floor away with the ball of the foot",
+   "Rise as tall as you can and pause",
+   "Lower into a full stretch",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Bouncing through the reps",
+   "Short range of motion",
+   "Letting the ankles roll outward"
+  ]
+ },
+ "Standing_Concentration_Curl": {
+  "cues": [
+   "Brace the upper arm against the inner thigh",
+   "Curl slowly, squeeze the biceps at the top",
+   "Keep the shoulder still",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the torso",
+   "Lifting the elbow off the leg",
+   "Rushing the lowering"
+  ]
+ },
+ "Standing_Dumbbell_Calf_Raise": {
+  "cues": [
+   "Press the floor away with the ball of the foot",
+   "Rise as tall as you can and pause",
+   "Lower into a full stretch"
+  ],
+  "mistakes": [
+   "Bouncing through the reps",
+   "Short range of motion",
+   "Letting the ankles roll outward"
+  ]
+ },
+ "Standing_Dumbbell_Press": {
+  "cues": [
+   "Push the weight straight up past your ears",
+   "Squeeze your glutes and ribs down",
+   "Finish with biceps by your ears"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Pressing the weight forward of the body",
+   "Flaring the ribs"
+  ]
+ },
+ "Standing_Dumbbell_Reverse_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head": {
+  "cues": [
+   "Raise to eye level, no swinging",
+   "Keep a soft bend in the elbows",
+   "Feel the front of the shoulder lift"
+  ],
+  "mistakes": [
+   "Using body momentum",
+   "Lifting above shoulder height",
+   "Leaning back as you raise"
+  ]
+ },
+ "Standing_Dumbbell_Triceps_Extension": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Standing_Dumbbell_Upright_Row": {
+  "cues": [
+   "Lead with the elbows, keep the weight close",
+   "Stop at about chest height",
+   "Shoulders down, away from the ears"
+  ],
+  "mistakes": [
+   "Pulling the elbows higher than the shoulders",
+   "Hunching the traps",
+   "Swinging the torso"
+  ]
+ },
+ "Standing_Inner-Biceps_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Standing_Leg_Curl": {
+  "cues": [
+   "Curl the heels toward the glutes",
+   "Squeeze the hamstrings",
+   "Control the return",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Lifting the hips",
+   "Using momentum",
+   "Cutting the range short"
+  ]
+ },
+ "Standing_Long_Jump": {
+  "cues": [
+   "Push the floor away explosively",
+   "Land softly, knees bent",
+   "Reset between reps"
+  ],
+  "mistakes": [
+   "Landing stiff-legged",
+   "Letting the knees cave in",
+   "Landing on the toes only"
+  ]
+ },
+ "Standing_Low-Pulley_Deltoid_Raise": {
+  "cues": [
+   "Raise to eye level, no swinging",
+   "Keep a soft bend in the elbows",
+   "Feel the front of the shoulder lift",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Using body momentum",
+   "Lifting above shoulder height",
+   "Leaning back as you raise"
+  ]
+ },
+ "Standing_Low-Pulley_One-Arm_Triceps_Extension": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Standing_One-Arm_Cable_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Standing_One-Arm_Dumbbell_Triceps_Extension": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Standing_Palm-In_One-Arm_Dumbbell_Press": {
+  "cues": [
+   "Push the weight straight up past your ears",
+   "Squeeze your glutes and ribs down",
+   "Finish with biceps by your ears",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Pressing the weight forward of the body",
+   "Flaring the ribs"
+  ]
+ },
+ "Standing_Palms-In_Dumbbell_Press": {
+  "cues": [
+   "Push the weight straight up past your ears",
+   "Squeeze your glutes and ribs down",
+   "Finish with biceps by your ears"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Pressing the weight forward of the body",
+   "Flaring the ribs"
+  ]
+ },
+ "Standing_Rope_Crunch": {
+  "cues": [
+   "Curl your ribs toward your pelvis",
+   "Squeeze the abs hard at the bottom",
+   "Control the return",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Pulling with the arms",
+   "Using the hips instead of the abs",
+   "Letting the weight slam"
+  ]
+ },
+ "Standing_Towel_Triceps_Extension": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Star_Jump": {
+  "cues": [
+   "Land softly on the balls of your feet",
+   "Arms fully overhead",
+   "Keep a steady rhythm"
+  ],
+  "mistakes": [
+   "Landing flat and loud",
+   "Arms half raised",
+   "Holding your breath"
+  ]
+ },
+ "Step-up_with_Knee_Raise": {
+  "cues": [
+   "Push the box away with the top foot",
+   "Stand fully tall at the top",
+   "Lower with control, do not drop"
+  ],
+  "mistakes": [
+   "Pushing off the trailing foot",
+   "Leaning far forward",
+   "Letting the knee cave in"
+  ]
+ },
+ "Stiff-Legged_Dumbbell_Deadlift": {
+  "cues": [
+   "Push your hips back like closing a car door",
+   "Keep the weight close to your legs",
+   "Feel the stretch in the back of your thighs"
+  ],
+  "mistakes": [
+   "Rounding the lower back",
+   "Squatting the movement instead of hinging",
+   "Letting the weight drift away from the legs"
+  ]
+ },
+ "Straight-Arm_Dumbbell_Pullover": {
+  "cues": [
+   "Keep arms long with a soft elbow bend",
+   "Reach back until the lats stretch",
+   "Pull the weight over with your lats"
+  ],
+  "mistakes": [
+   "Bending the elbows into a press",
+   "Arching the back",
+   "Letting the ribs flare"
+  ]
+ },
+ "Straight-Arm_Pulldown": {
+  "cues": [
+   "Keep arms long with a soft elbow bend",
+   "Reach back until the lats stretch",
+   "Pull the weight over with your lats",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Bending the elbows into a press",
+   "Arching the back",
+   "Letting the ribs flare"
+  ]
+ },
+ "Tate_Press": {
+  "cues": [
+   "Keep the upper arms still and pointing up",
+   "Extend the elbows, squeeze the triceps",
+   "Lower toward the forehead slowly"
+  ],
+  "mistakes": [
+   "Flaring the elbows",
+   "Letting the upper arms drift",
+   "Going too heavy"
+  ]
+ },
+ "Thigh_Abductor": {
+  "cues": [
+   "Push the pads out with your outer hips",
+   "Sit tall, back against the pad",
+   "Pause when open",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Leaning forward to cheat",
+   "Swinging the weight",
+   "Using too heavy a stack"
+  ]
+ },
+ "Thigh_Adductor": {
+  "cues": [
+   "Squeeze the thighs together",
+   "Sit tall with a neutral spine",
+   "Control the opening",
+   "Set the seat so your joint lines up with the pivot"
+  ],
+  "mistakes": [
+   "Letting the weight pull the legs open fast",
+   "Leaning forward",
+   "Using too heavy a stack"
+  ]
+ },
+ "Tricep_Dumbbell_Kickback": {
+  "cues": [
+   "Hold the upper arm still against your side",
+   "Straighten the elbow, squeeze the triceps",
+   "Keep the back flat",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the upper arm",
+   "Dropping the elbow",
+   "Rounding the back"
+  ]
+ },
+ "Triceps_Overhead_Extension_with_Rope": {
+  "cues": [
+   "Keep the elbows pointing forward",
+   "Reach the weight to the ceiling",
+   "Feel the triceps stretch at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Flaring the elbows wide",
+   "Arching the lower back",
+   "Letting the upper arms move"
+  ]
+ },
+ "Triceps_Pushdown": {
+  "cues": [
+   "Lock the elbows to your sides",
+   "Push the handle down and squeeze the triceps",
+   "Control the way up",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Letting the elbows flare",
+   "Leaning over the handle",
+   "Using body weight"
+  ]
+ },
+ "Triceps_Pushdown_-_Rope_Attachment": {
+  "cues": [
+   "Lock the elbows to your sides",
+   "Push the handle down and squeeze the triceps",
+   "Control the way up",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Letting the elbows flare",
+   "Leaning over the handle",
+   "Using body weight"
+  ]
+ },
+ "Triceps_Pushdown_-_V-Bar_Attachment": {
+  "cues": [
+   "Lock the elbows to your sides",
+   "Push the handle down and squeeze the triceps",
+   "Control the way up",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Letting the elbows flare",
+   "Leaning over the handle",
+   "Using body weight"
+  ]
+ },
+ "Tuck_Crunch": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Two-Arm_Dumbbell_Preacher_Curl": {
+  "cues": [
+   "Keep the upper arms on the pad",
+   "Curl up and squeeze the biceps",
+   "Lower slowly to a full stretch"
+  ],
+  "mistakes": [
+   "Lifting the elbows off the pad",
+   "Swinging the body",
+   "Cutting the lowering short"
+  ]
+ },
+ "Underhand_Cable_Pulldowns": {
+  "cues": [
+   "Pull the elbows down to your sides",
+   "Chest up, slight lean back",
+   "Squeeze the lats at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Pulling the bar behind the neck",
+   "Leaning back too far",
+   "Using momentum"
+  ]
+ },
+ "Upright_Cable_Row": {
+  "cues": [
+   "Lead with the elbows, keep the weight close",
+   "Stop at about chest height",
+   "Shoulders down, away from the ears",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Pulling the elbows higher than the shoulders",
+   "Hunching the traps",
+   "Swinging the torso"
+  ]
+ },
+ "V-Bar_Pulldown": {
+  "cues": [
+   "Pull the elbows down to your sides",
+   "Chest up, slight lean back",
+   "Squeeze the lats at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Pulling the bar behind the neck",
+   "Leaning back too far",
+   "Using momentum"
+  ]
+ },
+ "V-Bar_Pullup": {
+  "cues": [
+   "Pull the elbows down to your pockets",
+   "Start by setting the shoulder blades",
+   "Lead with the chest toward the bar"
+  ],
+  "mistakes": [
+   "Kipping or swinging",
+   "Half reps with no full hang",
+   "Craning the chin over the bar"
+  ]
+ },
+ "Vertical_Swing": {
+  "cues": [
+   "Push your hips back like closing a car door",
+   "Keep the weight close to your legs",
+   "Feel the stretch in the back of your thighs"
+  ],
+  "mistakes": [
+   "Rounding the lower back",
+   "Squatting the movement instead of hinging",
+   "Letting the weight drift away from the legs"
+  ]
+ },
+ "Wide-Grip_Lat_Pulldown": {
+  "cues": [
+   "Pull the elbows down to your sides",
+   "Chest up, slight lean back",
+   "Squeeze the lats at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Pulling the bar behind the neck",
+   "Leaning back too far",
+   "Using momentum"
+  ]
+ },
+ "Wide-Grip_Pulldown_Behind_The_Neck": {
+  "cues": [
+   "Pull the elbows down to your sides",
+   "Chest up, slight lean back",
+   "Squeeze the lats at the bottom",
+   "Keep tension on the cable the whole set"
+  ],
+  "mistakes": [
+   "Pulling the bar behind the neck",
+   "Leaning back too far",
+   "Using momentum"
+  ]
+ },
+ "Wide-Grip_Rear_Pull-Up": {
+  "cues": [
+   "Pull the elbows down to your pockets",
+   "Start by setting the shoulder blades",
+   "Lead with the chest toward the bar"
+  ],
+  "mistakes": [
+   "Kipping or swinging",
+   "Half reps with no full hang",
+   "Craning the chin over the bar"
+  ]
+ },
+ "Wind_Sprints": {
+  "cues": [
+   "Pull the knees up by curling the pelvis",
+   "Hang tall with shoulders engaged",
+   "Lower without swinging",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Only lifting the thighs with hip flexors",
+   "Letting the shoulders shrug up"
+  ]
+ },
+ "Zottman_Curl": {
+  "cues": [
+   "Pin the elbows to your sides",
+   "Curl the weight up, squeeze the biceps",
+   "Lower for two to three seconds"
+  ],
+  "mistakes": [
+   "Swinging the body",
+   "Letting the elbows drift forward",
+   "Dropping the weight fast"
+  ]
+ },
+ "Zottman_Preacher_Curl": {
+  "cues": [
+   "Keep the upper arms on the pad",
+   "Curl up and squeeze the biceps",
+   "Lower slowly to a full stretch"
+  ],
+  "mistakes": [
+   "Lifting the elbows off the pad",
+   "Swinging the body",
+   "Cutting the lowering short"
+  ]
+ },
+ "Bent-Knee_Hip_Raise": {
+  "cues": [
+   "Press the lower back into the floor",
+   "Lift the legs using your abs",
+   "Lower slowly, no swinging"
+  ],
+  "mistakes": [
+   "Arching the lower back",
+   "Using momentum",
+   "Dropping the legs fast"
+  ]
+ },
+ "Single-Leg_Leg_Extension": {
+  "cues": [
+   "Straighten the knees and squeeze the quads",
+   "Pause briefly at the top",
+   "Lower slowly",
+   "Finish all reps on one side, then match the other"
+  ],
+  "mistakes": [
+   "Swinging the weight up",
+   "Lifting the hips off the seat",
+   "Dropping the weight fast"
+  ]
+ }
+}

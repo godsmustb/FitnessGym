@@ -1,0 +1,15 @@
+{
+  "id": "lunge", "name": "Lunge", "duration": 3.2,
+  "handFrame": "chest", "footFrame": "world",
+  "view": {"yaw": -75, "pitch": 8},
+  "props": [
+    {"type": "mat", "min": [-0.45, -0.005, -1.0], "max": [0.45, 0.008, 0.9]}
+  ],
+  "notes": "Static split lunge: left foot forward, right foot back with heel raised, front shin vertical at the bottom, rear knee near floor.",
+  "keys": [
+    {"t": 0.0, "e": 0.15, "pelvis": [0, 0.86, 0.0], "pitch": 2, "spine": [0, 0, 0], "neck": 0, "lh": [0.21, -0.58, 0.04], "lep": [0.05, -1, -0.3], "lf": [0.1, 0.08, 0.4], "rf": [-0.1, 0.2, -0.4], "lfy": 6, "rfy": 6, "lfa": 0, "rfa": -45, "lkp": [0.1, 0, 1], "rkp": [-0.1, -0.8, 0.3]},
+    {"t": 0.45, "e": 0.55, "pelvis": [0, 0.56, -0.0], "pitch": 4},
+    {"t": 0.55, "e": 1.0},
+    {"t": 0.9, "e": 0.5, "pelvis": [0, 0.86, 0.0], "pitch": 2}
+  ]
+}

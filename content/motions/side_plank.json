@@ -1,0 +1,15 @@
+{
+  "id": "side_plank", "name": "Side plank", "duration": 4.0,
+  "handFrame": "world", "footFrame": "world",
+  "view": {"yaw": -8, "pitch": 14},
+  "props": [
+    {"type": "mat", "min": [-1.1, -0.005, -0.4], "max": [1.1, 0.008, 0.45]}
+  ],
+  "notes": "Lying on the right side supported by the right forearm; feet stacked, hips lifted. Body points along x so the default camera is near-frontal.",
+  "keys": [
+    {"t": 0.0, "e": 0.7, "pelvis": [0, 0.36, 0], "roll": -75, "pitch": 0, "yaw": 0, "spine": [0, 0, 0], "neck": 0, "rh": [-0.55, 0.05, 0.26], "lh": [0.74, -0.04, 0.0], "rep": [-1, -0.3, 0], "lep": [1, 0, -0.3], "rf": [0.8, 0.1, 0.0], "lf": [0.8, 0.2, 0.0], "rfy": 0, "lfy": 0, "rkp": [0, 0, 1], "lkp": [0, 0, 1]},
+    {"t": 0.4, "e": 1.0, "pelvis": [0, 0.38, 0]},
+    {"t": 0.8, "e": 0.85, "pelvis": [0, 0.38, 0]},
+    {"t": 0.95, "e": 0.75, "pelvis": [0, 0.36, 0]}
+  ]
+}

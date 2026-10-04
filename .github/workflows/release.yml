@@ -1,0 +1,51 @@
+# Every push to main: run all tests, build a signed APK, publish it as a GitHub Release.
+# Obtainium on the Pixel watches these Releases and installs updates.
+name: build-and-release
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      FG_BUILD_NUMBER: ${{ github.run_number }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      - name: Decode signing key
+        env:
+          KEYSTORE_B64: ${{ secrets.FG_KEYSTORE_B64 }}
+        run: |
+          printf '%s' "$KEYSTORE_B64" | tr -d '\r\n \357\273\277' | base64 -d > "$RUNNER_TEMP/release.jks"
+          echo "FG_KEYSTORE_FILE=$RUNNER_TEMP/release.jks" >> "$GITHUB_ENV"
+
+      - name: Content + engine tests, signed release APK
+        env:
+          FG_KEYSTORE_PASSWORD: ${{ secrets.FG_KEYSTORE_PASSWORD }}
+          FG_KEY_ALIAS: fitnessgym
+          FG_KEY_PASSWORD: ${{ secrets.FG_KEYSTORE_PASSWORD }}
+        run: |
+          chmod +x gradlew
+          ./gradlew :anim:test :app:assembleRelease --console=plain
+          cp app/build/outputs/apk/release/app-release.apk "FitnessGym-0.1.${FG_BUILD_NUMBER}.apk"
+
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v0.1.${{ github.run_number }}
+          name: Fitness Gym 0.1.${{ github.run_number }}
+          body: ${{ github.event.head_commit.message }}
+          files: FitnessGym-0.1.${{ github.run_number }}.apk

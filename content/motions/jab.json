@@ -1,0 +1,15 @@
+{
+  "id": "jab", "name": "Jab", "duration": 1.6,
+  "handFrame": "chest", "footFrame": "world",
+  "view": { "yaw": -85, "pitch": 6 },
+  "notes": "Orthodox stance: left foot forward, body turned ~30 deg to the right (yaw -30). Guard hands at the chin. The lead (left) hand snaps straight out and back. el/er give per-side effort.",
+  "keys": [
+    { "t": 0.0, "el": 0.15, "er": 0.1, "pelvis": [0, 0.91, 0], "yaw": -30, "spine": [6, 0, 0], "neck": -4,
+      "lf": [0.08, 0.08, 0.26], "rf": [-0.14, 0.08, -0.2], "lfy": 10, "rfy": 40, "rfa": 0,
+      "lh": [0.13, 0.06, 0.24], "rh": [-0.1, 0.04, 0.17],
+      "lep": [0.3, -1, -0.2], "rep": [-0.3, -1, -0.2] },
+    { "t": 0.18, "el": 1.0, "er": 0.15, "spine": [6, 0, -10], "lh": [0.06, 0.03, 0.58], "lep": [0.8, -0.4, 0] },
+    { "t": 0.3, "el": 0.7, "er": 0.12 },
+    { "t": 0.55, "el": 0.15, "er": 0.1, "spine": [6, 0, 0], "lh": [0.13, 0.06, 0.24], "lep": [0.3, -1, -0.2] }
+  ]
+}

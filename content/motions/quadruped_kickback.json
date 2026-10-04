@@ -1,0 +1,15 @@
+{
+  "id": "quadruped_kickback", "name": "Quadruped kickback", "duration": 3.0,
+  "handFrame": "world", "footFrame": "world",
+  "view": {"yaw": -75, "pitch": 12},
+  "props": [
+    {"type": "mat", "min": [-0.4, -0.005, -1.0], "max": [0.4, 0.008, 1.3]}
+  ],
+  "notes": "Donkey kick: right knee drives back until the thigh is level with the torso, sole to the ceiling. Left knee and both hands stay down.",
+  "keys": [
+    {"t": 0.0, "e": 0.15, "pelvis": [0, 0.55, 0.0], "pitch": 90, "spine": [0, 0, 0], "neck": -20, "lh": [0.2, 0.05, 0.52], "rh": [-0.2, 0.05, 0.52], "lf": [0.1, 0.08, -0.47], "rf": [-0.1, 0.08, -0.47], "lfa": -70, "rfa": -70, "lfy": 0, "rfy": 0, "lep": [0.6, -1, 0], "rep": [-0.6, -1, 0], "lkp": [0.15, 0, 1], "rkp": [-0.15, 0, 1], "el": 0.1, "er": 0.15},
+    {"t": 0.4, "er": 1.0, "el": 0.1, "rf": [-0.09, 0.93, -0.5], "rfa": 0, "rkp": [-0.1, -1, 0.8]},
+    {"t": 0.55, "er": 0.95, "el": 0.1},
+    {"t": 0.92, "er": 0.25, "el": 0.1, "rf": [-0.1, 0.08, -0.47], "rfa": -70, "rkp": [-0.15, 0, 1]}
+  ]
+}

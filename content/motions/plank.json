@@ -1,0 +1,14 @@
+{
+  "id": "plank", "name": "Forearm plank", "duration": 4.0,
+  "handFrame": "world", "footFrame": "world",
+  "view": {"yaw": -75, "pitch": 12},
+  "props": [
+    {"type": "mat", "min": [-0.4, -0.005, -1.1], "max": [0.4, 0.008, 1.1]}
+  ],
+  "notes": "Isometric hold: elbows under shoulders, body in one line from head to heels; effort pulses.",
+  "keys": [
+    {"t": 0.0, "e": 0.7, "pelvis": [0, 0.34, -0.05], "pitch": 79, "spine": [0, 0, 0], "neck": -10, "lh": [0.12, 0.05, 0.77], "lep": [0.3, 0, 1], "lf": [0.1, 0.17, -0.93], "lfa": -75, "lfy": 0, "lkp": [0.05, 0, 1]},
+    {"t": 0.5, "e": 1.0, "pelvis": [0, 0.345, -0.05]},
+    {"t": 0.9, "e": 0.8}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "stand", "name": "Standing (body map)", "duration": 4.0,
+  "handFrame": "chest", "footFrame": "world",
+  "view": { "yaw": 0, "pitch": 4 },
+  "notes": "Used by the muscle map and as a fallback when an exercise's motion file is missing. Arms slightly away from the body so the arm muscles are visible.",
+  "keys": [
+    { "t": 0.0, "e": 1.0, "pelvis": [0, 0.965, 0], "lh": [0.33, -0.52, 0.0], "lep": [0.3, -0.3, -1], "lf": [0.13, 0.08, 0.0], "lfy": 10 },
+    { "t": 0.5, "e": 1.0, "pelvis": [0, 0.968, 0], "lh": [0.335, -0.515, 0.0] }
+  ]
+}

@@ -1,0 +1,11 @@
+{"id": "hundred", "name": "The Hundred", "duration": 1.0, "handFrame": "chest", "footFrame": "pelvis", "view": {"yaw": -85, "pitch": 6}, "notes": "Supine, head and shoulders curled up (spine flex 30, chin to chest), legs straight at ~45 deg, arms straight by the sides pumping alternately up and down in small beats.",
+  "props": [
+    {"type": "mat", "min": [-0.35, -0.005, -1.15], "max": [0.35, 0.012, 1.2]}
+  ],
+  "keys": [
+    {"t": 0, "e": 0.8, "spine": [30, 0, 0], "neck": 22, "lf": [0.09, -0.68, 0.62], "rf": [-0.09, -0.68, 0.62], "lh": [0.22, -0.5, 0.06], "rh": [-0.22, -0.5, -0.02], "lfa": -30, "rfa": -30, "pelvis": [0, 0.12, 0], "pitch": -90},
+    {"t": 0.25, "e": 0.8, "spine": [30, 0, 0], "neck": 22, "lf": [0.09, -0.68, 0.62], "rf": [-0.09, -0.68, 0.62], "lh": [0.22, -0.5, -0.02], "rh": [-0.22, -0.5, 0.06], "lfa": -30, "rfa": -30, "pelvis": [0, 0.12, 0], "pitch": -90},
+    {"t": 0.5, "e": 0.8, "spine": [30, 0, 0], "neck": 22, "lf": [0.09, -0.68, 0.62], "rf": [-0.09, -0.68, 0.62], "lh": [0.22, -0.5, 0.06], "rh": [-0.22, -0.5, -0.02], "lfa": -30, "rfa": -30, "pelvis": [0, 0.12, 0], "pitch": -90},
+    {"t": 0.75, "e": 0.8, "spine": [30, 0, 0], "neck": 22, "lf": [0.09, -0.68, 0.62], "rf": [-0.09, -0.68, 0.62], "lh": [0.22, -0.5, -0.02], "rh": [-0.22, -0.5, 0.06], "lfa": -30, "rfa": -30, "pelvis": [0, 0.12, 0], "pitch": -90}
+  ]
+}

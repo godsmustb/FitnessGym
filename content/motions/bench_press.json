@@ -1,0 +1,18 @@
+{
+  "id": "bench_press", "name": "Bench press", "duration": 3.0,
+  "handFrame": "chest", "footFrame": "world",
+  "view": {"yaw": -75, "pitch": 10},
+  "props": [
+    {"type": "box", "min": [-0.17, 0.37, -0.85], "max": [0.17, 0.45, 0.35], "color": "pad"},
+    {"type": "box", "min": [-0.12000000000000001, 0, -0.7999999999999999], "max": [0.12000000000000001, 0.37, -0.73], "color": "frame"},
+    {"type": "box", "min": [-0.12000000000000001, 0, 0.22999999999999998], "max": [0.12000000000000001, 0.37, 0.3], "color": "frame"}
+  ],
+  "notes": "Supine on a flat bench, feet planted wide; dumbbells lower to chest level (elbows ~75 deg out) and press up.",
+  "keys": [
+    {"t": 0.0, "e": 0.2, "pelvis": [0, 0.57, 0.0], "pitch": -90, "spine": [0, 0, 0], "neck": 0, "lh": [0.17, -0.1, 0.54], "lep": [1, 0, -0.6], "lf": [0.28, 0.08, 0.4], "lkp": [0.4, 0, 1], "lfy": 15, "lfa": 0},
+    {"t": 0.45, "e": 0.55, "lh": [0.3, -0.12, 0.14]},
+    {"t": 0.55, "e": 0.6},
+    {"t": 0.8, "e": 1.0, "lh": [0.17, -0.1, 0.54]},
+    {"t": 0.92, "e": 0.8}
+  ]
+}
