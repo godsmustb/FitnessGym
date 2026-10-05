@@ -18,6 +18,7 @@ import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.drawscope.Fill
 import androidx.compose.ui.graphics.drawscope.Stroke
 import androidx.compose.ui.input.pointer.pointerInput
+import com.nunna.fitnessgym.AppGraph
 import com.nunna.fitnessgym.anim.Camera
 import com.nunna.fitnessgym.anim.FigureScene
 import com.nunna.fitnessgym.anim.Prim
@@ -41,7 +42,7 @@ fun FigureView(
     val duration = scene.motion.template.duration.coerceAtLeast(0.3)
 
     LaunchedEffect(scene, playing, speed) {
-        if (!playing) return@LaunchedEffect
+        if (!playing || !AppGraph.animations) return@LaunchedEffect
         var prev = 0L
         while (true) {
             withFrameNanos { now ->

@@ -1,6 +1,17 @@
 package com.nunna.fitnessgym.ui.screens
 
 import androidx.compose.foundation.background
+import kotlinx.coroutines.launch
+import com.nunna.fitnessgym.ui.Fmt
+import com.nunna.fitnessgym.data.AppClock
+import com.nunna.fitnessgym.core.Records
+import androidx.compose.ui.platform.testTag
+import androidx.compose.ui.graphics.StrokeCap
+import androidx.compose.ui.geometry.Offset
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.collectAsState
+import androidx.compose.material3.OutlinedButton
+import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -46,13 +57,14 @@ import com.nunna.fitnessgym.anim.Camera
 import com.nunna.fitnessgym.anim.FigureScene
 import com.nunna.fitnessgym.anim.Library
 import com.nunna.fitnessgym.data.ContentRepo
+import com.nunna.fitnessgym.data.GymRepo
 import com.nunna.fitnessgym.ui.FigureView
 import com.nunna.fitnessgym.ui.theme.Tokens
 import kotlinx.coroutines.delay
 
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
-fun ExerciseScreen(repo: ContentRepo, id: String, back: () -> Unit) {
+fun ExerciseScreen(repo: ContentRepo, gym: GymRepo, id: String, back: () -> Unit, onAdded: () -> Unit = {}) {
     val e = repo.exercise(id)
     if (e == null) {
         Text("CNT-004: exercise '$id' not found. Fix: go back and pick it again.", Modifier.padding(16.dp))
@@ -118,6 +130,8 @@ fun ExerciseScreen(repo: ContentRepo, id: String, back: () -> Unit) {
                 if (e.unilateral) AssistChip(onClick = {}, label = { Text("one side at a time") })
             }
 
+            ExerciseActions(gym, e.id, onAdded)
+            ExerciseHistory(gym, e.id)
             Section("Coaching cues", e.cues, bullet = "✓")
             Section("Common mistakes", e.mistakes, bullet = "✗")
             Section("How to", e.instructions, numbered = true)
@@ -149,5 +163,63 @@ private fun Section(title: String, lines: List<String>, bullet: String = "•", 
     for ((i, l) in lines.withIndex()) Row(Modifier.padding(vertical = 2.dp)) {
         Text(if (numbered) "${i + 1}." else bullet, color = Tokens.TextDim, modifier = Modifier.width(24.dp))
         Text(l, fontSize = 15.sp)
+    }
+}
+
+@Composable
+private fun ExerciseActions(gym: GymRepo, id: String, onAdded: () -> Unit) {
+    val active by gym.activeFlow.collectAsState(null)
+    val settings by gym.settingsFlow.collectAsState(null)
+    val scope = rememberCoroutineScope()
+    val hidden = settings?.excluded?.contains(id) == true
+    Row(Modifier.padding(top = 10.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+        val a = active
+        if (a != null) OutlinedButton(onClick = { scope.launch { gym.addExercise(a.session.id, id); onAdded() } }, modifier = Modifier.testTag("add_to_workout")) {
+            Text("Add to current workout")
+        }
+        if (settings != null) OutlinedButton(onClick = { scope.launch { gym.exclude(id, !hidden) } }, modifier = Modifier.testTag("toggle_hide")) {
+            Text(if (hidden) "Allow in my plan" else "Never suggest this")
+        }
+    }
+}
+
+/** The owner's own numbers for this exercise: best set, an estimated-1RM chart, and recent sessions. */
+@Composable
+private fun ExerciseHistory(gym: GymRepo, id: String) {
+    val rows by gym.historyFlow(id).collectAsState(emptyList())
+    if (rows.isEmpty()) return
+    Text("Your history", fontSize = 17.sp, fontWeight = FontWeight.Bold, modifier = Modifier.padding(top = 16.dp, bottom = 4.dp))
+    val weighted = rows.filter { it.weight != null && it.reps != null && it.reps > 0 }
+    if (weighted.isNotEmpty()) {
+        val best = weighted.maxBy { Records.e1rm(it.weight!!, it.reps!!) }
+        Text("Best set: ${Fmt.w(best.weight)} ${best.unit.lowercase()} × ${best.reps} (est. 1RM ${Fmt.w(Records.e1rm(best.weight!!, best.reps!!))})", modifier = Modifier.testTag("best_set"))
+        val points = rows.groupBy { it.sessionId }.values.sortedBy { it.first().startedAt }
+            .map { g -> g.filter { it.weight != null && (it.reps ?: 0) > 0 }.maxOfOrNull { Records.e1rm(it.weight!!, it.reps!!) } ?: 0.0 }
+        if (points.size >= 2) LineChart(points, Modifier.fillMaxWidth().height(120.dp).padding(vertical = 8.dp).testTag("e1rm_chart"))
+    } else {
+        val bestReps = rows.mapNotNull { it.reps }.maxOrNull()
+        val bestSec = rows.mapNotNull { it.seconds }.maxOrNull()
+        Text(bestReps?.let { "Most reps: $it" } ?: bestSec?.let { "Longest: ${Fmt.secs(it)}" } ?: "", modifier = Modifier.testTag("best_set"))
+    }
+    for (g in rows.groupBy { it.sessionId }.values.sortedByDescending { it.first().startedAt }.take(5)) {
+        Text(
+            AppClock.dateOf(g.first().startedAt).toString() + ": " + g.joinToString("  ·  ") { r ->
+                listOfNotNull(r.weight?.let { Fmt.w(it) + " " + r.unit.lowercase() }, r.reps?.toString(), r.seconds?.let { Fmt.secs(it) }).joinToString(" × ")
+            },
+            color = Tokens.TextDim, fontSize = 13.sp, modifier = Modifier.testTag("history_line"),
+        )
+    }
+}
+
+@Composable
+private fun LineChart(values: List<Double>, modifier: Modifier) {
+    val lo = values.min(); val hi = values.max()
+    Canvas(modifier) {
+        val span = (hi - lo).takeIf { it > 1e-6 } ?: 1.0
+        val pts = values.mapIndexed { i, v ->
+            Offset(size.width * i / (values.size - 1).coerceAtLeast(1), (size.height * (1 - (v - lo) / span)).toFloat().coerceIn(4f, size.height - 4f))
+        }
+        for (i in 1 until pts.size) drawLine(Tokens.Prime, pts[i - 1], pts[i], strokeWidth = 5f, cap = StrokeCap.Round)
+        for (p in pts) drawCircle(Tokens.Synergist, 7f, p)
     }
 }

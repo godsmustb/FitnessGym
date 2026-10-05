@@ -16,4 +16,5 @@ dependencyResolutionManagement {
 rootProject.name = "FitnessGym"
 include(":app")
 include(":anim")
+include(":core")
 include(":preview")

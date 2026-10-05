@@ -22,6 +22,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -53,7 +54,7 @@ fun MusclesScreen(repo: ContentRepo, open: (String) -> Unit) {
             FigureView(scene, Camera(180.0, 4.0), Modifier.weight(1f).fillMaxSize(), playing = false, onTapMuscle = { group = it })
         }
         Row(Modifier.horizontalScroll(rememberScrollState()).padding(horizontal = 12.dp), horizontalArrangement = Arrangement.spacedBy(6.dp)) {
-            for (g in Anatomy.GROUPS) FilterChip(selected = g == group, onClick = { group = g }, label = { Text(Anatomy.LABELS[g] ?: g) })
+            for (g in Anatomy.GROUPS) FilterChip(selected = g == group, onClick = { group = g }, label = { Text(Anatomy.LABELS[g] ?: g) }, modifier = Modifier.testTag("muscle_$g"))
         }
         Row(Modifier.horizontalScroll(rememberScrollState()).padding(horizontal = 12.dp), horizontalArrangement = Arrangement.spacedBy(6.dp)) {
             FilterChip(selected = tag == null, onClick = { tag = null }, label = { Text("All") })

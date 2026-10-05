@@ -32,6 +32,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
@@ -62,16 +63,16 @@ fun LibraryScreen(repo: ContentRepo, open: (String) -> Unit) {
             value = query, onValueChange = { query = it }, singleLine = true,
             leadingIcon = { Icon(Icons.Filled.Search, null) },
             placeholder = { Text("Search name or muscle") },
-            modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp),
+            modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp).testTag("library_search"),
         )
         Row(Modifier.horizontalScroll(rememberScrollState()).padding(horizontal = 12.dp, vertical = 8.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
             FilterChip(selected = tag == null, onClick = { tag = null }, label = { Text("All ${repo.exercises.size}") })
             for (t in Library.TAGS) {
                 val n = repo.exercises.count { t in it.tags }
-                FilterChip(selected = tag == t, onClick = { tag = if (tag == t) null else t }, label = { Text("${Library.TAG_LABELS[t]} $n") })
+                FilterChip(selected = tag == t, onClick = { tag = if (tag == t) null else t }, label = { Text("${Library.TAG_LABELS[t]} $n") }, modifier = Modifier.testTag("libtag_$t"))
             }
         }
-        LazyColumn(Modifier.fillMaxSize()) {
+        LazyColumn(Modifier.fillMaxSize().testTag("library_list")) {
             items(shown, key = { it.id }) { e -> ExerciseRow(repo, e) { open(e.id) } }
             item { Spacer(Modifier.height(24.dp)) }
         }
@@ -82,7 +83,7 @@ fun LibraryScreen(repo: ContentRepo, open: (String) -> Unit) {
 private fun ExerciseRow(repo: ContentRepo, e: Exercise, onClick: () -> Unit) {
     val scene = remember(e.id) { FigureScene(repo.motionFor(e), e.activation()) }
     Row(
-        Modifier.fillMaxWidth().clickable(onClick = onClick).padding(horizontal = 12.dp, vertical = 6.dp),
+        Modifier.fillMaxWidth().clickable(onClick = onClick).padding(horizontal = 12.dp, vertical = 6.dp).testTag("lib_${e.id}"),
         verticalAlignment = Alignment.CenterVertically,
     ) {
         FigureView(

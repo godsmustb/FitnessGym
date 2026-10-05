@@ -32,20 +32,29 @@ jobs:
           printf '%s' "$KEYSTORE_B64" | tr -d '\r\n \357\273\277' | base64 -d > "$RUNNER_TEMP/release.jks"
           echo "FG_KEYSTORE_FILE=$RUNNER_TEMP/release.jks" >> "$GITHUB_ENV"
 
-      - name: Content + engine tests, signed release APK
+      - name: Engine, training-logic and end-to-end tests, then the signed release APK
         env:
           FG_KEYSTORE_PASSWORD: ${{ secrets.FG_KEYSTORE_PASSWORD }}
           FG_KEY_ALIAS: fitnessgym
           FG_KEY_PASSWORD: ${{ secrets.FG_KEYSTORE_PASSWORD }}
         run: |
           chmod +x gradlew
-          ./gradlew :anim:test :app:assembleRelease --console=plain
-          cp app/build/outputs/apk/release/app-release.apk "FitnessGym-0.1.${FG_BUILD_NUMBER}.apk"
+          ./gradlew :anim:test :core:test :app:testDebugUnitTest :app:assembleRelease --console=plain
+          cp app/build/outputs/apk/release/app-release.apk "FitnessGym-0.2.${FG_BUILD_NUMBER}.apk"
+
+      - name: Keep test reports and app screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-reports-and-screens
+          path: |
+            app/build/reports/tests
+            app/build/screens
 
       - name: Publish release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: v0.1.${{ github.run_number }}
-          name: Fitness Gym 0.1.${{ github.run_number }}
+          tag_name: v0.2.${{ github.run_number }}
+          name: Fitness Gym 0.2.${{ github.run_number }}
           body: ${{ github.event.head_commit.message }}
-          files: FitnessGym-0.1.${{ github.run_number }}.apk
+          files: FitnessGym-0.2.${{ github.run_number }}.apk

@@ -109,11 +109,11 @@ The rules follow GuitarNoodle: Sonnet subagents, at most 3 per phase, a fresh se
 |---|---|---|
 | **P0** ✅ | Docs, `CLAUDE.md` rulebook, git, Gradle skeleton (copied from GuitarNoodle), OTA pipeline, a hello APK on the Pixel | The app icon appears through Obtainium |
 | **P1** ✅ | **Visual engine and library** (expanded on Oct 4): an anatomical figure with visible muscles, IK rig, 108 motion templates, live muscle glow, a body map, and a **425-exercise library** (Bodyweight, Dumbbells, Machines, Pilates, Kickboxing, Cardio) | You judge the animations on the phone: go or no-go on the approach |
-| **P2** | App shell (5 tabs: Today, Workouts, Exercises, Progress, Me), Room DB, content JSON and validator, health screen, error codes | You browse the library by muscle and equipment |
-| **P3** | Onboarding plus PAR-Q+, equipment profiles with increments, exclusions | Your real home gym and commercial gym, set up |
-| **P4** | **Logger:** GO, workout player, 3-tap sets, next-set cursor, lock-screen rest timer, mid-workout swap, crash recovery | You do a real workout and log it |
-| **P5** | **Engines:** generator, double progression plus RIR, variety budget, substitutions, "next time" explanation | The app writes next week's workouts on its own |
-| **P6** | Progress: calendar day log, charts, PRs, muscle heat-map, export; gamification | Your history is visible day by day |
+| **P2** ✅ | App shell (5 tabs: Today, Workouts, Exercises, Progress, Me), Room DB, content JSON and validator, health screen, error codes | You browse the library by muscle and equipment |
+| **P3** ✅ | Onboarding plus PAR-Q+, equipment profiles with increments, exclusions | Your real home gym and commercial gym, set up |
+| **P4** ✅ | **Logger:** GO, workout player, 3-tap sets, next-set cursor, lock-screen rest timer, mid-workout swap, crash recovery | You do a real workout and log it |
+| **P5** ✅ | **Engines:** generator, double progression plus RIR, variety budget, substitutions, "next time" explanation | The app writes next week's workouts on its own |
+| **P6** ◐ | Progress: calendar day log, charts, PRs, muscle heat-map, export; gamification | Your history is visible day by day |
 | **P7+** | Fill out V1 (templates, mesocycles, readiness, plate and warm-up calculators, Health Connect), then V2 (Wear OS, camera rep counter, laptop coach, capture studio) | — |
 
 The MVP is P0–P6.
@@ -124,4 +124,4 @@ Decided on Oct 4: platform, name, audience, repo, and animation look. See the to
 
 Decided on Oct 4, second round: the library covers **bodyweight, dumbbells and gym machines** (GoodLife / LA Fitness), plus **Pilates, kickboxing and cardio**. Floor work is on a yoga mat. Phase 0 and Phase 1 are done.
 
-Still open: your goal and days per week (needed by P3/P5), and a feature-list review.
+Phases 2–5 and most of 6 were built on Oct 5 (see BUILD_LOG). At first launch the app asks the goal, experience, days per week, session length, equipment, extras, areas to protect and the PAR-Q+ safety check. Still open from P6: the muscle heat-map (E4) and body metrics (E6). After that come the V1/V2 items.

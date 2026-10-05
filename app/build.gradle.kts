@@ -4,7 +4,11 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
+    alias(libs.plugins.kotlin.serialization)
+    alias(libs.plugins.ksp)
 }
+
+ksp { arg("room.schemaLocation", "$projectDir/schemas") }
 
 // Release signing: CI passes FG_* env vars (from GitHub secrets); locally we read
 // ~/.fitnessgym/keystore.properties. The keystore never lives in the repo.
@@ -26,7 +30,7 @@ android {
         minSdk = 28
         targetSdk = 36
         versionCode = 100 + buildNumber
-        versionName = "0.1.$buildNumber"
+        versionName = "0.2.$buildNumber"
     }
 
     // Exercises and motions live in the repo-root content/ folder, shared with the
@@ -58,12 +62,19 @@ android {
     buildFeatures { compose = true }
     // Our gate is the JVM content/engine tests; lintVital is slow on release builds.
     lint { checkReleaseBuilds = false }
+    // End-to-end UI + database tests run on the JVM with Robolectric (no emulator needed).
+    testOptions { unitTests { isIncludeAndroidResources = true; all { it.maxHeapSize = "3g" } } }
 }
 
 kotlin { jvmToolchain(17) }
 
 dependencies {
     implementation(project(":anim"))
+    implementation(project(":core"))
+    implementation(libs.androidx.room.runtime)
+    implementation(libs.androidx.room.ktx)
+    ksp(libs.androidx.room.compiler)
+    implementation(libs.kotlinx.coroutines.android)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.activity.compose)
     implementation(platform(libs.androidx.compose.bom))
@@ -75,4 +86,11 @@ dependencies {
     implementation(libs.kotlinx.serialization.json)
     debugImplementation(libs.androidx.compose.ui.tooling)
     testImplementation(libs.junit)
+    testImplementation(libs.robolectric)
+    testImplementation(libs.androidx.test.core)
+    testImplementation(libs.androidx.test.ext.junit)
+    testImplementation(libs.kotlinx.coroutines.test)
+    testImplementation(platform(libs.androidx.compose.bom))
+    testImplementation(libs.androidx.compose.ui.test.junit4)
+    debugImplementation(libs.androidx.compose.ui.test.manifest)
 }
